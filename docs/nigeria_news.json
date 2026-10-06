@@ -2,6 +2,41 @@
   "Diplomacy": [],
   "Military": [
     {
+      "title": "Defence Minister expresses deep sorrow over crash of NAF aircraft",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/defence-minister-expresses-deep-sorrow-over-crash-of-naf-aircraft/",
+      "published_date": "2026-10-05T22:36:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Military Aircraft Crash: Ondo governor orders emergency, logistics support",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/914786-military-aircraft-crash-ondo-governor-orders-emergency-logistics-support.html",
+      "published_date": "2026-10-05T22:11:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Military Aircraft Crash: Tinubu declares three-day mourning, says victims to be named",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/914783-military-aircraft-crash-tinubu-declares-three-day-mourning-says-victims-to-be-named.html",
+      "published_date": "2026-10-05T20:47:30+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Crash: Tinubu declares three-day mourning for Air Force personnel",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/crash-tinubu-declares-three-day-mourning-for-air-force-personnel/",
+      "published_date": "2026-10-05T20:36:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tinubu meets Defence Minister in Lagos, reviews counter terrorism operations",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/tinubu-meets-defence-minister-in-lagos-reviews-counter-terrorism-operations/",
+      "published_date": "2026-10-05T19:38:19+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Nigeria since 1999: When will the years begin to count?, By Dakuku Peterside",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/opinion/914701-nigeria-since-1999-when-will-the-years-begin-to-count-by-dakuku-peterside.html",
@@ -62,6 +97,13 @@
   ],
   "Economy": [
     {
+      "title": "Seven-Up Bottling Company advances community wellbeing",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/914755-seven-up-bottling-company-advances-community-wellbeing.html",
+      "published_date": "2026-10-05T18:57:18+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Teachers can’t teach effectively on empty stomach — ADC Campaign slams APC",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/teachers-cant-teach-effectively-on-empty-stomach-adc-campaign-slams-apc/",
@@ -92,143 +134,143 @@
   ],
   "Local Events": [
     {
+      "title": "World Teachers’ Day: Abiodun employs 7,000 teachers, commits N24b to education infrastructure",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/914784-world-teachers-day-abiodun-employs-7000-teachers-commits-n24b-to-education-infrastructure.html",
+      "published_date": "2026-10-05T22:15:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu arrives Abuja after Lagos engagements",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/tinubu-arrives-abuja-after-lagos-engagements/",
+      "published_date": "2026-10-05T20:54:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EFCC hands over N107m recovered from property fraud to Lagos victim",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/914780-efcc-hands-over-n107m-recovered-from-property-fraud-to-lagos-victim.html",
+      "published_date": "2026-10-05T20:32:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Presidential Fertiliser Initiative generates ₦61.58bn savings – FG",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/presidential-fertiliser-initiative-generates-%e2%82%a661-58bn-savings-fg/",
+      "published_date": "2026-10-05T20:21:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court affirms Gbenga Hashim as Accord Party presidential candidate",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/court-affirms-gbenga-hashim-as-accord-party-presidential-candidate/",
+      "published_date": "2026-10-05T20:16:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu returns to Abuja after five weeks",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/914778-tinubu-returns-to-abuja-after-five-weeks.html",
+      "published_date": "2026-10-05T19:53:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NPFL: Inter Lagos hit with ₦5 million fine, three-point deduction over officials’ assault",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/914774-npfl-inter-lagos-hit-with-%e2%82%a65-million-fine-three-point-deduction-over-officials-assault.html",
+      "published_date": "2026-10-05T19:37:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Olympic Qualifier: Oshoala, Plumptre pull out as Falcons begin preparations for Comoros clash",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/914753-olympic-qualifier-oshoala-plumptre-pull-out-as-falcons-begin-preparations-for-comoros-clash.html",
+      "published_date": "2026-10-05T19:26:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court reserves judgment in suit seeking Mark, Aregbesola’s removal",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/court-reserves-judgment-in-suit-seeking-mark-aregbesolas-removal/",
+      "published_date": "2026-10-05T19:21:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alleged drug deal: Court invites NDLEA chairman in Abba Kyari’s trial",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/alleged-drug-deal-court-invites-ndlea-chairman-in-abba-kyaris-trial/",
+      "published_date": "2026-10-05T19:17:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salary arrears: SSANU ‌‍⁠⁠‍⁠⁠‍‍‌‍⁠‍‌gives FG 14-day ultimatum, threatens indefinite strike",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/salary-arrears-ssanu-%e2%81%a0%e2%81%a0%e2%81%a0%e2%81%a0%e2%81%a0gives-fg-14-day-ultimatum-threatens-indefinite-stri/",
+      "published_date": "2026-10-05T19:09:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ACAMB @ 30: Communications professionals urged to embrace innovation, AI, data",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/914767-acamb-30-communications-professionals-urged-to-embrace-innovation-ai-data.html",
+      "published_date": "2026-10-05T19:05:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Abdulsalami-led Peace Committee cautions Tinubu, Atiku, Obi over inciting rhetoric",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-abdulsalami-led-peace-committee-cautions-tinubu-atiku-obi-over-inciting-rhetoric/",
+      "published_date": "2026-10-05T19:00:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Adeleke signs Osun park Management Bill into law amid opposition from APC",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/914750-adeleke-signs-osun-park-management-bill-into-law-amid-opposition-from-apc.html",
+      "published_date": "2026-10-05T18:44:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court grants reprieve to 214 students ejected from UNICAL’s Law faculty",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/914741-court-grants-reprieve-to-214-students-ejected-from-unicals-law-faculty.html",
+      "published_date": "2026-10-05T18:42:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Golden Eaglets target U17 AFCON ticket as Eboboritse names 25 players",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/914734-golden-eaglets-target-u17-afcon-ticket-as-eboboritse-names-25-players.html",
+      "published_date": "2026-10-05T18:21:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teachers’ Day: Ekiti govt recruits 5,530 teachers, gives ₦70.5 million to outstanding ones",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-west/914730-teachers-day-ekiti-govt-recruits-5530-teachers-gives-%e2%82%a670-5-million-to-outstanding-ones.html",
+      "published_date": "2026-10-05T18:13:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Taraba LG ‘subventions’ were diverted during Gov Ishaku’s tenure – Witness",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/914724-how-taraba-lg-subventions-were-diverted-during-gov-ishakus-tenure-witness.html",
+      "published_date": "2026-10-05T18:04:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos commissioner’s ₦212 million watches spark questions amid flooding row",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/914714-lagos-commissioners-%e2%82%a6212-million-watches-spark-questions-amid-flooding-row.html",
+      "published_date": "2026-10-05T17:46:48+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Niger miners’ deaths: We ‘ll hunt down culprits – Shettima vows",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/niger-miners-deaths-we-ll-hunt-down-culprits-shettima-vows/",
       "published_date": "2026-10-05T17:05:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinubu returns to Abuja",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/tinubu-returns-to-abuja-3/",
-      "published_date": "2026-10-05T16:58:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JUST IN: Nigerian Aircraft Crash: All 32 passengers, crew believed dead, Tinubu mourns",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/914697-just-in-nigerian-aircraft-crash-all-32-passengers-crew-believed-dead-tinubu-mourns.html",
-      "published_date": "2026-10-05T16:49:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ibom Air, Etihad sign deal to connect five Nigerian cities to global network",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/914692-ibom-air-etihad-sign-deal-to-connect-five-nigerian-cities-to-global-network.html",
-      "published_date": "2026-10-05T16:44:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Fight real men’, ex-BBNaija star Mike Edwards wants bout with Carter Efe",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/fight-real-men-ex-bbnaija-star-mike-edwards-wants-bout-with-carter-efe/",
-      "published_date": "2026-10-05T16:28:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2026 Agreement: SSANU gives FG 14-day ultimatum to pay arrears",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2026-agreement-ssanu-gives-fg-14-day-ultimatum-to-pay-arrears/",
-      "published_date": "2026-10-05T16:19:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘I sponsored my wife, 4 children to Canada in 2014; she blocked me on arrival’ — Nigerian man",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/i-sponsored-my-wife-four-children-to-canada-she-blocked-me-on-arrival-nigerian-man-cries-out/",
-      "published_date": "2026-10-05T16:18:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fortune Okeke: Bridging the Gap Between Hospitality Businesses and Booking Agents",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/fortune-okeke-bridging-the-gap-between-hospitality-businesses-and-booking-agents/",
-      "published_date": "2026-10-05T16:14:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kano police invite Warkal over firearm video",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/kano-police-invite-warkal-over-firearm-video/",
-      "published_date": "2026-10-05T16:13:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: APC may lose Zamfara — Prof Abubakar",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-apc-may-lose-zamfara-prof-abubakar/",
-      "published_date": "2026-10-05T16:01:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "JAMB to conduct UTME in Canada from 2027",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/jamb-to-conduct-utme-in-canada-from-2027/",
-      "published_date": "2026-10-05T16:01:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I don’t have to speak perfect Yoruba to preserve Lagos culture  -  Rhodes-Vivour",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/i-dont-have-to-speak-perfect-yoruba-to-preserve-lagos-culture-rhodes-vivour/",
-      "published_date": "2026-10-05T15:59:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sokoto health college denies report of 18 students’ abduction en route to Oyo",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/914675-sokoto-health-college-denies-report-of-18-students-abduction-en-route-to-oyo.html",
-      "published_date": "2026-10-05T15:59:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Kano politician in soup over alleged display of firearm at rally",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/nwest/914673-2027-kano-politician-in-soup-over-alleged-display-of-firearm-at-rally.html",
-      "published_date": "2026-10-05T15:47:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: INEC sets date for PVC collection",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/914671-2027-inec-sets-date-for-pvc-collection.html",
-      "published_date": "2026-10-05T15:38:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Int’l Friendly: Nigeria’s Sand Eagles lose again to Senegal",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/914664-intl-friendly-nigerias-sand-eagles-lose-again-to-senegal.html",
-      "published_date": "2026-10-05T15:24:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UPDATED: Nigeria’s registered voters rise to 103 million – INEC",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/914660-updated-nigerias-registered-voters-rise-to-103-million-inec.html",
-      "published_date": "2026-10-05T15:16:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BNXN’s 16 is quiet reflection on the cost of success",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/music/914654-bnxns-16-is-quiet-reflection-on-the-cost-of-success.html",
-      "published_date": "2026-10-05T15:02:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Our president is ready to kick, ready to work, By Festus Adedayo",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/914621-our-president-is-ready-to-kick-ready-to-work-by-festus-adedayo.html",
-      "published_date": "2026-10-05T14:25:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zamfara govt approves contract for 53km Gusau-Jauri-Dogon-Kade-Nasarawar Mailayi-Nasarawar Godel road",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/914634-zamfara-govt-approves-contract-for-53km-gusau-jauri-dogon-kade-nasarawar-mailayi-nasarawar-godel-road.html",
-      "published_date": "2026-10-05T14:09:35+00:00",
       "category": "Local Events"
     }
   ]
