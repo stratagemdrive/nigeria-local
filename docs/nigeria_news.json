@@ -2,6 +2,27 @@
   "Diplomacy": [],
   "Military": [
     {
+      "title": "Ondo Crash: ADC questions NAF aircraft maintenance funding",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/ondo-crash-adc-questions-naf-aircraft-maintenance-funding/",
+      "published_date": "2026-10-06T21:00:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Otti mourns Abia-born Squadron Leader Man-Ugwueje, commiserates with FG over plane crash",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/915102-otti-mourns-abia-born-squadron-leader-man-ugwueje-commiserates-with-fg-over-plane-crash.html",
+      "published_date": "2026-10-06T20:08:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Military Aircraft Crash: Ondo govt explains difficulty in rescue operation, recovering victims’ bodies",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/915046-military-aircraft-crash-ondo-govt-explains-difficulty-in-rescue-operation-recovering-victims-bodies.html",
+      "published_date": "2026-10-06T17:15:29+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Nigeria Air Force crashes timeline",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/nigeria-air-force-crashes-timeline/",
@@ -116,6 +137,13 @@
   ],
   "Energy": [
     {
+      "title": "Nigeria has reduced reliance on oil revenue – Tinubu",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/915100-nigeria-has-reduced-reliance-on-oil-revenue-tinubu.html",
+      "published_date": "2026-10-06T19:53:01+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "NUPRC approves $47.6bn oil, gas projects",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/nuprc-approves-47-6bn-oil-gas-projects/",
@@ -152,6 +180,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "AI could reduce poverty, but poor Africans risk being left behind – World Bank",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/915059-ai-could-reduce-poverty-but-poor-africans-risk-being-left-behind-world-bank.html",
+      "published_date": "2026-10-06T17:53:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ex-Taraba Gov Ishaku administration’s officials used my bank accounts to receive, disburse funds – Witness",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/915049-ex-taraba-gov-ishaku-administrations-officials-used-my-bank-accounts-to-receive-disburse-funds-witness.html",
+      "published_date": "2026-10-06T17:21:25+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Reforms: Nigeria on path to sustainable economic growth — CBN",
       "source": "Vanguard",
@@ -211,6 +253,111 @@
   ],
   "Local Events": [
     {
+      "title": "Ralph Obioha: Life of a man who lost much, fought on, and left his mark on Nigeria",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/ralph-obioha-life-of-a-man-who-lost-much-fought-on-and-left-his-mark-on-nigeria/",
+      "published_date": "2026-10-07T01:22:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos to deepen creative industry support — Hamzat",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/lagos-to-deepen-creative-industry-support-hamzat/",
+      "published_date": "2026-10-07T00:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NSITF exposes fake recruitment scam, cautions Nigerians against fraudsters",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/nsitf-exposes-fake-recruitment-scam-cautions-nigerians-against-fraudsters/",
+      "published_date": "2026-10-07T00:35:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police arrest suspected kidnappers who collected ₦10.3 million ransom",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/915112-police-arrest-suspected-kidnappers-who-collected-%e2%82%a610-3-million-ransom.html",
+      "published_date": "2026-10-06T21:13:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PNC 2026: NCDMB, DMG affirm collaboration with Bayelsa govt, unveil new activities",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/915108-pnc-2026-ncdmb-dmg-affirm-collaboration-with-bayelsa-govt-unveil-new-activities.html",
+      "published_date": "2026-10-06T21:01:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "N100bn Audit Query: Reps give FCT area councils seven-day final ultimatum",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/n100bn-audit-query-reps-give-fct-area-councils-seven-day-final-ultimatum/",
+      "published_date": "2026-10-06T19:33:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NSITF exposes fake recruitment scam, cautions Nigerians against fraudsters",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/nsitf-exposes-fake-recruitment-scam-cautions-nigerians-against-fraudsters-2/",
+      "published_date": "2026-10-06T19:19:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What I’ll do with my ₦90m cash prize — BBNaija season 11 winner Temi Nkem",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/915091-what-ill-do-with-my-%e2%82%a690m-cash-prize-bbnaija-season-11-winner-temi-nkem.html",
+      "published_date": "2026-10-06T19:05:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Russia 3-3 Nigeria: Late Akor Adams goal rescues Super Eagles",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/915088-russia-3-3-nigeria-late-akor-adams-goal-rescues-super-eagles.html",
+      "published_date": "2026-10-06T18:57:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kenya confirms first imported Ebola case linked to DRC outbreak",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/915084-kenya-confirms-first-imported-ebola-case-linked-to-drc-outbreak.html",
+      "published_date": "2026-10-06T18:53:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police commissioner in Bayelsa orders crackdown on cult groups",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/915083-police-commissioner-in-bayelsa-orders-crackdown-on-cult-groups.html",
+      "published_date": "2026-10-06T18:52:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Akwa Ibom approves N50,000 ‘wardrobe allowance’ for 20,000 teachers",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-east/915074-akwa-ibom-approves-n50000-wardrobe-allowance-for-20000-teachers.html",
+      "published_date": "2026-10-06T18:22:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PBAT Door-to-Door Movement mourns officers in crash, suspends campaign activities",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/915067-pbat-door-to-door-movement-mourns-officers-in-crash-suspends-campaign-activities.html",
+      "published_date": "2026-10-06T18:14:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is really a professor? The Kila case and the cost of unverified titles, By Sunday Ogunlana",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/915033-who-is-really-a-professor-the-kila-case-and-the-cost-of-unverified-titles-by-sunday-ogunlana.html",
+      "published_date": "2026-10-06T18:13:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fake Professorship: Michael and Cecilia Ibru University suspends Anthony Kila",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/915063-fake-professorship-michael-and-cecilia-ibru-university-suspends-anthony-kila.html",
+      "published_date": "2026-10-06T18:07:17+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "INEC finally uploads NDC logo after court order",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/news/top-news/915034-inec-finally-uploads-ndc-logo-after-court-order.html",
@@ -243,111 +390,6 @@
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/vote-for-ndc-is-vote-to-kill-apga-opara/",
       "published_date": "2026-10-06T16:08:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Umahi To South-East: Don’t live in denial, appreciate Tinubu",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/umahi-to-south-east-dont-live-in-denial-appreciate-tinubu/",
-      "published_date": "2026-10-06T16:05:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: APC warns members against anti-party activities",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-apc-warns-members-against-anti-party-activities/",
-      "published_date": "2026-10-06T16:04:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rivers 2027: Why I withdrew Supreme Court case against Fubara — Dumo",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/rivers-2027-why-i-withdrew-supreme-court-case-against-fubara-dumo/",
-      "published_date": "2026-10-06T16:01:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Russia vs Nigeria LIVE UPDATES: Super Eagles seek redemption in Nizhny Novgorod",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/915008-russia-vs-nigeria-live-updates-super-eagles-seek-redemption-in-nizhny-novgorod.html",
-      "published_date": "2026-10-06T15:54:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of schools shut down as France’s student protest intensifies",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/foreign/915006-hundreds-of-schools-shut-down-as-frances-student-protest-intensifies.html",
-      "published_date": "2026-10-06T15:50:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA knew DR Congo used ineligible goalkeeper against Nigeria, report reveals",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/headlines/915000-fifa-knew-dr-congo-used-ineligible-goalkeeper-against-nigeria-report-reveals.html",
-      "published_date": "2026-10-06T15:41:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBNaija Season 11: Temi Nkem receives N90 million, Hyundai SUV, other prizes",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/914995-bbnaija-season-11-temi-nkem-receives-n90-million-hyundai-suv-other-prizes.html",
-      "published_date": "2026-10-06T15:21:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Religious leaders applaud Uba Sani’s inclusive governance",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/914968-religious-leaders-applaud-uba-sanis-inclusive-governance.html",
-      "published_date": "2026-10-06T14:26:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinubu’s return: An update, By Reuben Abati",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/914971-tinubus-return-an-update-by-reuben-abati.html",
-      "published_date": "2026-10-06T14:03:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigerian university hikes fees, students to pay up to N290,000",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/914966-nigerian-university-hikes-fees-students-to-pay-up-to-n290000.html",
-      "published_date": "2026-10-06T13:54:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Soludo orders end to hostilities in deadly inter-communal clash",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/914954-soludo-orders-end-to-hostilities-in-deadly-inter-communal-clash.html",
-      "published_date": "2026-10-06T13:49:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What the eye can tell us about Nigeria’s health, By Loveth Okorie",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/914922-what-the-eye-can-tell-us-about-nigerias-health-by-loveth-okorie.html",
-      "published_date": "2026-10-06T13:40:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Reps ⁠ask INEC to disqualify candidates not in submitted party registers",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/914949-2027-reps-%e2%81%a0%e2%81%a0%e2%81%a0ask-inec-to-disqualify-cand.html",
-      "published_date": "2026-10-06T13:40:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gov Lawal joins FG’s delegation for Nigeria -Ethiopia leadership exchange in Addis Ababa",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/914948-gov-lawal-joins-fgs-delegation-for-nigeria-ethiopia-leadership-exchange-in-addis-ababa.html",
-      "published_date": "2026-10-06T13:35:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Teachers’ Day: Abiodun employs 7,000 teachers, commits N24b to education infrastructure",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/914784-world-teachers-day-abiodun-employs-7000-teachers-commits-n24b-to-education-infrastructure.html",
-      "published_date": "2026-10-05T22:15:41+00:00",
       "category": "Local Events"
     }
   ]
