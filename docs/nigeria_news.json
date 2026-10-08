@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "Mental health experts demand urgent action on Nigeria’s youth crisis",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/mental-health-experts-demand-urgent-action-on-nigerias-youth-crisis/",
+      "published_date": "2026-10-07T23:30:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NES#32: FG to assess what’s working in Nigeria’s economy",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/nes32-fg-to-assess-whats-working-in-nigerias-economy/",
+      "published_date": "2026-10-07T19:54:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oke presents letter of credence to Macron, assumes duty as Nigeria’s envoy to France",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/foreign/world-foreign/915289-oke-presents-letter-of-credence-to-macron-assumes-duty-as-nigerias-envoy-to-france.html",
+      "published_date": "2026-10-07T17:40:13+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "African groups seek international tribunal for corporate abuses in Niger Delta",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/regional/south-south-regional/915246-african-groups-seek-international-tribunal-for-corporate-abuses-in-niger-delta.html",
@@ -9,6 +30,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Cardiologist warns military personnel of hypertension, heart disease risks",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/915313-cardiologist-warns-military-personnel-of-hypertension-heart-disease-risks.html",
+      "published_date": "2026-10-07T19:12:51+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "NAF crash: ‘You didn’t say you wouldn’t return from Abuja’ — Bako’s partner",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/naf-aircraft-crash-you-told-me-you-are-going-to-abuja-and-didnt-mention-you-wont-come-back-bakos-partner/",
+      "published_date": "2026-10-07T18:58:26+00:00",
+      "category": "Military"
+    },
     {
       "title": "(Photos) NAF plane crash: 72 hours after, main wreckage yet to be recovered in Ondo",
       "source": "Vanguard",
@@ -134,23 +169,16 @@
       "url": "https://www.vanguardngr.com/2026/10/tinubu-mourns-naf-personnel-in-ondo-jet-crash-orders-thorough-investigation/",
       "published_date": "2026-10-05T16:51:04+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Security forces kill ISWAP commander in Ondo forest",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/914688-security-forces-kill-iswap-commander-in-ondo-forest.html",
-      "published_date": "2026-10-05T16:36:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Miners’ deaths: Shettima announces N250m for families",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/miners-deaths-shettima-announces-n250m-for-families/",
-      "published_date": "2026-10-05T16:32:59+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "AEDC expands digital channels for customer services",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/aedc-expands-digital-channels-for-customer-services/",
+      "published_date": "2026-10-08T00:03:00+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Nigeria has reduced reliance on oil revenue – Tinubu",
       "source": "Premium Times",
@@ -195,6 +223,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Nnaji advocates increased funding for education",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/nnaji-advocates-increased-funding-for-education/",
+      "published_date": "2026-10-08T00:05:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Economic expert seeks redesign of FG’s cash transfer programme",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/915352-economic-expert-seeks-redesign-of-fgs-cash-transfer-programme.html",
+      "published_date": "2026-10-07T22:45:08+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Tinubu imports food, abandons farmers — Atiku",
       "source": "Vanguard",
@@ -310,9 +352,107 @@
   ],
   "Local Events": [
     {
+      "title": "2027 Hajj: Sokoto PWA seeks state passport offices",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-hajj-sokoto-pwa-seeks-state-passport-offices/",
+      "published_date": "2026-10-08T00:48:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poor record-keeping caused confusion over NAF crash manifest – Ex-SSS director",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/915348-poor-record-keeping-caused-confusion-over-naf-crash-manifest-ex-sss-director.html",
+      "published_date": "2026-10-07T22:16:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Plane Crash: Aiyedatiwa visits site, says aircraft’s main body yet to surface, human parts recovered",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/915338-plane-crash-aiyedatiwa-visits-site-says-aircrafts-main-body-yet-to-surface-human-parts-recovered.html",
+      "published_date": "2026-10-07T21:55:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027 Polls: ‘84% intend to vote, but only 41% committed’ – Yiaga survey",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/915335-2027-polls-84-intend-to-vote-but-only-41-committed-yiaga-survey.html",
+      "published_date": "2026-10-07T21:39:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Presidency admits more Nigerians fell into poverty under Tinubu",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/presidency-admits-more-nigerians-fell-into-poverty-under-tinubu/",
+      "published_date": "2026-10-07T20:39:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afrilition and the prophesy of an African renaissance, By Adéwálé Àjàdì",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/915319-afrilition-and-the-prophesy-of-an-african-rennaisance-by-adewale-ajadi.html",
+      "published_date": "2026-10-07T20:13:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CJN charges judges to uphold integrity matching beauty of new industrial court’s headquarters",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/915322-cjn-charges-judges-to-uphold-integrity-matching-beauty-of-new-industrial-courts-headquarters.html",
+      "published_date": "2026-10-07T19:56:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Whose archive, whose history? Reclaiming the African past, By Toyin Falola",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/915302-whose-archive-whose-history-reclaiming-the-african-past-by-toyin-falola.html",
+      "published_date": "2026-10-07T19:30:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Tinubu’s win gap over opponents will be unbelievable — Bwala",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-tinubus-win-gap-over-opponents-will-be-unbelievable-bwala/",
+      "published_date": "2026-10-07T19:14:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump administration proposes $70,000 fee for Nigerian, other foreign students seeking US jobs",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/trump-administration-proposes-70000-fee-for-nigerian-other-foreign-students-seeking-us-jobs/",
+      "published_date": "2026-10-07T18:53:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funke Akindele, Tunde Olaoye top box-office chart with ₦1.32 billion",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/nollywood/915305-funke-akindele-tunde-olaoye-top-box-office-chart-with-%e2%82%a61-32-billion.html",
+      "published_date": "2026-10-07T18:44:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abducted NYSC members freed after one week",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-east/915297-breaking-abducted-nysc-members-freed-after-one-week.html",
+      "published_date": "2026-10-07T18:05:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Duke vows to reduce petrol price to ₦300 per litre if elected president",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/915294-2027-duke-vows-to-reduce-petrol-price-to-%e2%82%a6300-per-litre-if-elected-president.html",
+      "published_date": "2026-10-07T18:00:53+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Health Review: Ebola alert, Lassa fever deaths, maternal health push, other developments that shaped September",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/news/915287-health-review-ebola-alert-lassa-fever-deaths-maternal-health-push-other-developments-that-shaped-september.html",
+      "published_date": "2026-10-07T17:33:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Health Review: Ebola alert, Lassa fever deaths, maternal health push, other developments that shaped September",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-interviews/915287-health-review-ebola-alert-lassa-fever-deaths-maternal-health-push-other-developments-that-shaped-september.html",
       "published_date": "2026-10-07T17:33:09+00:00",
       "category": "Local Events"
     },
@@ -349,104 +489,6 @@
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/915275-nbbf-releases-guidelines-timelines-for-elective-congress.html",
       "published_date": "2026-10-07T16:52:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Super Eagles drop four places to 30th in latest FIFA rankings",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/super-eagles-drop-four-places-to-30th-in-latest-fifa-rankings/",
-      "published_date": "2026-10-07T16:42:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NYSC silence over abducted Oyo corps members insensitive — Retired Perm Sec",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/nysc-silence-over-abducted-oyo-corps-members-insensitive-retired-perm-sec/",
-      "published_date": "2026-10-07T16:18:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027 election cases: Your conduct will be monitored, CJN warns tribunal judges",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-election-cases-your-conduct-will-be-monitored-cjn-warns-tribunal-judges/",
-      "published_date": "2026-10-07T15:41:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDC faults Zamfara governor’s Ethiopia trip after deadly attack",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/nwest/915264-ndc-faults-zamfara-governors-ethiopia-trip-after-deadly-attack.html",
-      "published_date": "2026-10-07T15:08:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FCT police arrest woman over newborn’s death",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/fct-police-arrest-woman-over-newborns-death/",
-      "published_date": "2026-10-07T15:06:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Candidates disqualification: Ubani questions House panel’s directive to INEC",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/candidates-disqualification-ubani-questions-house-panels-directive-to-inec/",
-      "published_date": "2026-10-07T14:54:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Edo varsity lecturer dies after hotel encounter with sex worker",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/915253-edo-varsity-lecturer-dies-after-hotel-encounter-with-sex-worker.html",
-      "published_date": "2026-10-07T14:25:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Anthony Kila affair: How fake titles captured a university and what it says about Nigeria, By Austin Aigbe",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/915228-the-anthony-kila-affair-how-fake-titles-captured-a-university-and-what-it-says-about-nigeria-by-austin-aigbe.html",
-      "published_date": "2026-10-07T14:21:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Plateau develops five-year plan as HIV donor funding declines",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/health/health-news/915242-plateau-develops-five-year-plan-as-hiv-donor-funding-declines.html",
-      "published_date": "2026-10-07T13:52:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Governor’s critic transferred to prison after SSS arraignment",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/915239-governors-critic-transferred-to-prison-after-sss-arraignment.html",
-      "published_date": "2026-10-07T13:47:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: INEC’s major challenge is procurement transparency, not funding – PLAC",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/915237-2027-inecs-major-challenge-is-procurement-transparency-not-funding-plac.html",
-      "published_date": "2026-10-07T13:43:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court remands man who filmed attack on NDC members",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/915232-court-remands-man-who-filmed-attack-on-ndc-members.html",
-      "published_date": "2026-10-07T13:35:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ralph Obioha: Life of a man who lost much, fought on, and left his mark on Nigeria",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/ralph-obioha-life-of-a-man-who-lost-much-fought-on-and-left-his-mark-on-nigeria/",
-      "published_date": "2026-10-07T01:22:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos to deepen creative industry support — Hamzat",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/lagos-to-deepen-creative-industry-support-hamzat/",
-      "published_date": "2026-10-07T00:41:00+00:00",
       "category": "Local Events"
     }
   ]
