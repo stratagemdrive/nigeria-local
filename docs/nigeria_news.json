@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Mental health: Nigeria’s action gap comes under scrutiny",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/mental-health-nigerias-action-gap-comes-under-scrutiny/",
+      "published_date": "2026-10-09T00:16:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Mental health experts demand urgent action on Nigeria’s youth crisis",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/mental-health-experts-demand-urgent-action-on-nigerias-youth-crisis/",
@@ -30,6 +37,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Similarities between Benin and Opobo, By Eric Teniola",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/915540-similarities-between-benin-and-opobo-by-eric-teniola.html",
+      "published_date": "2026-10-08T19:53:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Military Plane Crash: Air Chief sets up probe panel, assures adequate support for bereaved families",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-west/915520-military-plane-crash-air-chief-sets-up-probe-panel-assures-adequate-support-for-bereaved-families.html",
+      "published_date": "2026-10-08T17:59:13+00:00",
+      "category": "Military"
+    },
     {
       "title": "Customs seize three live pangolins in suspected wildlife-trafficking operation in Ogun",
       "source": "Premium Times",
@@ -155,23 +176,37 @@
       "url": "https://www.premiumtimesng.com/news/top-news/914783-military-aircraft-crash-tinubu-declares-three-day-mourning-says-victims-to-be-named.html",
       "published_date": "2026-10-05T20:47:30+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Crash: Tinubu declares three-day mourning for Air Force personnel",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/crash-tinubu-declares-three-day-mourning-for-air-force-personnel/",
-      "published_date": "2026-10-05T20:36:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tinubu meets Defence Minister in Lagos, reviews counter terrorism operations",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/tinubu-meets-defence-minister-in-lagos-reviews-counter-terrorism-operations/",
-      "published_date": "2026-10-05T19:38:19+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "AELEX plays key role in Dangote Refinery’s $1.5bn IPO",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/aelex-plays-key-role-in-dangote-refinerys-1-5bn-ipo/",
+      "published_date": "2026-10-08T23:46:00+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "NNPC discount measure for petrol pump price has Tinubu’s backing – Presidency",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/nnpc-discount-measure-for-petrol-pump-price-has-tinubus-backing-presidency/",
+      "published_date": "2026-10-08T20:05:23+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Abiodun approves J4-Gao Road, sets November for Deep Sea port ground breaking",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/915546-abiodun-approves-j4-gao-road-sets-november-for-deep-sea-port-ground-breaking.html",
+      "published_date": "2026-10-08T19:52:46+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fuel subsidy would cost Nigeria over N20trn yearly — Minister",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/915535-fuel-subsidy-would-cost-nigeria-over-n20trn-yearly-minister.html",
+      "published_date": "2026-10-08T19:46:06+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Fuel subsidy return could push petrol to ₦2,000/litre — Oyedele",
       "source": "Vanguard",
@@ -244,6 +279,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "El-Rufai fails to get order stopping ICPC, EFCC from freezing accounts",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/el-rufai-fails-to-get-order-stopping-icpc-efcc-from-freezing-accounts/",
+      "published_date": "2026-10-08T21:51:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Leadership and storytelling in election season, By Azu Ishiekwene",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/915527-leadership-and-storytelling-in-election-season-by-azu-ishiekwene.html",
+      "published_date": "2026-10-08T18:56:00+00:00",
+      "category": "Economy"
+    },
     {
       "title": "NANS backs EFCC operations in Akure",
       "source": "Vanguard",
@@ -369,23 +418,128 @@
       "url": "https://www.vanguardngr.com/2026/10/nigerias-industrial-hub-ambition-hinges-on-competitive-operating-environment-man/",
       "published_date": "2026-10-05T16:34:30+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Nigeria climbs four places in Bloomberg ranking",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/nigeria-climbs-four-places-in-bloomberg-ranking/",
-      "published_date": "2026-10-05T16:18:40+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Zenith, Fidson, NEM top stock pick this week",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/914629-zenith-fidson-nem-top-stock-pick-this-week.html",
-      "published_date": "2026-10-05T14:01:50+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "World Sight Day: FG activates 1,400 PHCs for eye care",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/world-sight-day-fg-activates-1400-phcs-for-eye-care/",
+      "published_date": "2026-10-09T00:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ogun pensioners demand gratuities, pension increases",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/ogun-pensioners-demand-gratuities-pension-increases/",
+      "published_date": "2026-10-09T00:29:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shun professional misconduct, MDCN tells new doctors",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/shun-professional-misconduct-mdcn-tells-new-doctors/",
+      "published_date": "2026-10-09T00:15:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "APC campaign organisation alleges attacks in Oyo",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/apc-campaign-organisation-alleges-attacks-in-oyo/",
+      "published_date": "2026-10-09T00:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "HIV status not food safety risk, LSACA tells food sector stakeholder",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/hiv-status-not-food-safety-risk-lsaca-tells-food-sector-stakeholder/",
+      "published_date": "2026-10-08T23:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos 2027: Doherty unveils 34-point manifesto, Animashaun as running mate",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/lagos-2027-doherty-unveils-34-point-manifesto-animashaun-as-running-mate/",
+      "published_date": "2026-10-08T23:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Only a madman will vote for Tinubu in 2027 — Amaechi",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/only-a-madman-will-vote-for-tinubu-in-2027-amaechi/",
+      "published_date": "2026-10-08T22:18:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reps warn participating institutions against manipulating NELFUND loans",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/915562-reps-warn-participating-institutions-against-manipulating-nelfund-loans.html",
+      "published_date": "2026-10-08T22:01:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Enugu Conference: NGE denies partisanship, urges Nation Newspaper to apologise",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/enugu-conference-nge-denies-partisanship-urges-nation-newspaper-to-apologise/",
+      "published_date": "2026-10-08T21:14:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu mourns communications scholar Idowu Sobowale",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/tinubu-mourns-communications-scholar-idowu-sobowale/",
+      "published_date": "2026-10-08T20:31:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oyebanji presents N490.74bn budget proposal for 2027 to Ekiti assembly",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/915550-oyebanji-presents-n490-74bn-budget-proposal-for-2027-to-ekiti-assembly.html",
+      "published_date": "2026-10-08T20:14:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nationwide PVC collection begins Friday as voter register hits 103 million – INEC",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/headlines/915551-nationwide-pvc-collection-begins-friday-as-voter-register-hits-103-million-inec.html",
+      "published_date": "2026-10-08T20:12:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDIC pays N1.48bn to 10,312 depositors of 47 closed MFBs",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/ndic-pays-n1-48bn-to-10312-depositors-of-47-closed-mfbs/",
+      "published_date": "2026-10-08T19:56:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NSC reshuffles sports federations’ secretaries",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/915545-nsc-reshuffles-sports-federations-secretaries.html",
+      "published_date": "2026-10-08T19:46:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "OK Movement makes U-turn on campaign council, blames APC for crisis",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/915536-ok-movement-makes-u-turn-on-campaign-council-blames-apc-for-crisis.html",
+      "published_date": "2026-10-08T19:35:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police in Akwa Ibom arrest two over alleged machete attacks, robberies",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/915537-police-in-akwa-ibom-arrest-two-over-alleged-machete-attacks-robberies.html",
+      "published_date": "2026-10-08T19:35:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Everyone has a plan for Africa; but does Africa have the conviction to drive its own? (1), By Dipo Baruwa",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/915531-everyone-has-a-plan-for-africa-but-does-africa-have-the-conviction-to-drive-its-own-1-by-dipo-baruwa.html",
+      "published_date": "2026-10-08T19:23:41+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Nigerian man, Chimaobim arrested after caught with pants off, exposing self in public in US",
       "source": "Vanguard",
@@ -405,125 +559,6 @@
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/entertainment/music/915463-nigerian-photographer-bolaji-alonges-photos-featured-in-new-fela-kuti-zombie-vinyl.html",
       "published_date": "2026-10-08T17:29:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NLC draws battle line with FG, gives 14-day ultimatum on petrol, wages",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/nlc-draws-battle-line-with-fg-gives-14-day-ultimatum-on-petrol-wages/",
-      "published_date": "2026-10-08T17:15:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos records 1,324 fire, building-collapse, other emergency incidents in nine months",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-west/915509-lagos-records-1324-fire-building-collapse-other-emergency-incidents-in-nine-months.html",
-      "published_date": "2026-10-08T16:52:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Umahi lists completed roads, bridges under Tinubu",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/umahi-lists-completed-roads-bridges-under-tinubu/",
-      "published_date": "2026-10-08T16:46:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "State Police: Nigeria needs 554,353 personnel — Abiodun",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/state-police-nigeria-needs-554353-personnel-abiodun/",
-      "published_date": "2026-10-08T16:44:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: APC North Central plans mega rally for Tinubu, Shettima",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-apc-north-central-plans-mega-rally-for-tinubu-shettima/",
-      "published_date": "2026-10-08T16:36:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court reserves ruling on Taraba APC chairmanship primary dispute",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/nnorth-east/915502-court-reserves-ruling-on-taraba-apc-chairmanship-primary-dispute.html",
-      "published_date": "2026-10-08T16:34:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why I keep studying despite my football career – Taiwo Awoniyi",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/why-i-keep-studying-despite-my-football-career-taiwo-awoniyi/",
-      "published_date": "2026-10-08T16:31:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Outrage over video showing FRSC officers allegedly beating motorist in Nasarawa",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/north-central/915499-outrage-over-video-showing-frsc-officers-allegedly-beating-motorist-in-nasarawa.html",
-      "published_date": "2026-10-08T16:29:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigerian govt to set up funding agency to boost research, innovation",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-east/915492-nigerian-govt-to-set-up-funding-agency-to-boost-research-innovation.html",
-      "published_date": "2026-10-08T16:17:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court Judgement: Parties that violate membership register rule won’t field candidates  – INEC",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/headlines/915490-supreme-court-judgement-parties-that-violate-membership-register-rule-wont-field-candidates-inec.html",
-      "published_date": "2026-10-08T16:11:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NPFL: Sporting Lagos Coach Buter fined N.5m over referee comments after Ikorodu City Derby",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/football/915486-npfl-sporting-lagos-coach-buter-fined-n-5m-over-referee-comments-after-ikorodu-city-derby.html",
-      "published_date": "2026-10-08T16:05:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "﻿9.5m children received no routine vaccine in 57 countries in 2025 – Gavi",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/health/health-news/915484-9-5m-children-received-no-routine-vaccine-in-57-countries-in-2025-gavi.html",
-      "published_date": "2026-10-08T16:01:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Street Rumble 2: Ani, Olowu set for long-awaited Ajegunle showdown",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/915480-street-rumble-2-ani-olowu-set-for-long-awaited-ajegunle-showdown.html",
-      "published_date": "2026-10-08T15:48:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We all need support, By Yemi Adetayo",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/915474-we-all-need-support-by-yemi-adetayo.html",
-      "published_date": "2026-10-08T14:54:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lakurawa terrorists kill two security officers, foreign workers in Kebbi – Police",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/915471-lakurawa-terrorists-kill-two-security-officers-foreign-workers-in-kebbi-police.html",
-      "published_date": "2026-10-08T14:33:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027 Hajj: Sokoto PWA seeks state passport offices",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-hajj-sokoto-pwa-seeks-state-passport-offices/",
-      "published_date": "2026-10-08T00:48:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Poor record-keeping caused confusion over NAF crash manifest – Ex-SSS director",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/915348-poor-record-keeping-caused-confusion-over-naf-crash-manifest-ex-sss-director.html",
-      "published_date": "2026-10-07T22:16:30+00:00",
       "category": "Local Events"
     }
   ]
