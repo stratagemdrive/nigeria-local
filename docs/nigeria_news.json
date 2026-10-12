@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Vanguard summit: Mental health neglect threatens Nigeria’s stability – Sheikh",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/vanguard-summit-mental-health-neglect-threatens-nigerias-stability-sheikh-2/",
+      "published_date": "2026-10-11T23:21:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "GFN signs deal with Turkey to train Nigerian gymnastics coaches, judges",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/915942-gfn-signs-deal-with-turkey-to-train-nigerian-gymnastics-coaches-judges.html",
@@ -51,6 +58,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "CDS orders extension of aerial intelligence to troubled North-west, North-central theatres",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/916224-cds-orders-extension-of-aerial-intelligence-to-troubled-north-west-north-central-theatres.html",
+      "published_date": "2026-10-11T20:36:36+00:00",
+      "category": "Military"
+    },
     {
       "title": "Police foil plot to kidnap Abuja prophetess, arrest 4 suspects",
       "source": "Vanguard",
@@ -183,16 +197,16 @@
       "url": "https://www.vanguardngr.com/2026/10/ondo-deploys-swamp-buggies-to-recover-naf-jet/",
       "published_date": "2026-10-06T16:53:22+00:00",
       "category": "Military"
-    },
-    {
-      "title": "PDP demands transparent, independent probe into NAF aircraft crash",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/pdp-demands-transparent-independent-probe-into-naf-aircraft-crash/",
-      "published_date": "2026-10-06T16:38:30+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Petrol: Marketers hike pump price in Abuja, Lagos by N29/litre",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/petrol-marketers-hike-pump-price-in-abuja-lagos-by-n29-litre/",
+      "published_date": "2026-10-11T18:43:16+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Energy Crisis: Unions demand relief for workers",
       "source": "Vanguard",
@@ -325,16 +339,16 @@
       "url": "https://www.vanguardngr.com/2026/10/aedc-expands-digital-channels-for-customer-services/",
       "published_date": "2026-10-08T00:03:00+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Nigeria has reduced reliance on oil revenue – Tinubu",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/915100-nigeria-has-reduced-reliance-on-oil-revenue-tinubu.html",
-      "published_date": "2026-10-06T19:53:01+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Peter Obi faults Tinubu’s 30-day petrol discount, calls policy reactive",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/peter-obi-faults-tinubus-30-day-petrol-discount-calls-policy-reactive/",
+      "published_date": "2026-10-11T20:32:21+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Ogun East’s economic transformation will boost Nigeria’s growth – Abiodun",
       "source": "Premium Times",
@@ -467,154 +481,147 @@
       "url": "https://www.premiumtimesng.com/business/business-news/915677-faan-proposes-25-day-closure-of-owerri-airport-runway-for-repairs.html",
       "published_date": "2026-10-09T14:56:46+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Airtel Money commences conditional trading on London Stock Exchange",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/915675-airtel-money-commences-conditional-trading-on-london-stock-exchange.html",
-      "published_date": "2026-10-09T14:48:06+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "Court bars police from arresting Uzodimma’s aide",
+      "title": "Tinubu to flag off 376km Niger highway Tuesday",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/court-bars-police-from-arresting-uzodimmas-aide/",
-      "published_date": "2026-10-11T16:20:10+00:00",
+      "url": "https://www.vanguardngr.com/2026/10/tinubu-to-flag-off-376km-niger-highway-tuesday/",
+      "published_date": "2026-10-11T21:51:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "2027: Rival rejects INEC’s listing of Katsina ADC governorship candidate",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/916154-2027-rival-rejects-inecs-listing-of-katsina-adc-governorship-candidate.html",
-      "published_date": "2026-10-11T15:51:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foundation donates patrol vehicle, money to Abuja police division",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/916150-foundation-donates-patrol-vehicle-money-to-abuja-police-division.html",
-      "published_date": "2026-10-11T15:27:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ogun 2027: Adebutu responds to exclusion from INEC’s final list",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/916145-ogun-2027-adebutu-responds-to-exclusion-from-inecs-final-list.html",
-      "published_date": "2026-10-11T15:04:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GOCOP seeks court interpretation of election law ahead of 2027 polls",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/916139-gocop-seeks-court-interpretation-of-election-law-ahead-of-2027-polls.html",
-      "published_date": "2026-10-11T14:34:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "INEC list: NDC says error caused omission of Kano governorship candidate",
+      "title": "Tinubu to Aspirants: Don’t make promises you cannot fund",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/inec-list-ndc-says-error-caused-omission-of-kano-governorship-candidate/",
-      "published_date": "2026-10-11T12:54:29+00:00",
+      "url": "https://www.vanguardngr.com/2026/10/tinubu-to-aspirants-dont-make-promises-you-cannot-fund/",
+      "published_date": "2026-10-11T21:43:56+00:00",
       "category": "Local Events"
     },
     {
-      "title": "INEC List: Omitted candidates face lost battle – Shehu Sani",
+      "title": "2027: Nigerian governor urges residents to reject election-season promises by politicians",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/916135-inec-list-omitted-candidates-face-lost-battle-shehu-sani.html",
-      "published_date": "2026-10-11T12:13:30+00:00",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-east/916252-2027-nigerian-governor-urges-residents-to-reject-election-season-promises-by-politicians.html",
+      "published_date": "2026-10-11T21:42:04+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Full List: Governor Yusuf to face 16 challengers as exclusion of main rival stuns Kano",
+      "title": "2027: 241 candidates jostle for 36 elective positions in Cross River",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/916132-full-list-governor-yusuf-to-face-16-challengers-as-exclusion-of-main-rival-stuns-kano.html",
-      "published_date": "2026-10-11T12:04:14+00:00",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/916247-2027-241-candidates-jostle-for-36-elective-positions-in-cross-river.html",
+      "published_date": "2026-10-11T21:36:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Ex-senator demands full disclosure, restitution over Kila’s fake degrees",
+      "title": "NPFL Roundup: Plateau United thrash Kano Pillars as Rangers cling to top spot",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/916130-ex-senator-demands-full-disclosure-restitution-over-kilas-fake-degrees.html",
-      "published_date": "2026-10-11T11:57:40+00:00",
+      "url": "https://www.premiumtimesng.com/sports/football/916234-npfl-roundup-plateau-united-thrash-kano-pillars-as-rangers-cling-to-top-spot.html",
+      "published_date": "2026-10-11T20:56:38+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NDLEA rearrests 83-year-old woman months after drug conviction",
+      "title": "Houthi strike on Riyadh Airport kills 12, injures 309 as Saudi Arabia vows retaliation",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-east/916120-ndlea-rearrests-83-year-old-woman-months-after-drug-conviction.html",
-      "published_date": "2026-10-11T11:47:16+00:00",
+      "url": "https://www.premiumtimesng.com/news/916228-houthi-strike-on-riyadh-airport-kills-12-injures-309-as-saudi-arabia-vows-retaliation.html",
+      "published_date": "2026-10-11T20:46:09+00:00",
       "category": "Local Events"
     },
     {
-      "title": "ADC Leadership Crisis: What courts have decided, what remains unresolved",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/916115-adc-leadership-crisis-what-courts-have-decided-what-remains-unresolved.html",
-      "published_date": "2026-10-11T09:54:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suspect arrested over farmer’s killing, kidnapping in Niger",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/north-central/916103-suspect-arrested-over-farmers-killing-kidnapping-in-niger.html",
-      "published_date": "2026-10-11T09:19:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Adedibu family, filmmaker clash over ‘unauthorised’ biopic as producer rejects ₦500 million demand",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/nollywood/916080-adedibu-family-filmmaker-clash-over-unauthorised-biopic-as-producer-rejects-%e2%82%a6500-million-demand.html",
-      "published_date": "2026-10-11T09:18:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: North-central state governors endorse Tinubu for re-election",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/916099-2027-north-central-state-governors-endorse-tinubu-for-re-election.html",
-      "published_date": "2026-10-11T09:05:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nine die in Benue attacks, days after Otukpo killings",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/north-central/916098-nine-die-in-benue-attacks-days-after-otukpo-killings.html",
-      "published_date": "2026-10-11T09:01:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abia 2027: The naysayers can rant but can’t erase, By Ferdinand Ekeoma",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/916046-abia-2027-the-naysayers-can-rant-but-cant-erase-by-ferdinand-ekeoma.html",
-      "published_date": "2026-10-10T21:50:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO: Sporadic shootings as thugs attack NDC supporters in Enugu",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-east/916042-video-sporadic-shootings-as-thugs-attack-ndc-supporters-in-enugu.html",
-      "published_date": "2026-10-10T21:48:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gov Otti accompanies Vice-President Shettima to Ethiopia",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/916039-gov-otti-accompanies-vice-president-shettima-to-ethiopia.html",
-      "published_date": "2026-10-10T21:29:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Enugu teachers endorse Mbah, Tinubu for enhanced welfare, education funding",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/916031-2027-enugu-teachers-endorse-mbah-tinubu-for-enhanced-welfare-education-funding.html",
-      "published_date": "2026-10-10T21:24:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rivers 2027: INEC lists Chinda, Pidomson, Ejekwu, Lulu-Briggs among 17 guber candidates",
+      "title": "Mbah, Nnaji, Ohaa, 13 others make INEC list for Enugu governorship",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/rivers-2027-inec-lists-chinda-pidomson-ejekwu-lulu-briggs-among-17-guber-candidates/",
-      "published_date": "2026-10-10T20:47:15+00:00",
+      "url": "https://www.vanguardngr.com/2026/10/mbah-nnaji-ohaa-13-others-make-inec-list-for-enugu-governorship/",
+      "published_date": "2026-10-11T20:21:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Enugu govt condemns attack on NDC members",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-east/916221-enugu-govt-condemns-attack-on-ndc-members.html",
+      "published_date": "2026-10-11T20:17:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "International Day of the Girl Child, By Obiageli “Oby” Ezekwesili",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/916217-international-day-of-the-girl-child-obiageli-oby-ezekwesili.html",
+      "published_date": "2026-10-11T20:03:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Messi’s retirement: FCTA ex-spokesman proposes FIFA Over-40 World Cup",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/916210-messis-retirement-fcta-ex-spokesman-proposes-fifa-over-40-world-cup.html",
+      "published_date": "2026-10-11T19:51:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: ADC, NDC candidates not cleared for Cross River governorship",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/916208-2027-adc-ndc-candidates-not-cleared-for-cross-river-governorship.html",
+      "published_date": "2026-10-11T19:45:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2023 Tinubu alliance failed to deliver national unity, competent govt – Makinde",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2023-tinubu-alliance-failed-to-deliver-national-unity-competent-govt-makinde/",
+      "published_date": "2026-10-11T19:40:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Amid forgery trial, Uche Nnaji drops degree claim in INEC filing, opts for WAEC",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-east/916206-2027-amid-forgery-trial-uche-nnaji-drops-degree-claim-in-inec-filing-opts-for-waec.html",
+      "published_date": "2026-10-11T19:26:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beyond the Click: Building the African Newsroom for the Long Term, By Max Amuchie",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/916202-beyond-the-click-building-the-african-newsroom-for-the-long-term-by-max-amuchie.html",
+      "published_date": "2026-10-11T19:12:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protest, Not Revolution. N’est-ce pas?  By Wole Olaoye",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/916197-protest-not-revolution-nest-ce-pas-by-wole-olaoye.html",
+      "published_date": "2026-10-11T19:09:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "30-day fuel: Alálùpàídà and his devil’s water, By Festus Adebayo",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/916199-30-day-fuel-alalupaida-and-his-devils-water.html",
+      "published_date": "2026-10-11T19:08:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "To Waziri Atiku Abubakar: A final word (1), By Femi Fani-Kayode",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/916194-to-waziri-atiku-abubakar-a-final-word-1-by-femi-fani-kayode.html",
+      "published_date": "2026-10-11T19:04:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria: Outsourcing the Presidency, One Infirmity at a Time, By Chidi Odinkalu",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/916191-nigeria-outsourcing-the-presidency-one-infirmity-at-a-time.html",
+      "published_date": "2026-10-11T19:00:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ADC campaign to police: You can’t arrest hunger by stopping rally",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/adc-campaign-to-police-you-cant-arrest-hunger-by-stopping-rally/",
+      "published_date": "2026-10-11T18:40:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amnesty condemns police blockade of ‘Tinubu-Must-Go’ event in Kano",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/amnesty-condemns-police-blockade-of-tinubu-must-go-event-in-kano/",
+      "published_date": "2026-10-11T18:36:27+00:00",
       "category": "Local Events"
     }
   ]
