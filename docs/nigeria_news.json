@@ -52,6 +52,13 @@
   ],
   "Military": [
     {
+      "title": "NAF lowers water level at Igbokoda crash site",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/naf-lowers-water-level-at-igbokoda-crash-site/",
+      "published_date": "2026-10-19T16:08:05+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Utomi faces backlash over defence of Kila despite academic credentials controversy",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/regional/south-south-regional/917896-utomi-faces-backlash-over-defence-of-kila-despite-academic-credentials-controversy.html",
@@ -173,6 +180,27 @@
   ],
   "Energy": [
     {
+      "title": "REA chief warns against new energy bill, says proposed law could fragment electricity market",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/918301-rea-chief-warns-against-new-energy-bill-says-proposed-law-could-fragment-electricity-market.html",
+      "published_date": "2026-10-19T17:00:59+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Renaissance Capital Raises Dangote Refinery Valuation by 33.4% to ₦700 per Share",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/918297-renaissance-capital-raises-dangote-refinery-valuation-by-33-4-to-%e2%82%a6700-per-share.html",
+      "published_date": "2026-10-19T16:39:02+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Fuel subsidy return could push Naira to ₦4,000/$ — Oyedele",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/fuel-subsidy-return-could-push-naira-to-%e2%82%a64000-oyedele/",
+      "published_date": "2026-10-19T16:27:47+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "NCDMB, Heritage Energy train 48 Nigerians in subsea engineering",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/promoted/918124-ncdmb-heritage-energy-train-48-nigerians-in-subsea-engineering.html",
@@ -290,30 +318,37 @@
       "url": "https://www.premiumtimesng.com/promoted/917038-jigawa-partners-presidential-cng-initiative-to-expand-alternative-energy-infrastructure.html",
       "published_date": "2026-10-14T14:09:52+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Soroman’s pioneering involvement in Dangote Consortium propels first loading milestone",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/917033-soromans-pioneering-involvement-in-dangote-consortium-propels-first-loading-milestone.html",
-      "published_date": "2026-10-14T13:45:23+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "The weaponisation of yesterday, By Umar Yakubu",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/916900-the-weaponisation-of-yesterday-by-umar-yakubu.html",
-      "published_date": "2026-10-13T20:45:22+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Dangote Petroleum Refinery logs $4.7 billion profit in nine months on higher refining throughput",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/916903-dangote-petroleum-refinery-logs-4-7-billion-profit-in-nine-months-on-higher-refining-throughput.html",
-      "published_date": "2026-10-13T19:31:26+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Alausa tightens recruitment controls in Federal universities",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/alausa-tightens-recruitment-controls-in-federal-universities/",
+      "published_date": "2026-10-19T16:56:17+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "$2.1m alleged land deal: Why we took Wike’s son to EFCC — claimants",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2-1m-alleged-land-deal-why-we-took-wikes-son-to-efcc-claimants/",
+      "published_date": "2026-10-19T16:17:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Fire razes 15 shops, damages 25 at Ibadan market",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/fire-razes-15-shops-damages-25-at-ibadan-market/",
+      "published_date": "2026-10-19T16:03:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Indonesian scholar proposes reform for Almajiri education in Nigeria",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/nwest/918281-indonesian-scholar-proposes-reform-for-almajiri-education-in-nigeria.html",
+      "published_date": "2026-10-19T15:09:18+00:00",
+      "category": "Economy"
+    },
     {
       "title": "FG disagrees with World Bank over H1 124% debt servicing/revenue ratio",
       "source": "Vanguard",
@@ -425,175 +460,147 @@
       "url": "https://www.premiumtimesng.com/business/business-news/917686-nsib-kicks-off-probe-into-aircraft-door-loss-incident.html",
       "published_date": "2026-10-16T20:10:38+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "World Bank’s $5.79 billion financing will boost ongoing business expansion efforts – Tinubu",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/917682-world-banks-5-79-billion-financing-will-boost-ongoing-business-expansion-efforts-tinubu.html",
-      "published_date": "2026-10-16T20:01:18+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "United Nigeria Airlines targets N100bn commercial paper market",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/united-nigeria-airlines-targets-n100bn-commercial-paper-market/",
-      "published_date": "2026-10-16T19:33:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Naira Depreciation: Onafriq exits Nigeria’s agent banking",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/naira-depreciation-onafriq-exits-nigerias-agent-banking/",
-      "published_date": "2026-10-16T19:22:37+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "N156 Billion Debt Recovery Suit: Stallion Group appeals ruling upholding UBA’s appointment of receiver/manager",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/917665-n156-billion-debt-recovery-suit-stallion-group-appeals-ruling-upholding-ubas-appointment-of-receiver-manager.html",
-      "published_date": "2026-10-16T19:04:53+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "NDC postpones unveiling of campaign council, gives reason",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-east/918307-ndc-postpones-unveiling-of-campaign-council-gives-reason.html",
+      "published_date": "2026-10-19T17:06:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigerian dietitians urge NASS to withdraw nutritionists’ council bill, warn of quackery",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/918300-nigerian-dietitians-urge-nass-to-withdraw-nutritionists-council-bill-warn-of-quackery.html",
+      "published_date": "2026-10-19T16:57:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos shuts Ejigbo Fire Station after alleged assault",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/lagos-shuts-ejigbo-fire-station-after-alleged-assault/",
+      "published_date": "2026-10-19T16:47:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kalu mourns former Delta Governor, Uduaghan",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/kalu-mourns-former-delta-governor-uduaghan/",
+      "published_date": "2026-10-19T16:39:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: City Boy Movement targets Oyo grassroots for Tinubu",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-city-boy-movement-targets-oyo-grassroots-for-tinubu/",
+      "published_date": "2026-10-19T16:37:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu: Uduaghan devoted leadership to Delta’s development",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/tinubu-uduaghan-devoted-leadership-to-deltas-development/",
+      "published_date": "2026-10-19T16:34:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Governors mourn Uduaghan, honour his public service",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/governors-mourn-uduaghan-honour-his-public-service/",
+      "published_date": "2026-10-19T16:32:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NAF reduces water level at crashed aircraft site in Ondo as recovery enters Day 14",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-west/918295-naf-reduces-water-level-at-crashed-aircraft-site-in-ondo-as-recovery-enters-day-14.html",
+      "published_date": "2026-10-19T16:29:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Ex-Kogi gov predicts APC landslide, defends Tinubu’s record",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/918293-2027-ex-kogi-gov-predicts-apc-landslide-defends-tinubus-record.html",
+      "published_date": "2026-10-19T16:22:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four passengers injured in Lagos crash, drivers handed to police",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/ssouth-west/918290-four-passengers-injured-in-lagos-crash-drivers-handed-to-police.html",
+      "published_date": "2026-10-19T16:07:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "More Nigerians follow sports results through streams and social clips instead of TV",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/more-nigerians-follow-sports-results-through-streams-and-social-clips-instead-of-tv/",
+      "published_date": "2026-10-19T16:05:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lottery numbers travel on WhatsApp faster than official results",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/lottery-numbers-travel-on-whatsapp-faster-than-official-results/",
+      "published_date": "2026-10-19T15:58:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ajayi Elebire Elite Basketball Camp: 40 players advance from Lagos screening to Ekiti",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/918287-ajayi-elebire-elite-basketball-camp-40-players-advance-from-lagos-screening-to-ekiti.html",
+      "published_date": "2026-10-19T15:50:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NPFL sanctions Doma United, orders three home matches behind closed doors",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/918278-npfl-sanctions-doma-united-orders-three-home-matches-behind-closed-doors.html",
+      "published_date": "2026-10-19T14:32:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cross River PDP chairman resigns after five years, gives reasons",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/918271-cross-river-pdp-chairman-resigns-after-five-years-gives-reasons.html",
+      "published_date": "2026-10-19T14:17:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cross River bans roadside workshops, street trading in Calabar metropolis",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/918270-cross-river-bans-roadside-workshops-street-trading-in-calabar-metropolis.html",
+      "published_date": "2026-10-19T14:14:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Students threaten university with lawsuit over expulsion",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/nwest/918261-students-threaten-university-with-lawsuit-over-expulsion.html",
+      "published_date": "2026-10-19T13:56:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigerian emerges West Africa chair for IUCN Snake Specialist Group",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/918258-nigerian-emerges-west-africa-chair-for-iucn-snake-specialist-group.html",
+      "published_date": "2026-10-19T13:49:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NBBF Election: Oyedeji challenges Abdullahi’s emergence, demands fresh poll",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/918254-nbbf-election-oyedeji-challenges-abdullahis-emergence-demands-fresh-poll.html",
+      "published_date": "2026-10-19T13:45:01+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "2027: I won’t step down for ADC, Kwankwaso declares",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/2027-i-wont-step-down-for-adc-kwankwaso-declares/",
       "published_date": "2026-10-19T00:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Kano governor assures Tinubu of northern support",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-kano-governor-assures-tinubu-of-northern-support/",
-      "published_date": "2026-10-18T21:12:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Please forgive me’: Fatai Okoya begs billionaire father after 40 years apart",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/918140-please-forgive-me-fatai-okoya-begs-billionaire-father-after-40-years-apart.html",
-      "published_date": "2026-10-18T21:00:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Obi urges Nigerians in diaspora to help build new Nigeria",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/obi-urges-nigerians-in-diaspora-to-help-build-new-nigeria/",
-      "published_date": "2026-10-18T20:46:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidency disputes Makinde’s claim of N250 billion NLNG dividends per state",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-west/918137-presidency-disputes-makindes-claim-of-n250-billion-nlng-dividends-per-state.html",
-      "published_date": "2026-10-18T20:38:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos cracks down on fake, expired products",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/lagos-cracks-down-on-fake-expired-products/",
-      "published_date": "2026-10-18T20:31:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South-East needs no apology to lead Nigeria — Onoh",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/south-east-needs-no-apology-to-lead-nigeria-onoh/",
-      "published_date": "2026-10-18T20:13:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protect indigenous seeds, farmers’ rights, HOMEF tells FG on World Food Day",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/918135-protect-indigenous-seeds-farmers-rights-homef-tells-fg-on-world-food-day.html",
-      "published_date": "2026-10-18T20:03:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Utomi says Akwa Ibom ex-governor Victor Attah has attained ‘immortality’",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/918122-utomi-says-akwa-ibom-ex-governor-victor-attah-has-attained-immortality.html",
-      "published_date": "2026-10-18T19:51:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LASU professor Tunde Akanni inducted as peace studies fellow",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/education/918115-lasu-professor-tunde-akanni-inducted-as-peace-studies-fellow.html",
-      "published_date": "2026-10-18T19:27:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court of Appeal upholds N12m damages against EFCC over Ubani’s detention",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/918107-court-of-appeal-upholds-n12m-damages-against-efcc-over-ubanis-detention.html",
-      "published_date": "2026-10-18T19:14:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "﻿Stakeholders say poor healthcare coordination leaves patients to navigate care alone",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/health/health-news/918111-stakeholders-say-poor-healthcare-coordination-leaves-patients-to-navigate-care-alone.html",
-      "published_date": "2026-10-18T19:13:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AMAA 2026: Nigeria fields two contenders for Africa’s Best Film",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/movies/918099-amaa-2026-nigeria-fields-two-contenders-for-africas-best-film.html",
-      "published_date": "2026-10-18T19:10:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigerian inventor’s bionic arm named among TIME’s best inventions of 2026",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/918085-nigerian-inventors-bionic-arm-named-among-times-best-inventions-of-2026.html",
-      "published_date": "2026-10-18T18:54:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How I’ve managed diabetes for 30 years — Jide Kosoko",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/918092-how-ive-managed-diabetes-for-30-years-jide-kosoko.html",
-      "published_date": "2026-10-18T18:54:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Food Security: Abiodun deepens Ogun’s agricultural transformation drive, By Kayode Akinmade",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/918072-food-security-abiodun-deepens-oguns-agricultural-transformation-drive-by-kayode-akinmade.html",
-      "published_date": "2026-10-18T18:21:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Murray-Bruce says Donald Duke once praised Lagos-Calabar Coastal Highway, shares photo",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/918075-murray-bruce-says-donald-duke-once-praised-lagos-calabar-coastal-highway-shares-photo.html",
-      "published_date": "2026-10-18T18:20:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Article of Faith: The acceptable sacrifice (2), By Femi Aribisala",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/918032-article-of-faith-the-acceptable-sacrifice-2-by-femi-aribisala.html",
-      "published_date": "2026-10-18T13:56:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos Task Force detains dismissed operative over alleged extortion",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/lagos-task-force-detains-dismissed-operative-over-alleged-extortion/",
-      "published_date": "2026-10-18T13:54:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MOVIE REVIEW: Agbara Nla remake casts old spell on new generation",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/nollywood/918026-movie-review-agbara-nla-remake-casts-old-spell-on-new-generation.html",
-      "published_date": "2026-10-18T13:53:47+00:00",
       "category": "Local Events"
     }
   ]
