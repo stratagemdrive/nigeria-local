@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Ebola: Africa CDC seeks full travel history of Nigeria’s patient to trace source of infection",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/919245-ebola-africa-cdc-seeks-full-travel-history-of-nigerias-patient-to-trace-source-of-infection.html",
+      "published_date": "2026-10-22T12:52:28+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Nigeria’s first Ebola patient is diplomat’s wife who holidayed in Uganda — Africa CDC",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/health/health-news/919072-nigerias-first-ebola-patient-is-diplomats-wife-who-holidayed-in-uganda-africa-cdc.html",
@@ -51,6 +58,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "Alleged Murder: Court warns defence against delay in trial of four IPOB members",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/919323-alleged-murder-court-warns-defence-against-delay-in-trial-of-four-ipob-members.html",
+      "published_date": "2026-10-22T15:25:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Paramilitary recruitment portal opens October 28",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/paramilitary-recruitment-portal-opens-october-28/",
+      "published_date": "2026-10-22T14:18:47+00:00",
+      "category": "Military"
+    },
     {
       "title": "Igbo rebuff of today’s Nigerian Army (I), by Ochereome Nnanna",
       "source": "Vanguard",
@@ -134,23 +155,16 @@
       "url": "https://www.vanguardngr.com/2026/10/tinubu-orders-security-chiefs-to-rescue-abductees-guarantee-safe-elections/",
       "published_date": "2026-10-15T19:47:19+00:00",
       "category": "Military"
-    },
-    {
-      "title": "NAF assures Igbokoda residents of action on environmental concerns",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/naf-assures-igbokoda-residents-of-action-on-environmental-concerns/",
-      "published_date": "2026-10-15T14:22:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soldiers, terrorists killed in midnight terror attack on Borno military base",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/917325-soldiers-terrorists-killed-in-midnight-terror-attack-on-borno-military-base.html",
-      "published_date": "2026-10-15T12:16:20+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Ogun schools shut again as toxic gas sends over 100 pupils to hospital",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/919264-ogun-schools-shut-again-as-toxic-gas-sends-over-100-pupils-to-hospital.html",
+      "published_date": "2026-10-22T13:43:34+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Senate panel summons NMDPRA, NNPC, NEITI over discrepancies in petrol import records",
       "source": "Premium Times",
@@ -269,30 +283,23 @@
       "url": "https://www.premiumtimesng.com/news/more-news/917455-anambra-%e2%81%a0%e2%81%a0%e2%81%a0%e2%81%a0demands-more-benefits-from-oil-gas-sector.html",
       "published_date": "2026-10-15T21:29:53+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Reps advance bill to establish renewable energy authority",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/reps-advance-bill-to-establish-renewable-energy-authority/",
-      "published_date": "2026-10-15T15:13:58+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Malabu Oil: Court acquits Abubakar, others on money laundering charges",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/malabu-oil-court-acquits-abubakar-others-on-money-laundering-charges/",
-      "published_date": "2026-10-15T14:36:51+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Petrol price cut: Filling stations shut in Kebbi",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/petrol-price-cut-filling-stations-shut-in-kebbi/",
-      "published_date": "2026-10-15T14:03:21+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Customs warns border communities against smuggling",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/customs-warns-border-communities-against-smuggling/",
+      "published_date": "2026-10-22T15:03:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Cardoso seeks stronger banking ties with China",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/cardoso-seeks-stronger-banking-ties-with-china/",
+      "published_date": "2026-10-22T15:01:03+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Nigeria’s cocoa exports to US surge to $142m in 2025",
       "source": "Premium Times",
@@ -418,161 +425,147 @@
       "url": "https://www.vanguardngr.com/2026/10/huriwa-tackles-oyedele-over-tinubus-re-election-prospects/",
       "published_date": "2026-10-18T20:24:47+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Afrinvest repays undocumented $1 million from Elumelu with interest",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/918087-afrinvest-repays-undocumented-1-million-from-elumelu-with-interest.html",
-      "published_date": "2026-10-18T19:07:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Jigawa governor commissions ₦3.5bn asphalt and precast plant to boost indigenous constructions",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/918008-jigawa-governor-commissions-%e2%82%a63-5bn-asphalt-and-precast-plant-to-boost-indigenous-constructions.html",
-      "published_date": "2026-10-18T12:58:53+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "Lawal urges Nigerians to learn to live together peacefully",
+      "title": "Cost of Living: Abiodun to cut food prices, expand bus fleet",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/919061-lawal-urges-nigerians-to-learn-to-live-together-peacefully.html",
-      "published_date": "2026-10-21T22:36:31+00:00",
+      "url": "https://www.premiumtimesng.com/promoted/919330-cost-of-living-abiodun-to-cut-food-prices-expand-bus-fleet.html",
+      "published_date": "2026-10-22T15:38:19+00:00",
       "category": "Local Events"
     },
     {
-      "title": "‘You’ll see our father through us’ — Ogogo’s daughters seek fans’ support",
+      "title": "Reps consider bill to ban compulsory multi-year advance rent in FCT",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/919054-youll-see-our-father-through-us-ogogos-daughters-seek-fans-support.html",
-      "published_date": "2026-10-21T22:21:55+00:00",
+      "url": "https://www.premiumtimesng.com/news/top-news/919327-reps-consider-bill-to-ban-compulsory-multi-year-advance-rent-in-fct.html",
+      "published_date": "2026-10-22T15:29:50+00:00",
       "category": "Local Events"
     },
     {
-      "title": "‘I didn’t want to die’ — Broda Shaggi opens up about stray-bullet shooting, surgery",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/919041-i-didnt-want-to-die-broda-shaggi-opens-up-about-stray-bullet-shooting-surgery.html",
-      "published_date": "2026-10-21T21:49:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola Outbreak: Lawmakers move to amend Nigeria’s 100-year-old Quarantine Act",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/919037-ebola-outbreak-lawmakers-move-to-amend-nigerias-100-year-old-quarantine-act.html",
-      "published_date": "2026-10-21T21:32:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola: Nigeria has capacity to contain outbreak like 2014 – Minister",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/health/health-news/919033-ebola-nigeria-has-capacity-to-contain-outbreak-like-2014-minister.html",
-      "published_date": "2026-10-21T21:07:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos Open: Amateur golfers target honours as championship marks 65th edition",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/919030-lagos-open-amateur-golfers-target-honours-as-championship-marks-65th-edition.html",
-      "published_date": "2026-10-21T20:58:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027 Campaign Flag Off: Kaduna ready to host Mr President – LOC",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/919024-2027-campaign-flag-off-kaduna-ready-to-host-mr-president-loc.html",
-      "published_date": "2026-10-21T20:42:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The altar of fire, a heart of meekness: The uncompromising ministry of Pastor Jerry Eze, By Dan Aibangbe",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/919022-the-altar-of-fire-a-heart-of-meekness-the-uncompromising-ministry-of-pastor-jerry-eze-by-dan-aibangbe.html",
-      "published_date": "2026-10-21T20:38:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UCL: Osimhen fires Galatasaray to first win as Como hand Man United heavy defeat",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/headlines/919017-ucl-osimhen-fires-galatasaray-to-first-win-as-como-hand-man-united-heavy-defeat.html",
-      "published_date": "2026-10-21T20:24:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How a hit-and-run driver nearly took our Suleman, By Yushau A. Shuaib",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/919005-how-a-hit-and-run-driver-nearly-took-our-suleman-by-yushau-a-shuaib.html",
-      "published_date": "2026-10-21T20:18:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reps demand review of Lagos-Calabar coastal highway realignment",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/919013-reps-demand-review-of-lagos-calabar-coastal-highway-realignment.html",
-      "published_date": "2026-10-21T20:03:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reps summon MTN, Airtel, Glo CEOs over poor network quality",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/919011-reps-summon-mtn-airtel-glo-ceos-over-poor-network-quality.html",
-      "published_date": "2026-10-21T19:53:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FCT civil servants, artisans back Tinubu, excited over Abuja’s renewal",
+      "title": "Ebola: Africa CDC says Nigerian patient was born in Uganda",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/fct-civil-servants-artisans-back-tinubu-excited-over-abujas-renewal/",
-      "published_date": "2026-10-21T15:31:56+00:00",
+      "url": "https://www.vanguardngr.com/2026/10/ebola-africa-cdc-says-nigerian-patient-was-born-in-uganda/",
+      "published_date": "2026-10-22T15:25:58+00:00",
       "category": "Local Events"
     },
     {
-      "title": "2027: Wike asks PDP members in FCT to back Tinubu, APC candidates",
+      "title": "Ebola: Enugu intensifies surveillance across 17 LGAs",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-wike-asks-pdp-members-in-fct-to-back-tinubu-apc-candidates/",
-      "published_date": "2026-10-21T15:02:28+00:00",
+      "url": "https://www.vanguardngr.com/2026/10/ebola-enugu-intensifies-surveillance-across-17-lgas-2/",
+      "published_date": "2026-10-22T15:20:37+00:00",
       "category": "Local Events"
     },
     {
-      "title": "FG urges self-care to contain Ebola",
+      "title": "Bundibugyo Ebola: Early detection, isolation key to containing Nigeria’s outbreak – Expert",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/fg-urges-self-care-to-contain-ebola/",
-      "published_date": "2026-10-21T14:41:17+00:00",
+      "url": "https://www.vanguardngr.com/2026/10/bundibugyo-ebola-early-detection-isolation-key-to-containing-nigerias-outbreak-expert/",
+      "published_date": "2026-10-22T15:08:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "IAD endorses Obi, claims 25% voter base in 31 states",
+      "title": "Ebola: Enugu intensifies surveillance across 17 LGAs",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/iad-endorses-obi-claims-25-voter-base-in-31-states/",
-      "published_date": "2026-10-21T14:40:42+00:00",
+      "url": "https://www.vanguardngr.com/2026/10/ebola-enugu-intensifies-surveillance-across-17-lgas/",
+      "published_date": "2026-10-22T15:05:08+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Otti flags off reconstruction of two key Aba roads after years of neglect",
+      "title": "2027: Stop using backdoor to cause crisis for opposition parties, Makinde warns APC",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-stop-using-backdoor-to-cause-crisis-for-opposition-parties-makinde-warns-apc/",
+      "published_date": "2026-10-22T15:04:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Election Campaigns: FRSC bars officers from escorting politicians",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-east/918872-otti-flags-off-reconstruction-of-two-key-aba-roads-after-years-of-neglect.html",
-      "published_date": "2026-10-21T14:40:26+00:00",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/919316-election-campaigns-frsc-bars-officers-from-escorting-politicians.html",
+      "published_date": "2026-10-22T15:03:14+00:00",
       "category": "Local Events"
     },
     {
-      "title": "JAMB moves to ease admission anxiety, warns against identity fraud",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/jamb-moves-to-ease-admission-anxiety-warns-against-identity-fraud/",
-      "published_date": "2026-10-21T14:35:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 injured in Third Mainland Bridge crash, train collision averted",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/10-injured-in-third-mainland-bridge-crash-train-collision-averted/",
-      "published_date": "2026-10-21T14:18:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wike’s ‘Rainbow Coalition’, threat to democracy – PDP faction",
+      "title": "Nigeria has 500 epidemiologists, govt should let them lead Ebola response, expert says",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/918869-wikes-rainbow-coalition-threat-to-democracy-pdp-faction.html",
-      "published_date": "2026-10-21T14:14:26+00:00",
+      "url": "https://www.premiumtimesng.com/news/top-news/919312-nigeria-has-500-epidemiologists-govt-should-let-them-lead-ebola-response-expert-says.html",
+      "published_date": "2026-10-22T14:56:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Edo Queens accept CAF decision, vow to fight for Women’s Champions League spot",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/919307-edo-queens-accept-caf-decision-vow-to-fight-for-womens-champions-league-spot.html",
+      "published_date": "2026-10-22T14:40:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court grants ICPC’s prayer to play CCTV footage in El-Rufai’s N10bn suit",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/court-grants-icpcs-prayer-to-play-cctv-footage-in-el-rufais-n10bn-suit/",
+      "published_date": "2026-10-22T14:31:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MacArthur President urges Africa to move from AI talk to action",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/919295-macarthur-president-urges-africa-to-move-from-ai-talk-to-action.html",
+      "published_date": "2026-10-22T14:28:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judges must prioritise their health, wellness – Justice Adejumo",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/judges-must-prioritise-their-health-wellness-justice-adejumo/",
+      "published_date": "2026-10-22T14:26:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senate probes Tansian University over alleged violations",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/senate-probes-tansian-university-over-alleged-violations/",
+      "published_date": "2026-10-22T14:25:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu commissions section of Kano-Kaduna highway",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/919296-tinubu-commissions-section-of-kano-kaduna-highway.html",
+      "published_date": "2026-10-22T14:22:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police arraign man for allegedly kidnapping, killing victims",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/919294-police-arraign-man-for-allegedly-kidnapping-killing-victims.html",
+      "published_date": "2026-10-22T14:15:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola: Africa CDC warns African leaders against politicising outbreak, finger-pointing",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/919289-ebola-africa-cdc-warns-african-leaders-against-politicising-outbreak-finger-pointing.html",
+      "published_date": "2026-10-22T14:09:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FG launches five-year plan to eliminate lead poisoning",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/919260-fg-launches-five-year-plan-to-eliminate-lead-poisoning.html",
+      "published_date": "2026-10-22T13:22:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola: Africa CDC urges African ownership, accountability in outbreak response",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/919252-ebola-africa-cdc-urges-african-ownership-accountability-in-outbreak-response.html",
+      "published_date": "2026-10-22T13:16:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bauchi mosque removes imam over alleged campaign for Tinubu’s 2027 re-election",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/nnorth-east/919237-bauchi-mosque-removes-imam-over-alleged-campaign-for-tinubus-2027-re-election.html",
+      "published_date": "2026-10-22T12:28:19+00:00",
       "category": "Local Events"
     }
   ]
