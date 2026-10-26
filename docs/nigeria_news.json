@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "CBD COP17: Namibian Biosafety Expert Martha Kandawa-Schulz dies in Yerevan",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/920195-cbd-cop17-namibian-biosafety-expert-martha-kandawa-schulz-dies-in-yerevan.html",
+      "published_date": "2026-10-25T20:33:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Nigeria, South Korea seek stronger trade, technology partnerships",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/nigeria-south-korea-seek-stronger-trade-technology-partnerships-2/",
@@ -76,13 +83,6 @@
       "url": "https://www.premiumtimesng.com/news/top-news/918319-nigerias-permanent-representative-presents-14bn-un-budget-to-tinubu.html",
       "published_date": "2026-10-19T18:29:34+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Burkina Faso, Niger, Mali resume talks with ECOWAS after withdrawal from regional bloc",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/918145-burkina-faso-niger-mali-resume-talks-with-ecowas-after-withdrawal-from-regional-bloc.html",
-      "published_date": "2026-10-18T21:41:13+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -137,6 +137,20 @@
     }
   ],
   "Energy": [
+    {
+      "title": "Making gas operations safer",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/making-gas-operations-safer/",
+      "published_date": "2026-10-26T00:28:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Uneven petrol prices, lingering hardship as Zaria residents question NNPC discount",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/nwest/920175-uneven-petrol-prices-lingering-hardship-as-zaria-residents-question-nnpc-discount.html",
+      "published_date": "2026-10-25T17:57:29+00:00",
+      "category": "Energy"
+    },
     {
       "title": "2027: Minister threatens to deploy ‘federal might’ in Akwa Ibom election",
       "source": "Premium Times",
@@ -227,16 +241,44 @@
       "url": "https://www.vanguardngr.com/2026/10/fuel-subsidy-return-could-push-naira-to-%e2%82%a64000-oyedele/",
       "published_date": "2026-10-19T16:27:47+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "NCDMB, Heritage Energy train 48 Nigerians in subsea engineering",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/918124-ncdmb-heritage-energy-train-48-nigerians-in-subsea-engineering.html",
-      "published_date": "2026-10-18T19:57:05+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Soldiers earn peanuts, APC youth leader flaunts billion-naira SUVs  —  Utomi",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/soldiers-earn-peanuts-apc-youth-leader-flaunts-billion-naira-suvs-utomi/",
+      "published_date": "2026-10-25T22:31:28+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CBD COP17: Nigeria, six others each win $50,000 grant for biodiversity projects",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/920188-cbd-cop17-nigeria-six-others-each-win-50000-grant-for-biodiversity-projects.html",
+      "published_date": "2026-10-25T20:04:34+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "2027: NDC slams Tinubu, APC over ₦1bn worth of Prado SUVs for youth leaders",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-ndc-slams-tinubu-apc-over-%e2%82%a61bn-worth-of-prado-suvs-for-youth-leaders/",
+      "published_date": "2026-10-25T18:42:15+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "CBD COP17: Nigeria, France Push for Faster Action on 30×30 Biodiversity Target",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/920155-cbd-cop17-nigeria-france-push-for-faster-action-on-30x30-biodiversity-target.html",
+      "published_date": "2026-10-25T17:09:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "From Garden to Market: How women’s vegetable farming is transforming household livelihoods in Kaduna",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/features-and-interviews/920118-from-garden-to-market-how-womens-vegetable-farming-is-transforming-household-livelihoods-in-kaduna.html",
+      "published_date": "2026-10-25T15:20:13+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Everyone has a plan for Africa, but does Africa have the conviction to drive its own? (2), By Dipo Baruwa",
       "source": "Premium Times",
@@ -341,182 +383,147 @@
       "url": "https://www.vanguardngr.com/2026/10/tinubus-kaduna-rally-wont-save-him-in-2027-makinde-campaign/",
       "published_date": "2026-10-23T18:32:56+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "BOI to expand financing for agriculture, healthcare manufacturing in 2027",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/919696-we-will-deploy-our-new-european-investment-bank-facilities-into-agriculture-and-local-healthcare-manufacturing-so-that-nigeria-produces-more-of-the-food-and-medicines-it-consumes-h.html",
-      "published_date": "2026-10-23T16:57:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "CBN grants JPMorgan approval-in-principle to establish merchant bank",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/cbn-grants-jpmorgan-approval-in-principle-to-establish-merchant-bank/",
-      "published_date": "2026-10-23T15:09:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "TUC not part of FG talks, issued no ultimatum, NLC clarifies",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/tuc-not-part-of-fg-talks-issued-no-ultimatum-nlc-clarifies/",
-      "published_date": "2026-10-23T13:47:56+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Higher sales lift Guinness Nigeria’s nine-month profit 53% to ₦40.7 billion",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/919562-higher-sales-lift-guinness-nigerias-nine-month-profit-53-to-%e2%82%a640-7-billion.html",
-      "published_date": "2026-10-23T12:43:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Niger revives support for Christian pilgrimage after 10-year suspension",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/north-central/919557-niger-revives-support-for-christian-pilgrimage-after-10-year-suspension.html",
-      "published_date": "2026-10-23T12:24:28+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Justice, fairness, peace and Nigeria’s 2027 election",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/justice-fairness-peace-and-nigerias-2027-election/",
+      "published_date": "2026-10-26T00:29:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "We never left Egypt, only prodigals need to return home, by Owei Lakemfa",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/we-never-left-egypt-only-prodigals-need-to-return-home-by-owei-lakemfa/",
+      "published_date": "2026-10-26T00:19:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu: Lion at home, lamb abroad? By Suleiman A. Suleiman",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/tinubu-lion-at-home-lamb-abroad-by-suleiman-a-suleiman/",
+      "published_date": "2026-10-26T00:08:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Okonjo-Iweala loses mother, as Tinubu mourns",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/okonjo-iweala-loses-mother-as-tinubu-mourns/",
+      "published_date": "2026-10-25T22:58:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Does Nigeria truly have over 103 million voters?, By Chidi Anselm Odinkalu",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/920220-does-nigeria-truly-have-over-103-million-voters-by-chidi-anselm-odinkalu.html",
+      "published_date": "2026-10-25T22:10:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The odds against Tinubu, By Wole Olaoye",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/920216-the-odds-against-tinubu-by-wole-olaoye.html",
+      "published_date": "2026-10-25T21:56:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola: Day pandemic killed an Aláàfin, By Festus Adedayo",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/920213-ebola-day-pandemic-killed-an-alaafin-by-festus-adedayo.html",
+      "published_date": "2026-10-25T21:32:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "U-17 Women’s World Cup: 3 African countries qualify for Round of 16 [Full list]",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/u-17-womens-world-cup-3-african-countries-qualify-for-round-of-16-full-list/",
+      "published_date": "2026-10-25T21:19:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Full list: NDC unveils 2027 presidential campaign council",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/full-list-ndc-unveils-2027-presidential-campaign-council/",
+      "published_date": "2026-10-25T20:52:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola: NCDC expands health declaration requirement for international travellers",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/920207-ebola-ncdc-expands-health-declaration-requirement-for-international-travellers.html",
+      "published_date": "2026-10-25T20:43:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos govt on alert, says no Ebola case in state",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/lagos-govt-on-alert-says-no-ebola-case-in-state/",
+      "published_date": "2026-10-25T20:03:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Keyamo to lead APC presidential campaign air operations",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-keyamo-to-lead-apc-presidential-campaign-air-operations/",
+      "published_date": "2026-10-25T18:29:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: NDC, ADP meet INEC deadline on omitted candidates",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-ndc-adp-meet-inec-deadline-on-omitted-candidates/",
+      "published_date": "2026-10-25T18:29:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola: NCDC urges hospitals to act before laboratory confirmation",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/920178-ebola-ncdc-urges-hospitals-to-act-before-laboratory-confirmation.html",
+      "published_date": "2026-10-25T17:55:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola: NCDC warns misinformation could undermine Nigeria’s response",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/920169-ebola-ncdc-warns-misinformation-could-undermine-nigerias-response.html",
+      "published_date": "2026-10-25T17:29:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola: NCDC approves ₦100,000 weekly allowance for quarantined contacts",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/920165-ebola-ncdc-approves-%e2%82%a6100000-weekly-allowance-for-quarantined-contacts.html",
+      "published_date": "2026-10-25T17:25:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Decoupling sovereignty index (4): Money, land, mind as diagnostic vectors, By Max Amuchie",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/920150-decoupling-sovereignty-index-4-money-land-mind-as-diagnostic-vectors-by-max-amuchie.html",
+      "published_date": "2026-10-25T16:30:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Article of Faith: The acceptable sacrifice (3), By Femi Aribisala",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/920141-article-of-faith-the-acceptable-sacrifice-3-by-femi-aribisala.html",
+      "published_date": "2026-10-25T16:14:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: VON’s Ex-DG warns against ethnic tension fuelled by disregard for presidential zoning",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/920145-2027-vons-ex-dg-warns-against-ethnic-tension-fuelled-by-disregard-for-presidential-zoning.html",
+      "published_date": "2026-10-25T15:58:32+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Nigerian student dies after asthma attack while celebrating birthday with friends in London",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/nigerian-student-dies-after-asthma-attack-while-celebrating-birthday-with-friends-in-london/",
       "published_date": "2026-10-25T13:41:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tomato prices remain high as pepper gets cheaper in Lagos",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/tomato-prices-remain-high-as-pepper-gets-cheaper-in-lagos/",
-      "published_date": "2026-10-25T13:38:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDLEA recovers tons of illicit drug consignments in nine states",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/ndlea-recovers-tons-of-illicit-drug-consignments-in-nine-states/",
-      "published_date": "2026-10-25T13:36:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IGP Disu proposes 200% gratuity, pension for retired officers",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/igp-disu-proposes-200-gratuity-pension-for-retired-officers/",
-      "published_date": "2026-10-25T13:35:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Must we destroy the evidence of our past to build our future?, By Lande Ọmọ Ọba",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/920103-must-we-destroy-the-evidence-of-our-past-to-build-our-future-by-lande-omo-oba.html",
-      "published_date": "2026-10-25T13:14:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Choosing humanity over harm: A National Assembly’s duty to protect life, By Margaret Uddin Ojeahere",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/920069-choosing-humanity-over-harm-a-national-assemblys-duty-to-protect-life-by-margaret-uddin-ojeahere.html",
-      "published_date": "2026-10-25T12:45:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother, child die as two container trucks overturn in Lagos",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/headlines/920090-mother-child-die-as-two-container-trucks-overturn-in-lagos.html",
-      "published_date": "2026-10-25T12:44:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDLEA arrests South African woman with 36.65kg cocaine, Lagos car dealer",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/920082-ndlea-arrests-south-african-woman-with-36-65kg-cocaine-lagos-car-dealer.html",
-      "published_date": "2026-10-25T12:37:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos SWAN inaugurates seven-member electoral committee ahead of elections",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/920078-lagos-swan-inaugurates-seven-member-electoral-committee-ahead-of-elections.html",
-      "published_date": "2026-10-25T12:20:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Engaging APC data boys, insult to my integrity — Pat Utomi",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-engaging-apc-data-boys-insult-to-my-integrity-pat-utomi/",
-      "published_date": "2026-10-25T11:24:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can the media announce election results before INEC’s official declaration?, By Samson Itodo",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/920048-can-the-media-announce-election-results-before-inecs-official-declaration-by-samson-itodo.html",
-      "published_date": "2026-10-25T11:20:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luminate Group visits CJID, praises partnership on AI governance",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/920046-luminate-group-visits-cjid-praises-partnership-on-ai-governance.html",
-      "published_date": "2026-10-25T11:05:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "MacArthur Foundation visits CJID, Premium Times, reaffirms support for media accountability",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/920029-macarthur-foundation-visits-cjid-premium-times-reaffirms-support-for-media-accountability.html",
-      "published_date": "2026-10-25T11:00:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother, child die as two container trucks overturn in Lagos",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/mother-child-die-as-two-container-trucks-overturn-in-lagos/",
-      "published_date": "2026-10-25T10:15:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NDLEA arrests US-based grandma, South African woman with large cocaine, loud shipments",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/ndlea-arrests-us-based-grandma-south-african-woman-with-large-cocaine-loud-shipments/",
-      "published_date": "2026-10-25T10:11:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why aren’t African economists winning Nobel Prizes?, By ‘Tope Fasua",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/920017-why-arent-african-economists-winning-nobel-prizes-by-tope-fasua.html",
-      "published_date": "2026-10-25T10:00:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NPFL Preview: Rivers United face Bendel test as Ikorodu City, Shooting Stars clash in Lagos",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/920033-npfl-preview-rivers-united-face-bendel-test-as-ikorodu-city-shooting-stars-clash-in-lagos.html",
-      "published_date": "2026-10-25T09:44:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "APC Campaign Flag Off: Tinubu shuts down Kaduna",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/919978-apc-campaign-flag-off-tinubu-shuts-down-kaduna.html",
-      "published_date": "2026-10-24T22:21:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Enugu Forest Guard reaffirms commitment to safe forests, strengthens inter-agency cooperation",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/919972-enugu-forest-guard-reaffirms-commitment-to-safe-forests-strengthens-inter-agency-cooperation.html",
-      "published_date": "2026-10-24T22:06:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Enugu jingles competition: Pincode wins ₦2m as 20 entries emerge winners",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/919965-enugu-jingles-competition-pincode-wins-%e2%82%a62m-as-20-entries-emerge-winners.html",
-      "published_date": "2026-10-24T21:04:09+00:00",
       "category": "Local Events"
     }
   ]
