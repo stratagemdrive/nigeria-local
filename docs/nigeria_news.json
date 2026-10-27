@@ -76,13 +76,6 @@
       "url": "https://www.premiumtimesng.com/health/health-news/919051-gatefield-warns-financial-hardship-corruption-are-undermining-nigerians-health.html",
       "published_date": "2026-10-21T22:13:02+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Nigeria’s Permanent Representative presents $14bn UN budget to Tinubu",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/918319-nigerias-permanent-representative-presents-14bn-un-budget-to-tinubu.html",
-      "published_date": "2026-10-19T18:29:34+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -113,23 +106,16 @@
       "url": "https://www.vanguardngr.com/2026/10/igbo-rebuff-of-todays-nigerian-army-i-by-ochereome-nnanna/",
       "published_date": "2026-10-21T00:14:21+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Uba Sani resolves 10-year land dispute, offers 704 households plots, farmlands, Free Fertiliser",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/918372-uba-sani-resolves-10-year-land-dispute-offers-704-households-plots-farmlands-free-fertiliser.html",
-      "published_date": "2026-10-19T22:41:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Soldiers rescue 11 passengers from kidnappers in Kogi",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/north-central/918334-soldiers-rescue-11-passengers-from-kidnappers-in-kogi.html",
-      "published_date": "2026-10-19T19:10:46+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "El Niño: What it means and how Nigerians should prepare",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/el-nino-what-it-means-and-how-nigerians-should-prepare/",
+      "published_date": "2026-10-26T19:12:09+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Making gas operations safer",
       "source": "Vanguard",
@@ -198,20 +184,6 @@
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/police-disrupt-endsars-memorial-at-lekki-tollgate-tear-gas-rhodes-vivour-doherty/",
       "published_date": "2026-10-20T12:54:26+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Reps back Tinubu, Dangote, NMDPRA, demand pipeline funding",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/reps-back-tinubu-dangote-nmdpra-demand-pipeline-funding/",
-      "published_date": "2026-10-20T00:01:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Activist urges Nigerians to reject candidates without environmental plans",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/918327-activist-urges-nigerians-to-reject-candidates-without-environmental-plans.html",
-      "published_date": "2026-10-19T18:36:35+00:00",
       "category": "Energy"
     }
   ],
@@ -359,6 +331,55 @@
   ],
   "Local Events": [
     {
+      "title": "Video: Moment Burna Boy presented Socrates Award to Arsenal’s Saka",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/video-moment-burna-boy-presented-socrates-award-to-arsenals-saka/",
+      "published_date": "2026-10-26T21:50:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDC opens new Abuja base, targets 2027 electoral victory",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/ndc-opens-new-abuja-base-targets-2027-electoral-victory/",
+      "published_date": "2026-10-26T20:11:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niger APC raises 525-member campaign council, targets 2m votes for Tinubu/Bago",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/niger-apc-raises-525-member-campaign-council-targets-2m-votes-for-tinubu-bago/",
+      "published_date": "2026-10-26T19:57:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Impunity, justice system failure fuelling violence in North Central — Osinbajo",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/impunity-justice-system-failure-fuelling-violence-in-north-central-osinbajo/",
+      "published_date": "2026-10-26T19:22:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Rise Networks, INEC, Meta, Google, Microsoft join forces to launch #AI4Elections Hackathon",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-rise-networks-inec-meta-google-microsoft-join-forces-to-launch-ai4elections-hackathon/",
+      "published_date": "2026-10-26T19:02:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: ADC dismisses APC’s 2m votes target for Tinubu in Jigawa‎",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-adc-dismisses-apcs-2m-votes-target-for-tinubu-in-jigawa/",
+      "published_date": "2026-10-26T18:59:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola patient arrives in Switzerland, as Nigeria sustains surveillance",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/ebola-patient-arrives-in-switzerland-for-treatment-as-nigeria-sustains-surveillance/",
+      "published_date": "2026-10-26T18:58:50+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Wazirin Tinubu: The influence and burden of Ibrahim Masari, By Umar Farouk Bala",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/opinion/920330-wazirin-tinubu-the-influence-and-burden-of-ibrahim-masari-by-umar-farouk-bala.html",
@@ -447,55 +468,6 @@
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/health/health-news/920423-ebola-resident-doctors-demand-urgent-hospital-preparedness-protection-of-frontline-workers.html",
       "published_date": "2026-10-26T15:46:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After patient’s evacuation, is Nigeria Ebola-free? – WHO clarifies",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/after-patients-evacuation-is-nigeria-ebola-free-who-clarifies/",
-      "published_date": "2026-10-26T15:29:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OK Movement faults NDC campaign council",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-east/920412-ok-movement-faults-ndc-campaign-council.html",
-      "published_date": "2026-10-26T15:22:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria’s NELFUND better than US, UK education loan models – UNIBEN VC",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/nigerias-nelfund-better-than-us-uk-education-loan-models-uniben-vc/",
-      "published_date": "2026-10-26T14:07:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Northern leaders must share blame for region’s backwardness – Gov Uba Sani",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/northern-leaders-must-share-blame-for-regions-backwardness-gov-uba-sani/",
-      "published_date": "2026-10-26T13:48:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Justice, fairness, peace and Nigeria’s 2027 election",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/justice-fairness-peace-and-nigerias-2027-election/",
-      "published_date": "2026-10-26T00:29:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "We never left Egypt, only prodigals need to return home, by Owei Lakemfa",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/we-never-left-egypt-only-prodigals-need-to-return-home-by-owei-lakemfa/",
-      "published_date": "2026-10-26T00:19:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinubu: Lion at home, lamb abroad? By Suleiman A. Suleiman",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/tinubu-lion-at-home-lamb-abroad-by-suleiman-a-suleiman/",
-      "published_date": "2026-10-26T00:08:44+00:00",
       "category": "Local Events"
     }
   ]
