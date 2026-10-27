@@ -80,6 +80,13 @@
   ],
   "Military": [
     {
+      "title": "FG partners US foundation to mobilise $1bn to tackle child malnutrition",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/920707-fg-partners-us-foundation-to-mobilise-1bn-to-tackle-child-malnutrition.html",
+      "published_date": "2026-10-27T14:05:25+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Hunters kill 14 bandits in Bakori attack, two residents die",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/news/top-news/920031-hunters-kill-14-bandits-in-bakori-attack-two-residents-die.html",
@@ -109,6 +116,13 @@
     }
   ],
   "Energy": [
+    {
+      "title": "Bayelsa suspends oil firm’s land acquisition over fatal community dispute",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/920702-bayelsa-suspends-oil-firms-land-acquisition-over-fatal-community-dispute.html",
+      "published_date": "2026-10-27T13:47:54+00:00",
+      "category": "Energy"
+    },
     {
       "title": "El Niño: What it means and how Nigerians should prepare",
       "source": "Vanguard",
@@ -178,16 +192,37 @@
       "url": "https://www.premiumtimesng.com/news/top-news/919047-senate-panel-summons-nmdpra-nnpc-neiti-over-discrepancies-in-petrol-import-records.html",
       "published_date": "2026-10-21T21:57:14+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Police disrupt #EndSARS memorial at Lekki tollgate, tear gas Rhodes-Vivour, Doherty",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/police-disrupt-endsars-memorial-at-lekki-tollgate-tear-gas-rhodes-vivour-doherty/",
-      "published_date": "2026-10-20T12:54:26+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Ex-presidential candidate, others appointed to governing councils of Kwara agencies",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/920742-ex-presidential-candidate-others-appointed-to-governing-councils-of-kwara-agencies.html",
+      "published_date": "2026-10-27T15:51:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "FirstBank partners Google Pay, expanding digital payment options for card holders",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/920733-firstbank-partners-google-pay-expanding-digital-payment-options-for-card-holders.html",
+      "published_date": "2026-10-27T15:41:42+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "UBA intensifies N61bn loan recovery drive, seeks jail term for WEMPCO directors",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/920726-uba-intensifies-n61bn-loan-recovery-drive-seeks-jail-term-for-wempco-directors.html",
+      "published_date": "2026-10-27T15:20:43+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EFCC witness admits AMCON board approved NG Eagle sale",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/efcc-witness-admits-amcon-board-approved-ng-eagle-sale/",
+      "published_date": "2026-10-27T15:04:03+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Standard Chartered Nigeria wins International Banking Excellence Award at 2026 BAFI Awards",
       "source": "Premium Times",
@@ -299,37 +334,121 @@
       "url": "https://www.premiumtimesng.com/news/920097-enugu-traders-reaffirm-support-for-gov-mbahs-second-term.html",
       "published_date": "2026-10-25T12:50:25+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "2027: Tinubu has lost touch with reality, unaware he’s president — Shaibu",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-tinubu-has-lost-touch-with-reality-unaware-hes-president-shaibu/",
-      "published_date": "2026-10-25T12:02:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Winners emerge in NCDMB Essay Competition",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/919969-winners-emerge-in-ncdmb-essay-competition.html",
-      "published_date": "2026-10-24T21:46:43+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "2027: Makinde calls for economic, security ‘reset’ at campaign group launch",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/919933-2027-makinde-calls-for-economic-security-reset-at-campaign-group-launch.html",
-      "published_date": "2026-10-24T19:30:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Makinde faults Tinubu over foreign reserves claim, says Nigerians still hungry",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/makinde-faults-tinubu-over-foreign-reserves-claim-says-nigerians-still-hungry/",
-      "published_date": "2026-10-24T18:40:14+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Ekiti: Oyebanji, INEC close case as tribunal adjourns for adoption of addresses",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/920731-ekiti-oyebanji-inec-close-case-as-tribunal-adjourns-for-adoption-of-addresses.html",
+      "published_date": "2026-10-27T15:38:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court to deliver judgement in El-Rufai’s N1 billion rights suit",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/920729-court-to-deliver-judgement-in-el-rufais-n1-billion-rights-suit.html",
+      "published_date": "2026-10-27T15:35:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niger Miners’ Deaths: FG panel says 37 suspects died from suffocation",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/920723-niger-miners-deaths-fg-panel-says-37-suspects-died-from-suffocation.html",
+      "published_date": "2026-10-27T15:11:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court dismisses case against man who allegedly threatened Kano governor",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/court-dismisses-case-against-man-who-allegedly-threatened-kano-governor/",
+      "published_date": "2026-10-27T15:11:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Insecurity gradually reducing in Nigeria – Kano Rep",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/insecurity-gradually-reducing-in-nigeria-kano-rep/",
+      "published_date": "2026-10-27T15:08:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos Assembly okays establishment of state police",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/lagos-assembly-okays-establishment-of-state-police/",
+      "published_date": "2026-10-27T14:54:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court strikes cybercrime charges against man accused of threatening governor",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/920721-court-strikes-cybercrime-charges-against-man-accused-of-threatening-governor.html",
+      "published_date": "2026-10-27T14:54:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NCDC dismisses Ebola rumours, says no confirmed case in Nigeria",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/ncdc-dismisses-ebola-rumours-says-no-confirmed-case-in-nigeria/",
+      "published_date": "2026-10-27T14:53:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kogi Assembly approves state police",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/kogi-assembly-approves-state-police/",
+      "published_date": "2026-10-27T14:49:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Wike says PDP members across states must support Tinubu",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-wike-says-pdp-members-across-states-must-support-tinubu/",
+      "published_date": "2026-10-27T14:42:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu transmits bill to Senate to allow transfer of convicted Nigerians abroad back home",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/headlines/920714-tinubu-transmits-bill-to-senate-to-allow-transfer-of-convicted-nigerians-abroad-back-home.html",
+      "published_date": "2026-10-27T14:34:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meta, Google, Microsoft to support INEC in tackling false claims ahead of 2027 elections",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/920705-meta-google-microsoft-to-support-inec-in-tackling-false-claims-ahead-of-2027-elections.html",
+      "published_date": "2026-10-27T13:58:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police arrest alleged fake lawyer after 10 years of impersonation",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/920700-police-arrest-alleged-fake-lawyer-after-10-years-of-impersonation.html",
+      "published_date": "2026-10-27T13:41:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ansaru claims responsibility for killing of Katsina cleric, Sheikh Masusuka",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/headlines/920695-ansaru-claims-responsibility-for-killing-of-katsina-cleric-sheikh-masusuka.html",
+      "published_date": "2026-10-27T13:32:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bayelsa govt, CSOs, unite against air pollution",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/920689-bayelsa-govt-csos-unite-against-air-pollution.html",
+      "published_date": "2026-10-27T13:21:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reps move to halt school fee hikes in tertiary institutions, probe impact on NELFUND",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/920687-reps-move-to-halt-school-fee-hikes-in-tertiary-institutions-probe-impact-on-nelfund.html",
+      "published_date": "2026-10-27T13:18:39+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Video: Moment Burna Boy presented Socrates Award to Arsenal’s Saka",
       "source": "Vanguard",
@@ -356,118 +475,6 @@
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/impunity-justice-system-failure-fuelling-violence-in-north-central-osinbajo/",
       "published_date": "2026-10-26T19:22:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Rise Networks, INEC, Meta, Google, Microsoft join forces to launch #AI4Elections Hackathon",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-rise-networks-inec-meta-google-microsoft-join-forces-to-launch-ai4elections-hackathon/",
-      "published_date": "2026-10-26T19:02:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: ADC dismisses APC’s 2m votes target for Tinubu in Jigawa‎",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-adc-dismisses-apcs-2m-votes-target-for-tinubu-in-jigawa/",
-      "published_date": "2026-10-26T18:59:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola patient arrives in Switzerland, as Nigeria sustains surveillance",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/ebola-patient-arrives-in-switzerland-for-treatment-as-nigeria-sustains-surveillance/",
-      "published_date": "2026-10-26T18:58:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wazirin Tinubu: The influence and burden of Ibrahim Masari, By Umar Farouk Bala",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/920330-wazirin-tinubu-the-influence-and-burden-of-ibrahim-masari-by-umar-farouk-bala.html",
-      "published_date": "2026-10-26T17:02:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "LAWMA begins expansion works at Olusosun dumpsite to boost waste evacuation",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/lawma-begins-expansion-works-at-olusosun-dumpsite-to-boost-waste-evacuation/",
-      "published_date": "2026-10-26T16:59:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mutilated body of motorcyclist found as similar mystery killings rise",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/north-central/920461-mutilated-body-of-motorcyclist-found-as-similar-mystery-killings-rise.html",
-      "published_date": "2026-10-26T16:45:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arik Receivership: Court admits AMCON board resolutions",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/arik-receivership-court-admits-amcon-board-resolutions/",
-      "published_date": "2026-10-26T16:37:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinubu pens tribute to veteran journalist Lade Bonuola at 80",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/920454-tinubu-pens-tribute-to-veteran-journalist-lade-bonuola-at-80.html",
-      "published_date": "2026-10-26T16:34:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola: Nigeria may declare outbreak over in December – Minister",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/health/health-news/920452-ebola-nigeria-may-declare-outbreak-over-in-december-minister.html",
-      "published_date": "2026-10-26T16:27:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola: Plateau reopens isolation centres, steps up surveillance",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/health/health-news/920445-ebola-plateau-reopens-isolation-centres-steps-up-surveillance.html",
-      "published_date": "2026-10-26T16:21:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Africa Magic adds five dramas, thrillers to October lineup",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/nollywood/920414-africa-magic-adds-five-dramas-thrillers-to-october-lineup.html",
-      "published_date": "2026-10-26T16:19:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ato Quayson and the challenge to Ghana: Rethinking the past and Future, By Toyin Falola",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/920334-ato-quayson-and-the-challenge-to-ghana-rethinking-the-past-and-future-by-toyin-falola.html",
-      "published_date": "2026-10-26T16:17:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Actor Patrick Diabuah questions ‘God told me’ claims as he reflects on ‘The Ten’ role",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/nollywood/920421-actor-patrick-diabuah-questions-god-told-me-claims-as-he-reflects-on-the-ten-role.html",
-      "published_date": "2026-10-26T16:14:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "INEC, Meta, Google, Microsoft, Rise Networks launch AI hackathon ahead of 2027 elections",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/920433-inec-meta-google-microsoft-rise-networks-launch-ai-hackathon-ahead-of-2027-elections.html",
-      "published_date": "2026-10-26T16:09:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brandcom Awards 2026: Indigo shines with four awards, emerges PR Agency of the Year",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/920426-brandcom-awards-2026-indigo-shines-with-four-awards-emerges-pr-agency-of-the-year.html",
-      "published_date": "2026-10-26T15:53:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola: Resident doctors demand urgent hospital preparedness, protection of frontline workers",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/health/health-news/920423-ebola-resident-doctors-demand-urgent-hospital-preparedness-protection-of-frontline-workers.html",
-      "published_date": "2026-10-26T15:46:00+00:00",
       "category": "Local Events"
     }
   ]
