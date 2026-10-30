@@ -34,20 +34,6 @@
       "url": "https://www.vanguardngr.com/2026/10/nigerias-first-ebola-case-highly-similar-to-kenyan-one-minister/",
       "published_date": "2026-10-23T21:12:34+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "The seventh Kano social influencers conference, By Jibrin Ibrahim",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/919606-the-seventh-kano-social-influencers-conference-by-jibrin-ibrahim.html",
-      "published_date": "2026-10-23T14:31:24+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CBN outlines market infrastructure supporting Nigeria–China financial flows at Beijing investor forum",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/919590-cbn-outlines-market-infrastructure-supporting-nigeria-china-financial-flows-at-beijing-investor-forum.html",
-      "published_date": "2026-10-23T13:59:59+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -95,6 +81,27 @@
     }
   ],
   "Energy": [
+    {
+      "title": "Rev360: Reimagining tax administration for a digital Nigeria, By Emmanuel Jonathan",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/921602-rev360-reimagining-tax-administration-for-a-digital-nigeria-by-emmanuel-jonathan.html",
+      "published_date": "2026-10-30T16:46:41+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How Young Nigerians Are Building Businesses Before They Raise Money",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/how-young-nigerians-are-building-businesses-before-they-raise-money/",
+      "published_date": "2026-10-30T16:25:21+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Tinubu appoints six executive directors for NMDPRA",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/921549-tinubu-appoints-six-executive-directors-for-nmdpra.html",
+      "published_date": "2026-10-30T11:47:23+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Falana seeks recovery of $123bn in oil funds",
       "source": "Vanguard",
@@ -199,30 +206,44 @@
       "url": "https://www.premiumtimesng.com/regional/south-south-regional/919946-2027-minister-threatens-to-deploy-federal-might-in-akwa-ibom-election.html",
       "published_date": "2026-10-24T19:57:41+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Rivers Boat Tragedy: Fubara vows probe as 10 reportedly die",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/919586-rivers-boat-tragedy-fubara-vows-probe-as-10-reportedly-die.html",
-      "published_date": "2026-10-23T13:56:00+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "$242m Petroleum Products Diversion Claim: UBA secures court order against Vitol, four others",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/919563-242m-petroleum-products-diversion-claim-uba-secures-court-order-against-vitol-four-others.html",
-      "published_date": "2026-10-23T12:47:42+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Benue government, JED clash over alleged attack on electricity worker",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/north-central/919558-benue-government-jed-clash-over-alleged-attack-on-electricity-worker.html",
-      "published_date": "2026-10-23T12:29:28+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "OPay raises $304m in US IPO, valued at $4bn",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/opay-raises-304m-in-us-ipo-valued-at-4bn/",
+      "published_date": "2026-10-30T16:46:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Binance reserves $6.34bn to cover stolen assets after cyberattack – CEO",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/921592-binance-reserves-6-34bn-to-cover-stolen-assets-after-cyberattack-ceo.html",
+      "published_date": "2026-10-30T15:58:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Stakeholders warn Nigeria’s reliance on imported drug ingredients threatens medicine security",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/921588-stakeholders-warn-nigerias-reliance-on-imported-drug-ingredients-threatens-medicine-security.html",
+      "published_date": "2026-10-30T15:13:58+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Beauty stakeholders urge investment to unlock Africa’s $66bn market",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/921583-beauty-stakeholders-urge-investment-to-unlock-africas-66bn-market.html",
+      "published_date": "2026-10-30T14:57:32+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Sowunmi challenges Utomi over claim Obi will strengthen naira to N500/$1",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/sowunmi-challenges-utomi-over-claim-obi-will-strengthen-naira-to-n500-1/",
+      "published_date": "2026-10-30T14:49:06+00:00",
+      "category": "Economy"
+    },
     {
       "title": "‎NDE targets job growth with five-year plan, revamp of 87 training centres",
       "source": "Vanguard",
@@ -327,44 +348,135 @@
       "url": "https://www.premiumtimesng.com/promoted/921158-abiodun-reassures-ijebuland-on-awujale-projects-economic-boom-for-ogun-east-2.html",
       "published_date": "2026-10-28T21:50:33+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "No ministers paid billions for appointments, APC insists",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/no-ministers-paid-billions-for-appointments-apc-insists/",
-      "published_date": "2026-10-28T21:28:35+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Oluremi Tinubu, NITDA and Nigeria’s digital future, By Shuaib S Agaka",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/921135-oluremi-tinubu-nitda-and-nigerias-digital-future-by-shuaib-s-agaka.html",
-      "published_date": "2026-10-28T21:15:09+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Moonshot 2026: Day 1 highlights as tech leaders, founders gather in Lagos [Photos]",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/moonshot-2026-day-1-highlights-as-tech-leaders-founders-gather-in-lagos-photos/",
-      "published_date": "2026-10-28T19:21:42+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Zenith Bank expands digital payment options with Google Pay launch",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/921098-zenith-bank-expands-digital-payment-options-with-google-pay-launch.html",
-      "published_date": "2026-10-28T16:51:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "TUC rejects FG’s proposed ₦70,000 wage award to workers",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/tuc-rejects-fgs-proposed-%e2%82%a670000-wage-award-to-workers/",
-      "published_date": "2026-10-28T16:27:43+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "‘Daddy loves you specially,’ — D’banj remembers late son eight years after death",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/daddy-loves-you-specially-dbanj-remembers-late-son-eight-years-after-death/",
+      "published_date": "2026-10-30T16:29:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Atiku’s son unveils plan for Tinubu’s re-election",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-atikus-son-unveils-plan-for-tinubus-re-election/",
+      "published_date": "2026-10-30T15:26:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "HMOs dispute Lagos govt’s endorsement claim over private health plan",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/921586-hmos-dispute-lagos-govts-endorsement-claim-over-private-health-plan.html",
+      "published_date": "2026-10-30T15:07:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria, Russia target April 2027 for new air services agreement",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/nigeria-russia-target-april-2027-for-new-air-services-agreement/",
+      "published_date": "2026-10-30T14:58:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHO raises alarm as 75% of diabetes cases in Africa remain undiagnosed",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/921580-who-raises-alarm-as-75-of-diabetes-cases-in-africa-remain-undiagnosed.html",
+      "published_date": "2026-10-30T14:33:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: PDP says party’s presidential candidate still in race despite backing Tinubu",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/921578-2027-pdp-says-partys-presidential-candidate-still-in-race-despite-backing-tinubu.html",
+      "published_date": "2026-10-30T14:29:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wike praises Dunamis Church for building pedestrian bridge in Abuja",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/921576-wike-praises-dunamis-church-for-building-pedestrian-bridge-in-abuja.html",
+      "published_date": "2026-10-30T14:22:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDC defends Obi’s single-term pledge, dismisses Okorocha’s ‘gambling’ claim",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/ndc-defends-obis-single-term-pledge-dismisses-okorochas-gambling-claim/",
+      "published_date": "2026-10-30T14:09:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gunmen kill four in Plateau community despite curfew",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/921574-gunmen-kill-four-in-plateau-community-despite-curfew.html",
+      "published_date": "2026-10-30T13:56:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niger Mass Deaths: Probe panel recommends scholarships for victims’ children, N1.4bn compensations",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/921572-niger-mass-deaths-probe-panel-recommends-scholarships-for-victims-children-n1-4bn-compensations.html",
+      "published_date": "2026-10-30T13:30:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDC urges INEC to remove deceased Nigerians from voters’ register",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/ndc-urges-inec-to-remove-deceased-nigerians-from-voters-register/",
+      "published_date": "2026-10-30T13:21:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "29-year-old Nigerian man killed as tree crushes car in London",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/29-year-old-nigerian-man-killed-as-tree-crushes-car-in-london/",
+      "published_date": "2026-10-30T13:07:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FBI offers over N6m reward for information on wanted Nigerian woman",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/fbi-offers-over-n6m-reward-for-information-on-wanted-nigerian-woman/",
+      "published_date": "2026-10-30T12:55:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I was warned not to buy car or house’ — Nigerian Pastor recounts ritual wealth",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/i-was-warned-not-to-buy-car-or-house-nigerian-pastor-recounts-ritual-wealth/",
+      "published_date": "2026-10-30T12:43:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EXCLUSIVE: Detainees drank urine, sweat in NSCDC Niger cell before 33 of them died – Report",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/921553-exclusive-detainees-drank-urine-sweat-in-nscdc-niger-cell-before-33-of-them-died-report.html",
+      "published_date": "2026-10-30T12:30:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Falana urges Nigerians to look beyond Abuja, hold states, LGs accountable",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/921561-falana-urges-nigerians-to-look-beyond-abuja-hold-states-lgs-accountable.html",
+      "published_date": "2026-10-30T12:21:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Senatorial Race: How I defeated Uzodimma in court – Okorocha",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/921554-senatorial-race-how-i-defeated-uzodimma-in-court-okorocha.html",
+      "published_date": "2026-10-30T12:02:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "154 Katsina students discharged after hospitalisation, cause remains unclear",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/921546-154-katsina-students-discharged-after-hospitalisation-cause-remains-unclear.html",
+      "published_date": "2026-10-30T11:38:15+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Samson Adamu makes history as CAF confirms Nigerian as General Secretary",
       "source": "Premium Times",
@@ -377,132 +489,6 @@
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/regional/north-central/921471-court-jails-fcda-official-seven-years-for-defrauding-land-buyer.html",
       "published_date": "2026-10-29T22:03:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Utomi, Ohaa, Yesufu urge Nigerians to mobilise support for Obi",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-utomi-ohaa-yesufu-urge-nigerians-to-mobilise-support-for-obi/",
-      "published_date": "2026-10-29T21:51:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I’ll work closely with Kwankwaso if elected, Obi reassures",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/ill-work-closely-with-kwankwaso-if-elected-obi-reassures/",
-      "published_date": "2026-10-29T21:41:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Peter Obi rolls out plans for Nigeria, challenges Tinubu on borrowing",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/921459-2027-peter-obi-rolls-out-plans-for-nigeria-challenges-tinubu-on-borrowing.html",
-      "published_date": "2026-10-29T21:35:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IOM unveils 25-year migration plan for Nigeria",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/921457-iom-unveils-25-year-migration-plan-for-nigeria.html",
-      "published_date": "2026-10-29T21:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "APC youth support group urges unity, warns against divisions ahead of 2027 elections",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/921455-apc-youth-support-group-urges-unity-warns-against-divisions-ahead-of-2027-elections.html",
-      "published_date": "2026-10-29T21:04:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos govt threatens to seal illegal boreholes, prosecute operators",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/921447-lagos-govt-threatens-to-seal-illegal-boreholes-prosecute-operators.html",
-      "published_date": "2026-10-29T20:44:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "There is no other Stella for Ebola, By Azu Ishiekwene",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/921443-there-is-no-other-stella-for-ebola-by-azu-ishiekwene.html",
-      "published_date": "2026-10-29T20:44:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Just In: Tinubu lands in Saudi Arabia for Umrah",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/just-in-tinubu-lands-in-saudi-arabia-for-umrah/",
-      "published_date": "2026-10-29T20:21:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "GYMFEST: Organisers hail increased participation, target international breakthrough",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/921424-gymfest-organisers-hail-increased-participation-target-international-breakthrough.html",
-      "published_date": "2026-10-29T20:01:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola: Africa CDC warns continent ‘not winning’ as cases surpass 10,000",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/health/health-news/921422-ebola-africa-cdc-warns-continent-not-winning-as-cases-surpass-10000.html",
-      "published_date": "2026-10-29T19:30:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abuja court jails fraudster seven years for defrauding American $205,238",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/921411-abuja-court-jails-fraudster-seven-years-for-defrauding-american-205238.html",
-      "published_date": "2026-10-29T19:24:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EFCC hands over recovered N1.05bn entitlements to 659 disengaged Adamawa teachers",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/nnorth-east/921389-efcc-hands-over-recovered-n1-05bn-entitlements-to-659-disengaged-adamawa-teachers.html",
-      "published_date": "2026-10-29T19:04:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Tompolo, Oyebanji task Ekiti voters on landslide win for Tinubu, unveil 25 vehicles",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/ssouth-west/921387-2027-tompolo-oyebanji-task-ekiti-voters-on-landslide-win-for-tinubu-unveil-25-vehicles.html",
-      "published_date": "2026-10-29T18:54:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘One in 4 Nigerian stroke patients under 50’",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/one-in-4-nigerian-stroke-patients-under-50/",
-      "published_date": "2026-10-29T18:52:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anyaoku condemns xenophobic attacks in South Africa",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/anyaoku-condemns-xenophobic-attacks-in-south-africa/",
-      "published_date": "2026-10-29T18:44:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NLC faults Tinubu’s fresh external loan request",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/nlc-faults-tinubus-fresh-external-loan-request/",
-      "published_date": "2026-10-29T16:11:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICPC docks alleged ‘fake’ PFIPC DG Adeyemi for forgery, impersonation",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/icpc-docks-alleged-fake-pfipc-dg-adeyemi-for-forgery-impersonation/",
-      "published_date": "2026-10-29T15:57:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinubu unveils free healthcare for pensioners",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/tinubu-unveils-free-healthcare-for-pensioners/",
-      "published_date": "2026-10-29T15:51:05+00:00",
       "category": "Local Events"
     }
   ]
