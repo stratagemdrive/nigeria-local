@@ -31,6 +31,20 @@
   ],
   "Military": [
     {
+      "title": "Over 30 suspected bandits’ bodies found after gun battle in Zamfara — Police",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/nwest/921748-over-30-suspected-bandits-bodies-found-after-gun-battle-in-zamfara-police.html",
+      "published_date": "2026-10-31T15:35:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "2027 Politics Watch: From Atiku’s register demands to Tinubu’s borrowing defence, Friday’s roundup",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/921686-2027-politics-watch-from-atikus-register-demands-to-tinubus-borrowing-defence-fridays-roundup.html",
+      "published_date": "2026-10-31T06:58:30+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Fake soldier arrested for attacking employer, stealing car",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/fake-soldier-arrested-for-attacking-employer-stealing-car/",
@@ -217,6 +231,27 @@
   ],
   "Economy": [
     {
+      "title": "Why government funding alone won’t fix Nigeria’s education crisis, By Adeola Akinremi",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/921719-why-government-funding-alone-wont-fix-nigerias-education-crisis-by-adeola-akinremi.html",
+      "published_date": "2026-10-31T14:08:22+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "OPay withdraws planned $304m US IPO over foreign regulatory inquiry",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/921715-opay-withdraws-planned-304m-us-ipo-over-foreign-regulatory-inquiry.html",
+      "published_date": "2026-10-31T13:52:55+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tinubu welcomes Airtel’s open network launch",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/921690-tinubu-welcomes-airtels-open-network-launch.html",
+      "published_date": "2026-10-31T07:43:33+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Abiodun’s Road Revolution: From forgotten communities to connected economic corridors, By Kayode Akinmade",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/promoted/921660-abioduns-road-revolution-from-forgotten-communities-to-connected-economic-corridors-by-kayode-akinmade.html",
@@ -334,30 +369,128 @@
       "url": "https://www.premiumtimesng.com/promoted/921319-enugu-govt-humatrix-partner-to-create-100000-jobs-through-bpo.html",
       "published_date": "2026-10-29T16:08:45+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Nigeria’s Excise Stamp Policy: Setback for tax reform? By James Z Mayokun",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/921315-nigerias-excise-stamp-policy-setback-for-tax-reform-by-james-z-mayokun.html",
-      "published_date": "2026-10-29T15:43:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigeria borrows to build, not to bridge fiscal gaps – Tinubu",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/nigeria-must-borrow-to-build-not-to-bridge-fiscal-gaps-tinubu/",
-      "published_date": "2026-10-29T15:12:30+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How technology is changing the trading experience",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/921307-how-technology-is-changing-the-trading-experience.html",
-      "published_date": "2026-10-29T15:10:17+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Tech Armageddon is here, By Osmund Agbo",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/921740-tech-armageddon-is-here-by-osmund-agbo.html",
+      "published_date": "2026-10-31T15:47:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Immigration orders officers to eliminate delays, report cyber threats",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/immigration-orders-officers-to-eliminate-delays-report-cyber-threats/",
+      "published_date": "2026-10-31T15:32:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria, Ghana fly Africa’s flag in U-17 Women’s World Cup Quarter-Final showdowns",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/921742-nigeria-ghana-fly-africas-flag-in-u-17-womens-world-cup-quarter-final-showdowns.html",
+      "published_date": "2026-10-31T15:27:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TRENDING: Toyin posts TikTok partnership after Funke’s Facebook deal, sparks rivalry debate",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/nollywood/921726-trending-toyin-posts-tiktok-partnership-after-funkes-facebook-deal-sparks-rivalry-debate.html",
+      "published_date": "2026-10-31T15:13:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One dies, others injured in multiple accidents across Lagos",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/one-dies-others-injured-in-multiple-accidents-across-lagos/",
+      "published_date": "2026-10-31T14:57:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola: Nigeria reports two new suspected cases in North-east",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/921722-just-in-ebola-nigeria-reports-two-new-suspected-cases-in-north-east.html",
+      "published_date": "2026-10-31T14:50:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two suspected Ebola cases identified in North-East Nigeria – NCDC",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/breaking-two-suspected-ebola-cases-identified-in-north-east-nigeria-ncdc/",
+      "published_date": "2026-10-31T14:37:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: ‘Three factors that’ll swing votes for Tinubu’",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/2027-three-factors-thatll-swing-votes-for-tinubu/",
+      "published_date": "2026-10-31T14:17:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Atiku’s son: ‘My support for Tinubu is personal’; pledges 10  buses",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/atikus-son-my-support-for-tinubu-is-personal-pledges-10-buses/",
+      "published_date": "2026-10-31T13:41:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CAN questions conviction of Christian woman in Borno",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/can-questions-conviction-of-christian-woman-in-borno/",
+      "published_date": "2026-10-31T13:33:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "What Rabiu, Uba Sani, Yari, others said after Umrah with Tinubu",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/nwest/921713-what-rabiu-uba-sani-yari-others-said-after-umrah-with-tinubu.html",
+      "published_date": "2026-10-31T13:17:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PT Health Watch: How to stay safe as El Niño raises heat risks in Nigeria",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-interviews/921711-pt-health-watch-how-to-stay-safe-as-el-nino-raises-heat-risks-in-nigeria.html",
+      "published_date": "2026-10-31T13:10:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oando reports 9% revenue growth to ₦2.78trn as production rises 14% Sept ending 2026",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/921706-oando-reports-9-revenue-growth-to-%e2%82%a62-78trn-as-production-rises-14-sept-ending-2026.html",
+      "published_date": "2026-10-31T11:55:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sanwo-Olu rallies LGs for cleanliness contest, insists on Lagos monthly sanitation",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/10/sanwo-olu-rallies-lgs-for-cleanliness-contest-insists-on-lagos-monthly-sanitation/",
+      "published_date": "2026-10-31T11:53:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iheanacho targets Bursaspor legendary status after record-breaking start in Turkey",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/921703-iheanacho-targets-bursaspor-legendary-status-after-record-breaking-start-in-turkey.html",
+      "published_date": "2026-10-31T10:14:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NPFL Matchday 11 Preview: Rivers United, Rangers set for top-of-the-table showdown as title race heats up",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/921677-npfl-matchday-11-preview-rivers-united-rangers-set-for-top-of-the-table-showdown-as-title-race-heats-up.html",
+      "published_date": "2026-10-31T10:07:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EXCLUSIVE: Report details NSCDC officers’ contributions to detention tragedy in Niger, recommends dismissal, prosecution",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/921693-exclusive-report-details-nscdc-officers-contributions-to-detention-tragedy-in-niger-recommends-dismissal-prosecution.html",
+      "published_date": "2026-10-31T07:54:30+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Five key lessons from Nigeria Health Watch’s 2026 Health Conference",
       "source": "Premium Times",
@@ -377,125 +510,6 @@
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/ndlea-no-payment-for-drug-tests-by-interior-ministry-recruits/",
       "published_date": "2026-10-30T21:25:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zamfara is evidence of transformational leadership under Gov Lawal, says EFCC Chairman",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/921661-zamfara-is-evidence-of-transformational-leadership-under-gov-lawal-says-efcc-chairman.html",
-      "published_date": "2026-10-30T21:11:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Super Eagles defender Ogbu highlights importance of financial planning for footballers",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/football/921654-super-eagles-defender-ogbu-highlights-importance-of-financial-planning-for-footballers.html",
-      "published_date": "2026-10-30T20:47:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Rivers ADC seeks Ikwerre Elders’ support for Atiku, Amaechi",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-rivers-adc-seeks-ikwerre-elders-support-for-atiku-amaechi/",
-      "published_date": "2026-10-30T20:44:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos warns residents of impending extreme heat",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/lagos-warns-residents-of-impending-extreme-heat/",
-      "published_date": "2026-10-30T20:36:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NIPRD records gains in research, staff welfare, public health",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/921650-niprd-records-gains-in-research-staff-welfare-public-health.html",
-      "published_date": "2026-10-30T20:32:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‎NSITF seeks stronger enforcement of Employees’ Compensation Act to protect workers’ rights",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/nsitf-seeks-stronger-enforcement-of-employees-compensation-act-to-protect-workers-rights/",
-      "published_date": "2026-10-30T20:19:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "₦70,000 transport allowance: Federal pensioners decry exclusion, unpaid ₦25,000 palliative",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/%e2%82%a670000-transport-allowance-federal-pensioners-decry-exclusion-unpaid-%e2%82%a625000-palliative/",
-      "published_date": "2026-10-30T20:17:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IGP secures Italian training offer for 5,000 police officers",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/igp-secures-italian-training-offer-for-5000-police-officers/",
-      "published_date": "2026-10-30T20:16:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "EXCLUSIVE: Inside NSCDC’s Niger cell where 14 children, 19 other detainees died",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/headlines/921645-exclusive-inside-nscdcs-niger-cell-where-14-children-19-other-detainees-died.html",
-      "published_date": "2026-10-30T20:13:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sanwo-Olu urges Lagosians to trust Hamzat, avoid experiment",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/sanwo-olu-urges-lagosians-to-trust-hamzat-avoid-experiment/",
-      "published_date": "2026-10-30T20:12:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hamzat unveils 100-point manifesto, pledges child protection agency, state wealth fund",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/921639-hamzat-unveils-100-point-manifesto-pledges-child-protection-agency-state-wealth-fund.html",
-      "published_date": "2026-10-30T19:58:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chris Okafor: Doris Ogala remains in custody as court postpones bail ruling",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/921636-chris-okafor-doris-ogala-remains-in-custody-as-court-postpones-bail-ruling.html",
-      "published_date": "2026-10-30T19:37:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria, Russia move to replace 59-year-old aviation agreement",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/921630-nigeria-russia-move-to-replace-59-year-old-aviation-agreement.html",
-      "published_date": "2026-10-30T19:00:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mohbad’s family seeks delay in Liam’s DNA test, requests US lab details",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/921619-mohbads-family-seeks-delay-in-liams-dna-test-requests-us-lab-details.html",
-      "published_date": "2026-10-30T18:20:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "OPay lists on NYSE, raises $304m in IPO at $4 billion valuation",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/921617-opay-lists-on-nyse-raises-304m-in-ipo-at-4-billion-valuation.html",
-      "published_date": "2026-10-30T17:38:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Friday Sermon: Nigeria is bigger and greater than any politician!, By Murtadha Gusau",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/921613-friday-sermon-nigeria-is-bigger-and-greater-than-any-politician-by-murtadha-gusau.html",
-      "published_date": "2026-10-30T17:11:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Daddy loves you specially,’ — D’banj remembers late son eight years after death",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/daddy-loves-you-specially-dbanj-remembers-late-son-eight-years-after-death/",
-      "published_date": "2026-10-30T16:29:06+00:00",
       "category": "Local Events"
     }
   ]
