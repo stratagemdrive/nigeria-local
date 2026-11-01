@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "2027: Stick to your timetable, APC urges INEC",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2027-stick-to-your-timetable-apc-urges-inec/",
+      "published_date": "2026-11-01T15:33:43+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nigeria woos Russian investors, seeks local currency trade settlement at Moscow summit",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/nigeria-woos-russian-investors-seeks-local-currency-trade-settlement-at-moscow-summit/",
+      "published_date": "2026-11-01T14:28:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "AU accredits Nigeria’s counter-terrorism centre for West Africa",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/au-accredits-nigerias-counter-terrorism-centre-for-west-africa/",
@@ -16,6 +30,13 @@
     }
   ],
   "Military": [
+    {
+      "title": "Joint naval, army forces kill 34 insurgents in Lake Chad region",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/headlines/921902-joint-naval-army-forces-kill-34-insurgents-in-lake-chad-region.html",
+      "published_date": "2026-11-01T14:49:59+00:00",
+      "category": "Military"
+    },
     {
       "title": "Tinubu hails EFCC after FBI praises role in sextortion arrests",
       "source": "Premium Times",
@@ -85,16 +106,37 @@
       "url": "https://www.premiumtimesng.com/health/health-news/920707-fg-partners-us-foundation-to-mobilise-1bn-to-tackle-child-malnutrition.html",
       "published_date": "2026-10-27T14:05:25+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Hunters kill 14 bandits in Bakori attack, two residents die",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/920031-hunters-kill-14-bandits-in-bakori-attack-two-residents-die.html",
-      "published_date": "2026-10-25T09:25:06+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Atiku tackles APC over Tinubu’s power pledge, says bonds can’t light homes",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/atiku-tackles-apc-over-tinubus-power-pledge-says-bonds-cant-light-homes/",
+      "published_date": "2026-11-01T15:33:33+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Tinubu’s pledge on electricity must be considered in full context- APC Campaign Council",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/921895-tinubus-pledge-on-electricity-must-be-considered-in-full-context-apc-campaign-council.html",
+      "published_date": "2026-11-01T14:29:56+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Delta HOSTCOM clarifies position on DESOPADEC publication",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/delta-hostcom-clarifies-position-on-desopadec-publication/",
+      "published_date": "2026-11-01T13:54:26+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Power sector fix ‘ongoing work’, APC-PCC counters criticisms of Tinubu’s 2023 pledge",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/power-sector-fix-ongoing-work-apc-pcc-counters-criticisms-of-tinubus-2023-pledge/",
+      "published_date": "2026-11-01T13:42:54+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Rev360: Reimagining tax administration for a digital Nigeria, By Emmanuel Jonathan",
       "source": "Premium Times",
@@ -205,13 +247,6 @@
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/10/making-gas-operations-safer/",
       "published_date": "2026-10-26T00:28:31+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Uneven petrol prices, lingering hardship as Zaria residents question NNPC discount",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/nwest/920175-uneven-petrol-prices-lingering-hardship-as-zaria-residents-question-nnpc-discount.html",
-      "published_date": "2026-10-25T17:57:29+00:00",
       "category": "Energy"
     }
   ],
@@ -359,6 +394,125 @@
   ],
   "Local Events": [
     {
+      "title": "The pursuit of happiness in a world of moral relativism, By Mathew Hassan Kukah",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/features-and-interviews/921917-the-pursuit-of-happiness-in-a-world-of-moral-relativism-by-mathew-hassan-kukah.html",
+      "published_date": "2026-11-01T15:54:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "CSOs urge judiciary to avoid another Imo-style embarrassment in Uzodimma’s Senate case",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/921909-csos-urge-judiciary-to-avoid-another-imo-style-embarrassment-in-uzodimmas-senate-case.html",
+      "published_date": "2026-11-01T15:21:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Freedom advocates urge Nigeria to grant Africans visa-free entry",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/921908-freedom-advocates-urge-nigeria-to-grant-africans-visa-free-entry.html",
+      "published_date": "2026-11-01T15:16:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pastor Jimmy Odukoya introduces new wife",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/921896-pastor-jimmy-odukoya-introduces-new-wife.html",
+      "published_date": "2026-11-01T14:43:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BON Awards 2026: Love and New Notes, The Herd, Colours of Fire lead nominations",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/nollywood/921893-bon-awards-2026-love-and-new-notes-the-herd-colours-of-fire-lead-nominations.html",
+      "published_date": "2026-11-01T14:35:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PDP, NDC members defect to APC as ‘Tinubu Must Stay’ spreads to Jigawa",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/pdp-ndc-members-defect-to-apc-as-tinubu-must-stay-spreads-to-jigawa/",
+      "published_date": "2026-11-01T14:34:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Betta Edu courts 500 C’River women, sets 1.5m vote target for Tinubu",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/betta-edu-courts-500-criver-women-sets-1-5m-vote-target-for-tinubu/",
+      "published_date": "2026-11-01T14:11:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Katsina govt denies violence link to Radda’s campaign rally",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/921890-katsina-govt-denies-violence-link-to-raddas-campaign-rally.html",
+      "published_date": "2026-11-01T14:05:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NDLEA arrests two Europe-based Nigerians with 200 wraps of cocaine",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/921884-ndlea-arrests-two-europe-based-nigerians-with-200-wraps-of-cocaine.html",
+      "published_date": "2026-11-01T13:51:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Customs deploys AI tools to tackle fake news, online scams",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/customs-deploys-ai-tools-to-tackle-fake-news-online-scams/",
+      "published_date": "2026-11-01T13:24:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Adeboye urges journalists to verify stories before publication",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/adeboye-urges-journalists-to-verify-stories-before-publication/",
+      "published_date": "2026-11-01T13:21:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I didn’t protest against Jonathan’ — Adeboye clarifies",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/921882-i-didnt-protest-against-jonathan-adeboye-clarifies.html",
+      "published_date": "2026-11-01T13:15:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "U-17 WWC: Five key players to watch as Flamingos face Venezuela in quarterfinal",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/921874-u-17-wwc-five-key-players-to-watch-as-flamingos-face-venezuela-in-quarterfinal.html",
+      "published_date": "2026-11-01T09:43:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dakar 2026 Youth Olympic Games: Nigeria joins historic opening",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/921868-dakar-2026-youth-olympic-games-nigeria-joins-historic-opening.html",
+      "published_date": "2026-11-01T08:58:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sanwo-Olu makes runaway appearance at Lagos Fashion Week (PHOTOS)",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/921862-sanwo-olu-makes-runaway-appearance-at-lagos-fashion-week-photos.html",
+      "published_date": "2026-11-01T08:22:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "EXCLUSIVE: Ebola: 34-year-old pilot, wife identified as suspected cases who tested negative in North-east Nigeria",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/921850-exclusive-ebola-34-year-old-pilot-wife-identified-as-suspected-cases-who-tested-negative-in-north-east-nigeria.html",
+      "published_date": "2026-11-01T08:00:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "When youths move, society changes: The 2026 barricades, By Owei Lakemfa",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/921859-when-youths-move-society-changes-the-2026-barricades-by-owei-lakemfa.html",
+      "published_date": "2026-11-01T07:58:58+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Eguavoen, CAF instructors at war over courses",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/11/eguavoen-caf-instructors-at-war-over-courses/",
@@ -377,125 +531,6 @@
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/11/faans-vision-for-the-airport-of-the-future-technology-infrastructure-and-passenger-centric-innovation/",
       "published_date": "2026-11-01T00:03:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Okorocha, Uzodimma in Imo’s political history, by Tonnie Iredia",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/okorocha-uzodimma-in-imos-political-history-by-tonnie-iredia/",
-      "published_date": "2026-10-31T23:47:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinubu: Is Lagos Island not a part of Nigeria? By Dele Sobowale",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/tinubu-is-lagos-island-not-a-part-of-nigeria-by-dele-sobowale/",
-      "published_date": "2026-10-31T23:45:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Real Warri Pikin conquered comedy stages across continents",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/how-real-warri-pikin-conquered-comedy-stages-across-continents/",
-      "published_date": "2026-10-31T23:34:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mixed reactions trail Zlatan’s wedding",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/mixed-reactions-trail-zlatans-wedding/",
-      "published_date": "2026-10-31T23:32:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chacx, African China collaborate on ‘Forgive’",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/chacx-african-china-collaborate-on-forgive/",
-      "published_date": "2026-10-31T23:24:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shuga Band immortalises late founder, Akiin Shuga with new innovations",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/shuga-band-immortalises-late-founder-akiin-shuga-with-new-innovations/",
-      "published_date": "2026-10-31T23:12:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Enkay Ogboruche wins Africa Gospel Music Impact Award at Clima Awards 2026",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/enkay-ogboruche-wins-africa-gospel-music-impact-award-at-clima-awards-2026/",
-      "published_date": "2026-10-31T23:11:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola: No new cases in Nigeria as two suspected cases in North-east test negative",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/health/health-news/921844-ebola-no-new-cases-in-nigeria-as-two-suspected-cases-in-north-east-test-negative.html",
-      "published_date": "2026-10-31T22:49:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ebola: Saudi Arabia suspends travel to Kenya, halts visa issuance",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/health/health-news/921710-ebola-saudi-arabia-suspends-travel-to-kenya-halts-visa-issuance.html",
-      "published_date": "2026-10-31T22:12:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Group seeks end to health workers’ absenteeism in PHCs",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/921827-group-seeks-end-to-health-workers-absenteeism-in-phcs.html",
-      "published_date": "2026-10-31T22:01:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catholic diocese, CAN reject inclusion of clerics in APC campaign list",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/921823-catholic-diocese-can-reject-inclusion-of-clerics-in-apc-campaign-list.html",
-      "published_date": "2026-10-31T21:48:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A tale of two emergencies: Why Nigeria does not need new science, By Adewale Adeyemo",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/920489-a-tale-of-two-emergencies-why-nigeria-does-not-need-new-science-by-adewale-adeyemo.html",
-      "published_date": "2026-10-31T20:20:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Court denies request to question Tinubu over alleged cyberattacks in FOIA case",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/headlines/921801-us-court-denies-request-to-question-tinubu-over-alleged-cyberattacks-in-foia-case.html",
-      "published_date": "2026-10-31T20:02:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Four South-east governors ask Igbos to vote for Tinubu, give reasons",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/921798-2027-four-south-east-governors-ask-igbos-to-vote-for-tinubu-give-reasons.html",
-      "published_date": "2026-10-31T19:45:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Tinubu’s achievements will convince Nigerians to re-elect him, Yari says",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/921795-2027-tinubus-achievements-will-convince-nigerians-to-re-elect-him-yari-says.html",
-      "published_date": "2026-10-31T19:37:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Plateau police arrest man over wife’s killing",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/921792-plateau-police-arrest-man-over-wifes-killing.html",
-      "published_date": "2026-10-31T19:28:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makinde, running mate to unveil Reset Nigeria Agenda manifesto on 4 November",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/921790-makinde-running-mate-to-unveil-reset-nigeria-agenda-manifesto-on-4-november.html",
-      "published_date": "2026-10-31T19:17:01+00:00",
       "category": "Local Events"
     }
   ]
