@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "US seeks stronger trade ties with Nigeria",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/922781-us-seeks-stronger-trade-ties-with-nigeria.html",
+      "published_date": "2026-11-04T21:32:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EFCC, Australian police sign MoU to tackle cybercrime",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/922773-efcc-australian-police-sign-mou-to-tackle-cybercrime.html",
+      "published_date": "2026-11-04T20:54:10+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "FG targets 25,000 cataract surgeries, five million spectacles by 2027",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/health/health-news/922459-fg-targets-25000-cataract-surgeries-five-million-spectacles-by-2027.html",
@@ -27,16 +41,23 @@
       "url": "https://www.vanguardngr.com/2026/11/nigeria-woos-russian-investors-seeks-local-currency-trade-settlement-at-moscow-summit/",
       "published_date": "2026-11-01T14:28:51+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "AU accredits Nigeria’s counter-terrorism centre for West Africa",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/au-accredits-nigerias-counter-terrorism-centre-for-west-africa/",
-      "published_date": "2026-10-29T00:13:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Enugu Air begins Lagos–London operation in December – Official",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/922793-enugu-air-begins-lagos-london-operation-in-december-official.html",
+      "published_date": "2026-11-04T22:03:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Afrilition: Race and the false flag operation of creating difference, By Adéwálé Àjàdí",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/922758-afrilition-race-and-the-false-flag-operation-of-creating-difference-by-adewale-ajadi.html",
+      "published_date": "2026-11-04T20:52:39+00:00",
+      "category": "Military"
+    },
     {
       "title": "Soldiers kill suspected kidnappers, recover AK-47 rifles in Kogi",
       "source": "Premium Times",
@@ -130,6 +151,20 @@
     }
   ],
   "Energy": [
+    {
+      "title": "NNPC ex-director launches book on failure of family businesses",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/922801-nnpc-ex-director-launches-book-on-failure-of-family-businesses.html",
+      "published_date": "2026-11-04T22:42:31+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Methane Emissions: Ogun, FG intensify investigation in Ijebu-Ode, pledge lasting solution",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/922803-methane-emissions-ogun-fg-intensify-investigation-in-ijebu-ode-pledge-lasting-solution.html",
+      "published_date": "2026-11-04T22:35:35+00:00",
+      "category": "Energy"
+    },
     {
       "title": "NNPC posts N3.49trn profit in nine months",
       "source": "Vanguard",
@@ -255,23 +290,51 @@
       "url": "https://www.vanguardngr.com/2026/10/falana-seeks-recovery-of-123bn-in-oil-funds/",
       "published_date": "2026-10-29T18:47:11+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "2027: Tinubu lacks energy to govern, Obi says",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/2027-tinubu-lacks-energy-to-govern-obi-says/",
-      "published_date": "2026-10-29T16:31:15+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "PANDEF demands 50% oil derivation for Niger Delta",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/pandef-demands-50-oil-derivation-for-niger-delta/",
-      "published_date": "2026-10-29T15:19:51+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Tinubu congratulates Zenith Bank founder Jim Ovia on his 75th birthday",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/tinubu-congratulates-zenith-bank-founder-jim-ovia-on-his-75th-birthday/",
+      "published_date": "2026-11-05T00:16:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Ex Afreximbank President, Oramah urges Africa to turn global shocks into opportunities",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/ex-afreximbank-president-oramah-urges-africa-to-turn-global-shocks-into-opportunities/",
+      "published_date": "2026-11-04T23:35:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "NACCIMA honours NAFDAC DG, hails war on fake drugs",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/naccima-honours-nafdac-dg-hails-war-on-fake-drugs/",
+      "published_date": "2026-11-04T23:15:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Hamzat seeks stronger private sector role in Lagos development",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/hamzat-seeks-stronger-private-sector-role-in-lagos-development/",
+      "published_date": "2026-11-04T23:08:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "2027: APC flags off Enugu campaign in Nsukka, vows to deliver Mbah, Tinubu, others",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/922807-2027-apc-flags-off-enugu-campaign-in-nsukka-vows-to-deliver-mbah-tinubu-others.html",
+      "published_date": "2026-11-04T22:57:26+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Revenue: Gov Lawal approves recruitment of technical staff for Zamfara IRS",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/922789-revenue-gov-lawal-approves-recruitment-of-technical-staff-for-zamfara-irs.html",
+      "published_date": "2026-11-04T21:54:56+00:00",
+      "category": "Economy"
+    },
     {
       "title": "2027: We won’t endorse any candidate — Health workers",
       "source": "Vanguard",
@@ -369,51 +432,114 @@
       "url": "https://www.vanguardngr.com/2026/11/ypps-agada-wants-end-to-raw-material-exports/",
       "published_date": "2026-11-03T00:54:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "CICAN workshop to examine ESG, tax impact on manufacturers",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/cican-workshop-to-examine-esg-tax-impact-on-manufacturers/",
-      "published_date": "2026-11-02T23:18:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "APC Rally: Hard part of our economic reset over; next term is pure harvest – VP Shettima",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/922242-apc-rally-hard-part-of-our-economic-reset-over-next-term-is-pure-harvest-vp-shettima.html",
-      "published_date": "2026-11-02T23:10:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Less than 10% of Nigerian property have proper land titles – Finance Ministry",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/922262-less-than-10-of-nigerian-property-have-proper-land-titles-finance-ministry.html",
-      "published_date": "2026-11-02T21:42:10+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "N1.3 billion worth of property saved from fire in Nasarawa",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/n1-3-billion-worth-of-property-saved-from-fire-in-nasarawa/",
-      "published_date": "2026-11-02T20:37:20+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "EFCC arraigns man, company for N12.5bn fraud in Lagos",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/922228-efcc-arraigns-man-company-for-n12-5bn-fraud-in-lagos.html",
-      "published_date": "2026-11-02T19:36:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Campaign, no campaign, By Dakuku Peterside",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/922209-campaign-no-campaign-by-dakuku-peterside.html",
-      "published_date": "2026-11-02T18:34:19+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "IOM moves to combat migration misinformation",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/iom-moves-to-combat-migration-misinformation/",
+      "published_date": "2026-11-05T00:41:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "HIV: Lagos survey reveals treatment gains, testing gap",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/hiv-lagos-survey-reveals-treatment-gains-testing-gap/",
+      "published_date": "2026-11-05T00:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FG tasks education academy with digital skills revolution",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/fg-tasks-education-academy-with-digital-skills-revolution/",
+      "published_date": "2026-11-05T00:16:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six climate measures could save 1.6 million lives yearly – WHO",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/922819-six-climate-measures-could-save-1-6-million-lives-yearly-who.html",
+      "published_date": "2026-11-04T23:44:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dress code controversy hits Nigerian Law School over hijab ban during exams",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/dress-code-controversy-hits-nigerian-law-school-over-hijab-ban-during-exams/",
+      "published_date": "2026-11-04T23:17:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Abiodun orders immediate reconstruction of Saje-Elega-Adedotun Road",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/922817-abiodun-orders-immediate-reconstruction-of-saje-elega-adedotun-road.html",
+      "published_date": "2026-11-04T23:03:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigerian lawmakers propose six-month jail term for doctors, nurses who delay emergency treatment",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/922799-nigerian-lawmakers-propose-six-month-jail-term-for-doctors-nurses-who-delay-emergency-treatment.html",
+      "published_date": "2026-11-04T22:16:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reps propose fines, licence withdrawal for hospitals that delay emergency treatment",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/922796-reps-propose-fines-licence-withdrawal-for-hospitals-that-delay-emergency-treatment.html",
+      "published_date": "2026-11-04T22:10:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Coalition threatens mass action over Lagos govt’s planned crackdown regarding unlicensed borehole",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/922787-coalition-threatens-mass-action-over-lagos-govts-planned-crackdown-regarding-unlicensed-borehole.html",
+      "published_date": "2026-11-04T21:51:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigerian footballer Quadri Liameed discharged from hospital after head kick in Spain",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/nigerian-footballer-quadri-liameed-discharged-from-hospital-after-head-kick-in-spain/",
+      "published_date": "2026-11-04T21:42:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kekere-Ekun to chair presentation of Pinheiro’s 6 legal publications",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/kekere-ekun-to-chair-presentation-of-pinheiros-6-legal-publications/",
+      "published_date": "2026-11-04T21:22:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rainbow Coalition: Tinubu tells Nasarawa supporters to vote only APC candidates",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/rainbow-coalition-tinubu-tells-nasarawa-supporters-to-vote-only-apc-candidates/",
+      "published_date": "2026-11-04T20:35:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2Baba ends six-year album wait, announces ‘Oldest Young Man’ release date",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2baba-ends-six-year-album-wait-announces-oldest-young-man-release-date/",
+      "published_date": "2026-11-04T20:20:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Makinde unveils presidential manifesto, faults leaders over failures",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/922767-2027-makinde-unveils-presidential-manifesto-faults-leaders-over-failures.html",
+      "published_date": "2026-11-04T20:11:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Many injured, missing as Nasarawa APC presidential rally turns bloody",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/922760-many-injured-missing-as-nasarawa-apc-presidential-rally-turns-bloody.html",
+      "published_date": "2026-11-04T19:54:30+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Atiku tackles Tinubu over fresh $7.7bn loan",
       "source": "Vanguard",
@@ -447,111 +573,6 @@
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/news/headlines/922737-psc-dismisses-three-senior-police-officers-demotes-16-others.html",
       "published_date": "2026-11-04T17:28:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Afenifere, Igbo forum seek stronger Yoruba-Igbo ties, back Tinubu, Hamzat",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/afenifere-igbo-forum-seek-stronger-yoruba-igbo-ties-back-tinubu-hamzat/",
-      "published_date": "2026-11-04T17:25:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abuja Rent: Reps advance bill to protect tenants from exploitation",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/north-central/922734-abuja-rent-reps-advance-bill-to-protect-tenants-from-exploitation.html",
-      "published_date": "2026-11-04T17:01:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police arrest suspect over attack on Obi’s convoy in Calabar",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/police-arrest-suspect-over-attack-on-obis-convoy-in-calabar/",
-      "published_date": "2026-11-04T16:56:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Midterms: Why we lost woefully – JD Vance",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/922725-us-midterms-why-we-lost-woefully-jd-vance.html",
-      "published_date": "2026-11-04T16:48:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Obuebite defends defection to APC, addresses past criticisms",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/922723-2027-obuebite-defends-defection-to-apc-addresses-past-criticisms.html",
-      "published_date": "2026-11-04T16:48:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peter Obi storms Calabar for NDC town hall as supporters throng airport, streets",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/peter-obi-storms-calabar-for-ndc-town-hall-as-supporters-throng-airport-streets/",
-      "published_date": "2026-11-04T16:40:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senate advances Agricultural Revolution Bill",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/senate-advances-agricultural-revolution-bill/",
-      "published_date": "2026-11-04T16:39:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court nullifies ADC governorship candidature in Nasarawa, orders fresh primaries",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/court-nullifies-adc-governorship-candidature-in-nasarawa-orders-fresh-primaries/",
-      "published_date": "2026-11-04T16:34:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "State Police: Senate sets deadline for state assemblies to transmit resolutions",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/922721-state-police-senate-sets-deadline-for-state-assemblies-to-transmit-resolutions.html",
-      "published_date": "2026-11-04T16:33:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Over 2m Northern children, 25,000 teachers benefit as UK-funded programme closes",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/nnorth-east/922718-over-2m-northern-children-25000-teachers-benefit-as-uk-funded-programme-closes.html",
-      "published_date": "2026-11-04T16:28:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI 3D Tools and Nigeria’s Creative Businesses: What counts as a deliverable?",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/922711-ai-3d-tools-and-nigerias-creative-businesses-what-counts-as-a-deliverable.html",
-      "published_date": "2026-11-04T16:01:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "CAF Awards: Osimhen, Lookman missing as Nigeria gets zero nominations in men’s categories",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/football/922704-caf-awards-osimhen-lookman-missing-as-nigeria-gets-zero-nominations-in-mens-categories.html",
-      "published_date": "2026-11-04T15:55:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atiku arrives Sokoto amid campaign dispute as ADC urges Nigerians to reject APC",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/nwest/922702-atiku-arrives-sokoto-amid-campaign-dispute-as-adc-urges-nigerians-to-reject-apc.html",
-      "published_date": "2026-11-04T15:52:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinubu asks NASS to approve new $7.7bn loan, withdraws previous external borrowing request",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/headlines/922690-tinubu-asks-nass-to-approve-new-7-7bn-loan-withdraws-previous-external-borrowing-request.html",
-      "published_date": "2026-11-04T14:34:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Osun lawyers urge Adeleke to avert collapse of court buildings",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/osun-lawyers-urge-adeleke-to-avert-collapse-of-court-buildings/",
-      "published_date": "2026-11-04T00:47:00+00:00",
       "category": "Local Events"
     }
   ]
