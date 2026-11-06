@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "UN, EU, Germany woo investors to Borno",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/un-eu-germany-woo-investors-to-borno/",
+      "published_date": "2026-11-06T00:49:00+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "2027 Polls: Tinubu storms Akwa Ibom, Rivers for presidential campaign",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/11/2027-polls-tinubu-storms-akwa-ibom-rivers-for-presidential-campaign/",
@@ -51,6 +58,27 @@
     }
   ],
   "Military": [
+    {
+      "title": "2027: Tinubu, T. Y. Danjuma, Northeast, North-Central leaders meet in Aso Villa",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2027-tinubu-t-y-danjuma-northeast-north-central-leaders-meet-in-aso-villa/",
+      "published_date": "2026-11-05T22:55:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Nigeria must deploy tollgates, technology to improve highway security – Musa",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/nigeria-must-deploy-tollgates-technology-to-improve-highway-security-musa/",
+      "published_date": "2026-11-05T21:19:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ex-Air Force spokesperson identifies ‘flaw’ affecting Nigeria’s multi-trillion naira defence budget",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/923053-ex-air-force-spokesperson-identifies-flaw-affecting-nigerias-multi-trillion-naira-defence-budget.html",
+      "published_date": "2026-11-05T21:13:52+00:00",
+      "category": "Military"
+    },
     {
       "title": "DHQ denies ceasefire with Boko Haram, ISWAP, others",
       "source": "Vanguard",
@@ -165,6 +193,13 @@
     }
   ],
   "Energy": [
+    {
+      "title": "Governor orders probe of violence at APC presidential rally",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/923031-governor-orders-probe-of-violence-at-apc-presidential-rally.html",
+      "published_date": "2026-11-05T19:00:05+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Atiku flags off ADC campaign in Kebbi, pledges security, fuel subsidy restoration",
       "source": "Vanguard",
@@ -297,16 +332,37 @@
       "url": "https://www.vanguardngr.com/2026/11/power-sector-fix-ongoing-work-apc-pcc-counters-criticisms-of-tinubus-2023-pledge/",
       "published_date": "2026-11-01T13:42:54+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Rev360: Reimagining tax administration for a digital Nigeria, By Emmanuel Jonathan",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/921602-rev360-reimagining-tax-administration-for-a-digital-nigeria-by-emmanuel-jonathan.html",
-      "published_date": "2026-10-30T16:46:41+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "FG tasks states on production-consumption alignment to protect farmers",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/fg-tasks-states-on-production-consumption-alignment-to-protect-farmers/",
+      "published_date": "2026-11-06T00:27:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "$2bn Afreximbank fund targets Africa’s creative economy as CANEX opens in Lagos",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2bn-afreximbank-fund-targets-africas-creative-economy-as-canex-opens-in-lagos/",
+      "published_date": "2026-11-05T23:52:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gov Abiodun declares Ogun ready for state police",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/923063-gov-abiodun-declares-ogun-ready-for-state-police.html",
+      "published_date": "2026-11-05T22:56:35+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "EFCC investigates ex-banker over alleged N515 million diversion",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923045-efcc-investigates-ex-banker-over-alleged-n515-million-diversion.html",
+      "published_date": "2026-11-05T19:36:08+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Afrinvest CEO recalls how Elumelu’s $1 million loan helped salvage firm from crisis",
       "source": "Premium Times",
@@ -418,37 +474,100 @@
       "url": "https://www.vanguardngr.com/2026/11/lagos-targets-100-food-processing-plants-around-logistics-hub/",
       "published_date": "2026-11-04T01:44:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "NBS: Enugu records lowest ‘tax revenue-to-IGR ratio’",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/922551-nbs-enugu-records-lowest-tax-revenue-to-igr-ratio.html",
-      "published_date": "2026-11-03T22:43:53+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "OgunLNG, Deep Sea Port triggering fresh investor rush, says Abiodun",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/922520-ogunlng-deep-sea-port-triggering-fresh-investor-rush-says-abiodun.html",
-      "published_date": "2026-11-03T21:05:57+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tinubu’s reforms favour rich, worsen poverty — Atedo Peterside",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/tinubus-reforms-favour-rich-worsen-poverty-atedo-peterside/",
-      "published_date": "2026-11-03T17:56:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigeria needs 10% growth to reduce poverty — Peterside",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nigeria-needs-10-growth-to-reduce-poverty-peterside/",
-      "published_date": "2026-11-03T17:47:01+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Atiku Verdict: APC wants opposition fighting – Ameh",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/atiku-verdict-apc-wants-opposition-fighting-ameh/",
+      "published_date": "2026-11-06T00:54:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "LASTMA inducts 100 volunteers to tackle Yuletide traffic",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/lastma-inducts-100-volunteers-to-tackle-yuletide-traffic/",
+      "published_date": "2026-11-06T00:39:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Soludo seeks partnership with pharmacists to strengthen healthcare",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/soludo-seeks-partnership-with-pharmacists-to-strengthen-healthcare/",
+      "published_date": "2026-11-06T00:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Poor financial records, cash flow woes crippling Nigerian businesses — SWAN",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/poor-financial-records-cash-flow-woes-crippling-nigerian-businesses-swan/",
+      "published_date": "2026-11-06T00:02:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Malaria, TB Diagnosis: Global Fund Trains 464 Lab personnel in 9 States",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/malaria-tb-diagnosis-global-fund-trains-464-lab-personnel-in-9-states/",
+      "published_date": "2026-11-05T23:24:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Don’t allow yourself be used to stifle democracy, NDC to Judiciary",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/dont-allow-yourself-to-be-used-to-stifle-democracy-ndc-to-judiciary/",
+      "published_date": "2026-11-05T23:19:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Cross River PDP chair doubts party’s 2027 chances",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/923060-former-cross-river-pdp-chair-doubts-partys-2027-chances.html",
+      "published_date": "2026-11-05T22:53:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu to embark on two-day official visit to Akwa Ibom, Rivers",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/923058-tinubu-to-embark-on-two-day-official-visit-to-akwa-ibom-rivers.html",
+      "published_date": "2026-11-05T21:52:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six journalists begin six-month fellowship to scrutinise development efforts in Niger Delta",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/south-south-regional/923050-six-journalists-begin-six-month-fellowship-to-scrutinise-development-efforts-in-niger-delta.html",
+      "published_date": "2026-11-05T20:47:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peter Obi blames APC for court judgement sacking Atiku, David Mark",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/headlines/923048-peter-obi-blames-apc-for-court-judgement-sacking-atiku-david-mark.html",
+      "published_date": "2026-11-05T20:38:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why I separated from my wife – Actor Kunle Afod",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/923037-why-i-separated-from-my-wife-actor-kunle-afod.html",
+      "published_date": "2026-11-05T19:29:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Atiku vows to appeal court judgement against his candidacy, seeks stay of execution",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923035-atiku-vows-to-appeal-court-judgement-against-his-candidacy-seeks-stay-of-execution.html",
+      "published_date": "2026-11-05T19:07:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "MultiChoice introduces new DStv, GOtv packages",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/923028-multichoice-introduces-new-dstv-gotv-packages.html",
+      "published_date": "2026-11-05T18:28:01+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Civil society groups demand methane crackdown ahead of 2027 elections",
       "source": "Premium Times",
@@ -496,97 +615,6 @@
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/sports/football/923014-nigeria-is-proud-of-you-tinubu-hails-flamingoss-historic-world-cup-feat.html",
       "published_date": "2026-11-05T17:48:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ADC Judgment: CUPP accuses APC of seeking one-party state",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/adc-judgment-cupp-accuses-apc-of-seeking-one-party-state/",
-      "published_date": "2026-11-05T17:46:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSC posts four commissioners of police to states",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/psc-posts-four-commissioners-of-police-to-states/",
-      "published_date": "2026-11-05T17:40:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SDP condemns attempts to disqualify ADC presidential candidate, Atiku",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/sdp-condemns-attempts-to-disqualify-adc-presidential-candidate-atiku/",
-      "published_date": "2026-11-05T16:56:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Presidency seeks global safeguards against AI-generated falsehoods",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-presidency-seeks-global-safeguards-against-ai-generated-falsehoods/",
-      "published_date": "2026-11-05T16:54:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Criticise government, but don’t incite violence, Akume tells writers",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/artsbooks/923009-criticise-government-but-dont-incite-violence-akume-tells-writers.html",
-      "published_date": "2026-11-05T16:52:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "SDP rejects ‘Rainbow Coalition’, vows to contest 2027",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/sdp-rejects-rainbow-coalition-vows-to-contest-2027/",
-      "published_date": "2026-11-05T16:46:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "South Africans now leading drug trafficking cartels in Nigeria — NDLEA",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/south-africans-now-leading-drug-trafficking-cartels-in-nigeria-ndlea/",
-      "published_date": "2026-11-05T16:36:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cristiano Ronaldo announces Portugal retirement after 23 years",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/football/922996-cristiano-ronaldo-announces-portugal-retirement-after-23-years.html",
-      "published_date": "2026-11-05T15:42:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria to partner with AES countries to reposition MNJTF",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/headlines/922994-nigeria-to-partner-with-aes-countries-to-reposition-mnjtf.html",
-      "published_date": "2026-11-05T15:35:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Being responsible when being irresponsible seems convenient, By Yemi Adetayo",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/922941-being-responsible-when-being-irresponsible-seems-convenient-by-yemi-adetayo.html",
-      "published_date": "2026-11-05T14:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Nigerians trust Prestmit with their gift cards",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/922973-why-nigerians-trust-prestmit-with-their-gift-cards.html",
-      "published_date": "2026-11-05T14:16:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lessons from the 2023 presidential elections: Obi Vs Wike, By Sunday Adelaja",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/922779-lessons-from-the-2023-presidential-elections-obi-vs-wike-by-sunday-adelaja.html",
-      "published_date": "2026-11-05T13:54:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IOM moves to combat migration misinformation",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/iom-moves-to-combat-migration-misinformation/",
-      "published_date": "2026-11-05T00:41:00+00:00",
       "category": "Local Events"
     }
   ]
