@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Fani-Kayode rejects senior counsel of Nigeria title",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/923279-fani-kayode-rejects-senior-counsel-of-nigeria-title.html",
+      "published_date": "2026-11-06T19:23:51+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Fani-Kayode disowns purported conferment of SCN rank",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/11/fani-kayode-disowns-purported-conferment-of-scn-rank/",
@@ -204,16 +211,16 @@
       "url": "https://www.premiumtimesng.com/news/top-news/921686-2027-politics-watch-from-atikus-register-demands-to-tinubus-borrowing-defence-fridays-roundup.html",
       "published_date": "2026-10-31T06:58:30+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Fake soldier arrested for attacking employer, stealing car",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/10/fake-soldier-arrested-for-attacking-employer-stealing-car/",
-      "published_date": "2026-10-30T20:48:26+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "EFCC secures conviction of 10 over illegal petroleum dealings in Delta",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/923233-efcc-secures-conviction-of-10-over-illegal-petroleum-dealings-in-delta.html",
+      "published_date": "2026-11-06T17:55:21+00:00",
+      "category": "Energy"
+    },
     {
       "title": "FG targets 2,000 new CNG facilities nationwide",
       "source": "Vanguard",
@@ -346,16 +353,23 @@
       "url": "https://www.premiumtimesng.com/news/top-news/921895-tinubus-pledge-on-electricity-must-be-considered-in-full-context-apc-campaign-council.html",
       "published_date": "2026-11-01T14:29:56+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Delta HOSTCOM clarifies position on DESOPADEC publication",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/delta-hostcom-clarifies-position-on-desopadec-publication/",
-      "published_date": "2026-11-01T13:54:26+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "EFCC secures final forfeiture of $163,592 proceeds of US fraud",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923290-efcc-secures-final-forfeiture-of-163592-proceeds-of-us-fraud.html",
+      "published_date": "2026-11-06T21:16:02+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Naira appreciates to N1,375/$ in parallel market",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/naira-appreciates-to-n1375-in-parallel-market-3/",
+      "published_date": "2026-11-06T20:58:36+00:00",
+      "category": "Economy"
+    },
     {
       "title": "CBN sets N10bn, N15bn capital requirements for stablecoin issuers",
       "source": "Vanguard",
@@ -481,161 +495,147 @@
       "url": "https://www.premiumtimesng.com/promoted/922789-revenue-gov-lawal-approves-recruitment-of-technical-staff-for-zamfara-irs.html",
       "published_date": "2026-11-04T21:54:56+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "2027: We won’t endorse any candidate — Health workers",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-we-wont-endorse-any-candidate-health-workers/",
-      "published_date": "2026-11-04T17:57:24+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigeria can become Africa’s rice export hub — NGF",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nigeria-can-become-africas-rice-export-hub-ngf/",
-      "published_date": "2026-11-04T17:54:31+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "Atiku insists he remains in 2027 race as APC denies court interference",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923226-atiku-insists-he-remains-in-2027-race-as-apc-denies-court-interference.html",
-      "published_date": "2026-11-06T17:26:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "U-17 WWC: Busari urges Flamingos to stay focused for Japan final",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/football/923218-u-17-wwc-busari-urges-flamingos-to-stay-focused-for-japan-final.html",
-      "published_date": "2026-11-06T17:25:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinubu meets TY Danjuma, other Middle Belt leaders",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923220-tinubu-meets-ty-danjuma-other-middle-belt-leaders.html",
-      "published_date": "2026-11-06T17:18:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "U-17 Women’s World Cup: What the numbers say about Nigeria, Japan ahead of final",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923222-u-17-womens-world-cup-what-the-numbers-say-about-nigeria-japan-ahead-of-final.html",
-      "published_date": "2026-11-06T17:04:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uba Sani receives human capital development champion award",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/923217-uba-sani-receives-human-capital-development-champion-award.html",
-      "published_date": "2026-11-06T16:51:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I’ll sleep in Akwa Ibom tonight – Tinubu",
+      "title": "Mutfwang: Educated Nigerians masterminding corruption, institutional decay",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/ill-sleep-in-akwa-ibom-tonight-tinubu/",
-      "published_date": "2026-11-06T16:42:27+00:00",
+      "url": "https://www.vanguardngr.com/2026/11/mutfwang-educated-nigerians-masterminding-corruption-institutional-decay/",
+      "published_date": "2026-11-07T00:58:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "WHO recommends two new Ebola vaccines for clinical trials as DRC battles Bundibugyo outbreak",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923199-who-recommends-two-new-ebola-vaccines-for-clinical-trials-as-drc-battles-bundibugyo-outbreak.html",
-      "published_date": "2026-11-06T16:36:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos seals over 45 buildings in Eko, Ifako-Ijaiye",
+      "title": "2027: APGA adopts Tinubu, flags off nationwide campaign",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/lagos-seals-over-45-buildings-in-eko-ifako-ijaiye/",
-      "published_date": "2026-11-06T16:24:58+00:00",
+      "url": "https://www.vanguardngr.com/2026/11/2027-apga-adopts-tinubu-flags-off-nationwide-campaign/",
+      "published_date": "2026-11-07T00:53:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Just in: Tinubu approves Ibom Deep Seaport in Akwa Ibom",
+      "title": "2027: CAN seeks reinstatement of removed Kaduna monarchs",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/just-in-tinubu-approves-ibom-deep-seaport-in-akwa-ibom/",
-      "published_date": "2026-11-06T16:21:09+00:00",
+      "url": "https://www.vanguardngr.com/2026/11/2027-can-seeks-reinstatement-of-removed-kaduna-monarchs/",
+      "published_date": "2026-11-07T00:36:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Video: Tinubu dances to ‘On Your Mandate’ song at APC rally in Uyo",
+      "title": "NIMR fires back at ASURI over tenure policy controversy, denies victimisation claims",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/video-tinubu-dances-to-on-your-mandate-song-at-apc-rally-in-uyo/",
-      "published_date": "2026-11-06T16:15:22+00:00",
+      "url": "https://www.vanguardngr.com/2026/11/nimr-fires-back-at-asuri-over-tenure-policy-controversy-denies-victimisation-claims/",
+      "published_date": "2026-11-07T00:25:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "2027: Obi couldn’t confront Anambra’s erosion, he lacks leadership traits  —  Tinubu",
+      "title": "CANEX WKND 2026 lights up Lagos as Davido, Fally Ipupa, Flavour headline star-studded concert tonight",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-obi-couldnt-confront-anambras-erosion-lacks-leadership-traits-tinubu/",
-      "published_date": "2026-11-06T16:13:31+00:00",
+      "url": "https://www.vanguardngr.com/2026/11/canex-wknd-2026-lights-up-lagos-as-davido-fally-ipupa-flavour-headline-star-studded-concert-tonight/",
+      "published_date": "2026-11-06T23:44:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Meet Chinasa Okolo, Nigerian computer scientist named among TIME100 AI’s Most Influential People",
+      "title": "MC Senator, friends set for a night of laughter",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/meet-chinasa-okolo-nigerian-computer-scientist-named-among-time100-ais-most-influential-people/",
-      "published_date": "2026-11-06T16:02:47+00:00",
+      "url": "https://www.vanguardngr.com/2026/11/mc-senator-friends-set-for-a-night-of-laughter/",
+      "published_date": "2026-11-06T23:42:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Group warns of online misinformation as students embrace content creation",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/923201-group-warns-of-online-misinformation-as-students-embrace-content-creation.html",
-      "published_date": "2026-11-06T15:50:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resident doctors reject proposed six-month jail term over emergency care delays, threaten nationwide strike",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923197-resident-doctors-reject-proposed-six-month-jail-term-over-emergency-care-delays-threaten-nationwide-strike.html",
-      "published_date": "2026-11-06T15:25:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meet Nigeria’s Tracy Richards among Miss Globe 2026 Top 11",
+      "title": "Toke Makinwa takes fans down memory lane with live podcast",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/meet-nigerias-tracy-richards-among-miss-globe-2026-top-11/",
-      "published_date": "2026-11-06T15:15:41+00:00",
+      "url": "https://www.vanguardngr.com/2026/11/toke-makinwa-takes-fans-down-memory-lane-with-live-podcast/",
+      "published_date": "2026-11-06T23:37:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Chris Okafor: Court grants Doris Ogala N30m bail",
+      "title": "Mbah inaugurates 68 development centre administrators to take projects, policies to more communities",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/923196-chris-okafor-court-grants-doris-ogala-n30m-bail.html",
-      "published_date": "2026-11-06T15:14:24+00:00",
+      "url": "https://www.premiumtimesng.com/promoted/923295-mbah-inaugurates-68-development-centre-administrators-to-take-projects-policies-to-more-communities.html",
+      "published_date": "2026-11-06T22:25:25+00:00",
       "category": "Local Events"
     },
     {
-      "title": "‘The Hospital Chronicles: I.C.U. ’ makes AFRIFF debut, sparks conversation on medical negligence",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/nollywood/923183-the-hospital-chronicles-i-c-u-makes-afriff-debut-sparks-conversation-on-medical-negligence.html",
-      "published_date": "2026-11-06T14:32:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Car stolen in Enugu recovered in Cross River – Police",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/923176-car-stolen-in-enugu-recovered-in-cross-river-police.html",
-      "published_date": "2026-11-06T14:19:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "IPOB demands release of unlawfully detained Igbos",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923172-ipob-demands-release-of-unlawfully-detained-igbos.html",
-      "published_date": "2026-11-06T13:52:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atiku Verdict: APC wants opposition fighting – Ameh",
+      "title": "ADP suspends National chairman Yabagi Sani over alleged forgery",
       "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/atiku-verdict-apc-wants-opposition-fighting-ameh/",
-      "published_date": "2026-11-06T00:54:00+00:00",
+      "url": "https://www.vanguardngr.com/2026/11/adp-suspends-national-chairman-yabagi-sani-over-alleged-forgery/",
+      "published_date": "2026-11-06T20:09:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "10 key things to know about Justice Lifu’s judgment affecting ADC, Atiku, By Abdulrahman Abdulaziz",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/923281-10-key-things-to-know-about-justice-lifus-judgment-affecting-adc-atiku-by-abdulrahman-abdulaziz.html",
+      "published_date": "2026-11-06T19:35:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WATCH: Shettima, Oshiomhole dance to ‘Buga’ at Tinubu rally (VIDEO)",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/923274-watch-shettima-oshiomhole-dance-to-buga-at-tinubu-rally-video.html",
+      "published_date": "2026-11-06T19:28:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Friday Sermon: Stop mocking President Tinubu’s Umrah Ibadah in the name of politics!, By Murtadha Gusau",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/923271-friday-sermon-stop-mocking-president-tinubus-umrah-ibadah-in-the-name-of-politics-by-murtadha-gusau.html",
+      "published_date": "2026-11-06T19:11:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nigeria, eight other African countries record 67 yellow fever cases, 18 deaths — WHO",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/923253-nigeria-eight-other-african-countries-record-67-yellow-fever-cases-18-deaths-who.html",
+      "published_date": "2026-11-06T19:09:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flamingos captain Harmony Chidi targets historic U-17 World Cup title for Nigeria",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923261-flamingos-captain-harmony-chidi-targets-historic-u-17-world-cup-title-for-nigeria.html",
+      "published_date": "2026-11-06T19:06:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘I don’t fight for supremacy, but historically, I’m number one’ — Alaafin",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/923250-i-dont-fight-for-supremacy-but-historically-im-number-one-alaafin.html",
+      "published_date": "2026-11-06T18:56:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AFCON Qualifiers: Fresh injury setback for Osimhen as Galatasaray confirm knee surgery",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/923252-afcon-qualifiers-fresh-injury-setback-for-osimhen-as-galatasaray-confirm-knee-surgery.html",
+      "published_date": "2026-11-06T18:38:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 2027 elections: Upsetting the applecart?, By Jibrin Ibrahim",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/923254-the-2027-elections-upsetting-the-applecart-by-jibrin-ibrahim.html",
+      "published_date": "2026-11-06T18:24:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "APC accuses Atiku of hijacking ADC, tells party to resolve leadership crisis",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923249-apc-accuses-atiku-of-hijacking-adc-tells-party-to-resolve-leadership-crisis.html",
+      "published_date": "2026-11-06T18:07:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: YPP vice-presidential candidate sets conditions for opposition coalition",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/923235-2027-ypp-vice-presidential-candidate-sets-conditions-for-opposition-coalition.html",
+      "published_date": "2026-11-06T17:48:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "One feared dead in Uyo road crash as residents gather to welcome Tinubu",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/923234-one-feared-dead-in-uyo-road-crash-as-residents-gather-to-welcome-tinubu.html",
+      "published_date": "2026-11-06T17:47:08+00:00",
       "category": "Local Events"
     }
   ]
