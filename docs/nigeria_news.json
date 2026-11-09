@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "ANALYSIS: COP31: Nine Key issues to shape talks as UN climate talks open in Türkiye",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/923983-analysis-cop31-nine-key-issues-to-shape-talks-as-un-climate-talks-open-in-turkiye.html",
+      "published_date": "2026-11-09T19:06:09+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Access to Justice: Head of India’s Rights Body meets CJN, signs MoU with NHRC",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/access-to-justice-head-of-indias-rights-body-meets-cjn-signs-mou-with-nhrc/",
+      "published_date": "2026-11-09T18:05:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Nigeria’s unique political campaigns, by Tonnie Iredia",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/11/nigerias-unique-political-campaigns-by-tonnie-iredia/",
@@ -68,13 +82,6 @@
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/health/health-news/922459-fg-targets-25000-cataract-surgeries-five-million-spectacles-by-2027.html",
       "published_date": "2026-11-03T18:03:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lagos to host All Nigeria Rotary Peace Summit this November",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/922225-lagos-to-host-all-nigeria-rotary-peace-summit-this-november.html",
-      "published_date": "2026-11-02T19:28:16+00:00",
       "category": "Diplomacy"
     }
   ],
@@ -204,16 +211,23 @@
       "url": "https://www.vanguardngr.com/2026/11/customs-appoints-mamman-ali-acting-adamawa-taraba-comptroller/",
       "published_date": "2026-11-03T00:49:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Nigeria targets defence equipment self-sufficiency 61 years after DICON",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nigeria-targets-defence-equipment-self-sufficiency-61-years-after-dicon/",
-      "published_date": "2026-11-02T18:41:58+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "UCH installs new power substation amid recurring electricity crisis",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923973-uch-installs-new-power-substation-amid-recurring-electricity-crisis.html",
+      "published_date": "2026-11-09T18:30:58+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Court sets aside forfeiture order against ex-Warri refinery MD",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923956-court-sets-aside-forfeiture-order-against-ex-warri-refinery-md.html",
+      "published_date": "2026-11-09T18:19:22+00:00",
+      "category": "Energy"
+    },
     {
       "title": "State Police: Ogun has over 6,000 Amotekun, So-Safe personnel ready, says Abiodun",
       "source": "Premium Times",
@@ -339,23 +353,44 @@
       "url": "https://www.premiumtimesng.com/news/top-news/922428-efcc-uncovers-chinese-operated-illegal-oil-refinery-in-ogun.html",
       "published_date": "2026-11-03T17:01:04+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "NUPRC opens bidding for 40 oil, gas blocks Nov 20",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nuprc-opens-bidding-for-40-oil-gas-blocks-nov-20/",
-      "published_date": "2026-11-02T19:07:03+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "CBN appoints eight agents for crude oil exports",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/cbn-appoints-eight-agents-for-crude-oil-exports/",
-      "published_date": "2026-11-02T18:59:49+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Stallion Group partners with Access Bank",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/924011-stallion-group-partners-with-access-bank.html",
+      "published_date": "2026-11-09T20:44:50+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Public Notice To Gaming Operators And The General Public.",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/public-notice-to-gaming-operators-and-the-general-public/",
+      "published_date": "2026-11-09T19:53:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lagos hails TEHC’s Louisville mixed-use development in Eko Atlantic",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/923982-lagos-hails-tehcs-louisville-mixed-use-development-in-eko-atlantic.html",
+      "published_date": "2026-11-09T19:14:14+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "TenTrade brings financial market experts together to promote trading education in Lagos",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/tentrade-brings-financial-market-experts-together-to-promote-trading-education-in-lagos/",
+      "published_date": "2026-11-09T18:33:03+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Makinde urges Plateau voters to reject APC, promises tourism-led economic growth",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/923957-makinde-urges-plateau-voters-to-reject-apc-promises-tourism-led-economic-growth.html",
+      "published_date": "2026-11-09T18:16:01+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Obi’ll win presidential election by landslide — Ex-Rep, Nkole",
       "source": "Vanguard",
@@ -460,44 +495,100 @@
       "url": "https://www.vanguardngr.com/2026/11/nigeria-ranks-second-globally-in-childrens-climate-risk-report/",
       "published_date": "2026-11-07T12:10:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "TenTrade considers Nigerian office expansion, unveils trading incentives",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/923455-tentrade-considers-nigerian-office-expansion-unveils-trading-incentives.html",
-      "published_date": "2026-11-07T11:47:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigeria’s external debt up 6.6% to $145bn in 2025 – World Bank",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/923441-nigerias-external-debt-up-6-6-to-145bn-in-2025-world-bank.html",
-      "published_date": "2026-11-07T11:41:29+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "EFCC secures final forfeiture of $163,592 proceeds of US fraud",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923290-efcc-secures-final-forfeiture-of-163592-proceeds-of-us-fraud.html",
-      "published_date": "2026-11-06T21:16:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Naira appreciates to N1,375/$ in parallel market",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/naira-appreciates-to-n1375-in-parallel-market-3/",
-      "published_date": "2026-11-06T20:58:36+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "CBN sets N10bn, N15bn capital requirements for stablecoin issuers",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/cbn-sets-n10bn-n15bn-capital-requirements-for-stablecoin-issuers/",
-      "published_date": "2026-11-06T16:07:26+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Gombe: PDP ex-chairman, ex-SSG, others join APC",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/924009-gombe-pdp-ex-chairman-ex-ssg-others-join-apc.html",
+      "published_date": "2026-11-09T20:38:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Youth Olympics: Ugoh wins third gold medal for Nigeria",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/924002-youth-olympics-ugoh-wins-third-gold-medal-for-nigeria.html",
+      "published_date": "2026-11-09T20:25:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: NDC will provide all-inclusive government – Kwankwaso",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2027-ndc-will-provide-all-inclusive-government-kwankwaso/",
+      "published_date": "2026-11-09T19:30:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos clears Osborne Foreshore drainage project of infractions",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/lagos-clears-osborne-foreshore-drainage-project-of-infractions/",
+      "published_date": "2026-11-09T19:02:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FG suspends broadcast licence fee reviews indefinitely",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/fg-suspends-broadcast-licence-fee-reviews-indefinitely/",
+      "published_date": "2026-11-09T18:59:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US lawmaker who made Christian genocide claim against Nigeria re-elected to Congress",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923978-us-lawmaker-who-made-christian-genocide-claim-against-nigeria-re-elected-to-congress.html",
+      "published_date": "2026-11-09T18:41:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Atiku’s son leads APC campaign group to Jigawa ahead of Tinubu’s visit",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923958-atikus-son-leads-apc-campaign-group-to-jigawa-ahead-of-tinubus-visit.html",
+      "published_date": "2026-11-09T18:40:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UTME 2027: JAMB releases checklist for candidates ahead of registration",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923972-utme-2027-jamb-releases-checklist-for-candidates-ahead-of-registration.html",
+      "published_date": "2026-11-09T18:31:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Niger gets new police commissioner as Elleman retires",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/923966-niger-gets-new-police-commissioner-as-elleman-retires.html",
+      "published_date": "2026-11-09T18:14:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu: Wike promises N10m reward for FCT Councillors who deliver for APC",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/tinubu-wike-promises-n10m-reward-for-fct-councillors-who-deliver-for-apc/",
+      "published_date": "2026-11-09T18:09:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "TopTier brings African football legends to Lagos as Nigeria beat Team Africa 2-1",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/football/923961-toptier-brings-african-football-legends-to-lagos-as-nigeria-beat-team-africa-2-1.html",
+      "published_date": "2026-11-09T18:07:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NLNG announces $20,000 documentary prize for young Nigerian filmmakers",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/movies/923955-nlng-announces-20000-documentary-prize-for-young-nigerian-filmmakers.html",
+      "published_date": "2026-11-09T17:58:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Appeal court president inaugurates 375 judges for election tribunals",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923952-appeal-court-president-inaugurates-375-judges-for-election-tribunals.html",
+      "published_date": "2026-11-09T17:45:32+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The Atiku factor, By Wole Olaoye",
       "source": "Premium Times",
@@ -545,97 +636,6 @@
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/11/sultan-directs-muslims-to-sight-jumada-assaniya-moon-monday/",
       "published_date": "2026-11-08T22:19:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NTI managers to Tinubu, education minister: Review admission cancellation",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nti-managers-to-tinubu-education-minister-review-admission-cancellation/",
-      "published_date": "2026-11-08T22:15:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos governorship candidates clash over waste management, defend political records",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923789-lagos-governorship-candidates-clash-over-waste-management-defend-political-records.html",
-      "published_date": "2026-11-08T22:06:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I’m impressed with Gov Lawal’s performance in Zamfara, says Emir of Kano",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/923784-im-impressed-with-gov-lawals-performance-in-zamfara-says-emir-of-kano.html",
-      "published_date": "2026-11-08T21:54:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos governorship candidates disagree over rent control, housing, flooding",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923777-lagos-governorship-candidates-disagree-over-rent-control-housing-flooding.html",
-      "published_date": "2026-11-08T21:28:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Makinde backs state police, vows security overhaul",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-makinde-backs-state-police-vows-security-overhaul/",
-      "published_date": "2026-11-08T21:05:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Debate: ‘Lagos has waste-pick-and-dump system, not waste management’ – GRV",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/debate-lagos-has-waste-pick-and-dump-system-not-waste-management-grv/",
-      "published_date": "2026-11-08T20:59:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: PDP factional chairman accuses judiciary of favouring APC against opposition",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923764-2027-pdp-factional-chairman-accuses-judiciary-of-favouring-apc-against-opposition.html",
-      "published_date": "2026-11-08T20:43:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos 2027: Rhodes-Vivour, Hamzat, Doherty unveil plans on housing, transport, others",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/lagos-2027-rhodes-vivour-hamzat-doherty-unveil-plans-on-housing-transport-others/",
-      "published_date": "2026-11-08T20:41:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tompolo’s PBAT Door-to-Door Movement targets wider grassroots in more states",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923762-tompolos-pbat-door-to-door-movement-targets-wider-grassroots-in-more-states.html",
-      "published_date": "2026-11-08T20:09:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Debate: ‘Agbero interests holding back Lagos public transport’ – NDC’s Doherty",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/debate-lagos-public-transport-system-held-back-by-agbero-interests-ndcs-doherty/",
-      "published_date": "2026-11-08T19:26:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Customs processes 99,839 cargo declarations in two months",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/customs-processes-99839-cargo-declarations-in-two-months/",
-      "published_date": "2026-11-08T19:22:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nwankwo, Bright win 100m gold for Nigeria at Youth Olympics",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/923752-nwankwo-bright-win-100m-gold-for-nigeria-at-youth-olympics.html",
-      "published_date": "2026-11-08T19:20:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Uba Sani donates vehicles to JNI, CAN, religious sects",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/923750-uba-sani-donates-vehicles-to-jni-can-religious-sects.html",
-      "published_date": "2026-11-08T19:10:31+00:00",
       "category": "Local Events"
     }
   ]
