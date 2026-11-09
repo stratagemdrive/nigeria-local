@@ -80,6 +80,13 @@
   ],
   "Military": [
     {
+      "title": "Major shakeup in Nigerian Air Force, 67 senior officers redeployed",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/headlines/923771-major-shakeup-in-nigerian-air-force-67-senior-officers-redeployed.html",
+      "published_date": "2026-11-08T21:05:14+00:00",
+      "category": "Military"
+    },
+    {
       "title": "NAF redeploys senior officers, appoints new commanders",
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/11/naf-redeploys-senior-officers-appoints-new-commanders/",
@@ -207,6 +214,13 @@
     }
   ],
   "Energy": [
+    {
+      "title": "State Police: Ogun has over 6,000 Amotekun, So-Safe personnel ready, says Abiodun",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/923758-state-police-ogun-has-over-6000-amotekun-so-safe-personnel-ready-says-abiodun.html",
+      "published_date": "2026-11-08T19:26:01+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Gas transportation network not responsible for power generation drop – NNPC",
       "source": "Vanguard",
@@ -339,16 +353,30 @@
       "url": "https://www.vanguardngr.com/2026/11/cbn-appoints-eight-agents-for-crude-oil-exports/",
       "published_date": "2026-11-02T18:59:49+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "NUPRC opens bidding for 40 oil, gas blocks November 20",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nuprc-opens-bidding-for-40-oil-gas-blocks-november-20/",
-      "published_date": "2026-11-02T18:33:04+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Obi’ll win presidential election by landslide — Ex-Rep, Nkole",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/obill-win-presidential-election-by-landslide-ex-rep-nkole/",
+      "published_date": "2026-11-08T22:24:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lagos governorship candidates offer competing plans on transport, healthcare",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923781-lagos-governorship-candidates-offer-competing-plans-on-transport-healthcare.html",
+      "published_date": "2026-11-08T21:39:29+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "2027: Nigeria needs reset, not reforms — Makinde",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2027-nigeria-needs-reset-not-reforms-makinde/",
+      "published_date": "2026-11-08T19:26:01+00:00",
+      "category": "Economy"
+    },
     {
       "title": "FG secures $200m World Bank funding to boost fish production",
       "source": "Vanguard",
@@ -467,168 +495,147 @@
       "url": "https://www.vanguardngr.com/2026/11/cbn-sets-n10bn-n15bn-capital-requirements-for-stablecoin-issuers/",
       "published_date": "2026-11-06T16:07:26+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "World Bank, IMF recognise Tinubu’s economic reforms – $1tn economy target achievable – Yilwatda",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/world-bank-imf-recognise-tinubus-economic-reforms-1tn-economy-target-achievable-yilwatda/",
-      "published_date": "2026-11-06T16:04:39+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Tinubu: We’ll turn stability into prosperity through enterprise",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/tinubu-well-turn-stability-into-prosperity-through-enterprise/",
-      "published_date": "2026-11-06T15:00:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "FG tasks states on production-consumption alignment to protect farmers",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/fg-tasks-states-on-production-consumption-alignment-to-protect-farmers/",
-      "published_date": "2026-11-06T00:27:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "Lagos arrests dismissed operative for impersonation, extortion",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/lagos-arrests-dismissed-operative-for-impersonation-extortion-2/",
-      "published_date": "2026-11-08T16:42:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Nigeria is boiling, Tinubu must douse tension now — Turaki",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-nigeria-is-boiling-tinubu-must-douse-tension-now-turaki/",
-      "published_date": "2026-11-08T16:36:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2Baba thrills fans at Bongo Flava@30 festival",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2baba-thrills-fans-at-bongo-flava30-festival/",
-      "published_date": "2026-11-08T16:10:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kaduna-Kano rail line ready for December 3 inauguration — APC",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/kaduna-kano-rail-line-ready-for-december-3-inauguration-apc/",
-      "published_date": "2026-11-08T16:02:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ibom Deep Sea Port: NDC questions Tinubu’s fresh approval",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/ibom-deep-sea-port-ndc-questions-tinubus-fresh-approval/",
-      "published_date": "2026-11-08T16:00:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: APC’ll lose despite alleged plot to use judiciary, security agencies against opposition — ADC-PCC",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-apcll-lose-despite-alleged-plot-to-use-judiciary-security-agencies-against-opposition-adc-pcc/",
-      "published_date": "2026-11-08T15:54:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos arrests dismissed operative for impersonation, extortion",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/lagos-arrests-dismissed-operative-for-impersonation-extortion/",
-      "published_date": "2026-11-08T15:50:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos seals Surulere church over noise pollution",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/lagos-seals-surulere-church-over-noise-pollution/",
-      "published_date": "2026-11-08T15:48:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rivers: Tinubu, Wike committed to development, says Dike",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/rivers-tinubu-wike-committed-to-development-says-dike/",
-      "published_date": "2026-11-08T15:47:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NUC tasks varsities on research, industry partnerships",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nuc-tasks-varsities-on-research-industry-partnerships/",
-      "published_date": "2026-11-08T15:44:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "150 benefit from Pyrates’s medical mission at Igbo-Efon PHC",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/150-benefit-from-pyratess-medical-mission-at-igbo-efon-phc/",
-      "published_date": "2026-11-08T15:40:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Controversy: We didn’t negotiate N40,000 pay adjustment for federal workers — NLC",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/controversy-we-didnt-negotiate-n40000-pay-adjustment-for-federal-workers-nlc-2/",
-      "published_date": "2026-11-08T15:39:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kaduna-Kano rail line to be inaugurated 3 December – APC Campaign Council",
+      "title": "The Atiku factor, By Wole Olaoye",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923741-kaduna-kano-rail-line-to-be-inaugurated-3-december-apc-campaign-council.html",
-      "published_date": "2026-11-08T15:09:35+00:00",
+      "url": "https://www.premiumtimesng.com/opinion/923803-the-atiku-factor-by-wole-olaoye.html",
+      "published_date": "2026-11-09T01:41:03+00:00",
       "category": "Local Events"
     },
     {
-      "title": "My regret over 2023 elections – Kwankwaso",
+      "title": "Atiku, Tinubu, Justice Lifu and death of “Àà tií gbó̩?”, By Festus Adedayo",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923739-my-regret-over-2023-elections-kwankwaso.html",
-      "published_date": "2026-11-08T14:57:40+00:00",
+      "url": "https://www.premiumtimesng.com/opinion/923801-atiku-tinubu-justice-lifu-and-death-of-aa-tii-gbo%cc%a9-by-festus-adedayo.html",
+      "published_date": "2026-11-09T01:22:35+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Why reelecting Tinubu is mandatory – Jigawa speaker",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/923736-why-reelecting-tinubu-is-mandatory-jigawa-speaker.html",
-      "published_date": "2026-11-08T14:19:40+00:00",
+      "title": "2027: APC chieftain laments 73% voter apathy in Aramoko",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2027-apc-chieftain-laments-73-voter-apathy-in-aramoko/",
+      "published_date": "2026-11-09T00:59:00+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NDLEA arrests Ugandan woman with 87 cocaine wraps at Lagos airport",
+      "title": "Decoupling Sovereignty Index (6): Recovery sequencing and the logic of sovereign re-coupling, By Max Amuchie",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923715-ndlea-arrests-ugandan-woman-with-87-cocaine-wraps-at-lagos-airport.html",
-      "published_date": "2026-11-08T13:17:30+00:00",
+      "url": "https://www.premiumtimesng.com/opinion/923768-decoupling-sovereignty-index-6-recovery-sequencing-and-the-logic-of-sovereign-re-coupling-by-max-amuchie.html",
+      "published_date": "2026-11-09T00:39:21+00:00",
       "category": "Local Events"
     },
     {
-      "title": "2027 Politics Watch: From Asaba rally’s death to Obi’s subsidy challenge",
+      "title": "Lagos police ask political parties to notify command ahead of 2027 rallies",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923706-2027-politics-watch-from-asaba-rallys-death-to-obis-subsidy-challenge.html",
-      "published_date": "2026-11-08T13:02:28+00:00",
+      "url": "https://www.premiumtimesng.com/news/top-news/923794-lagos-police-ask-political-parties-to-notify-command-ahead-of-2027-rallies.html",
+      "published_date": "2026-11-08T22:47:48+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Truck overturns in Lagos, kills passenger",
+      "title": "Abiodun commends DSS, Police for rescuing kidnap victims, vows Ogun won’t be criminals’ safe haven",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923712-truck-overturns-in-lagos-kills-passenger.html",
-      "published_date": "2026-11-08T12:48:28+00:00",
+      "url": "https://www.premiumtimesng.com/promoted/923792-abiodun-commends-dss-police-for-rescuing-kidnap-victims-vows-ogun-wont-be-criminals-safe-haven.html",
+      "published_date": "2026-11-08T22:39:47+00:00",
       "category": "Local Events"
     },
     {
-      "title": "NPFL Matchday 12 Preview: Rangers, Rivers United face crucial tests",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/923699-npfl-matchday-12-preview-rangers-rivers-united-face-crucial-tests.html",
-      "published_date": "2026-11-08T11:27:33+00:00",
+      "title": "Sultan directs Muslims to sight Jumada Assaniya moon Monday",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/sultan-directs-muslims-to-sight-jumada-assaniya-moon-monday/",
+      "published_date": "2026-11-08T22:19:09+00:00",
       "category": "Local Events"
     },
     {
-      "title": "2027: Kwara APC rallies for Tinubu, local candidates in Ilorin",
+      "title": "NTI managers to Tinubu, education minister: Review admission cancellation",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/nti-managers-to-tinubu-education-minister-review-admission-cancellation/",
+      "published_date": "2026-11-08T22:15:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos governorship candidates clash over waste management, defend political records",
       "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/923691-2027-kwara-apc-rallies-for-tinubu-local-candidates-in-ilorin.html",
-      "published_date": "2026-11-08T10:28:29+00:00",
+      "url": "https://www.premiumtimesng.com/news/top-news/923789-lagos-governorship-candidates-clash-over-waste-management-defend-political-records.html",
+      "published_date": "2026-11-08T22:06:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I’m impressed with Gov Lawal’s performance in Zamfara, says Emir of Kano",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/923784-im-impressed-with-gov-lawals-performance-in-zamfara-says-emir-of-kano.html",
+      "published_date": "2026-11-08T21:54:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos governorship candidates disagree over rent control, housing, flooding",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923777-lagos-governorship-candidates-disagree-over-rent-control-housing-flooding.html",
+      "published_date": "2026-11-08T21:28:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Makinde backs state police, vows security overhaul",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2027-makinde-backs-state-police-vows-security-overhaul/",
+      "published_date": "2026-11-08T21:05:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Debate: ‘Lagos has waste-pick-and-dump system, not waste management’ – GRV",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/debate-lagos-has-waste-pick-and-dump-system-not-waste-management-grv/",
+      "published_date": "2026-11-08T20:59:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: PDP factional chairman accuses judiciary of favouring APC against opposition",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923764-2027-pdp-factional-chairman-accuses-judiciary-of-favouring-apc-against-opposition.html",
+      "published_date": "2026-11-08T20:43:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos 2027: Rhodes-Vivour, Hamzat, Doherty unveil plans on housing, transport, others",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/lagos-2027-rhodes-vivour-hamzat-doherty-unveil-plans-on-housing-transport-others/",
+      "published_date": "2026-11-08T20:41:06+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tompolo’s PBAT Door-to-Door Movement targets wider grassroots in more states",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/923762-tompolos-pbat-door-to-door-movement-targets-wider-grassroots-in-more-states.html",
+      "published_date": "2026-11-08T20:09:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Debate: ‘Agbero interests holding back Lagos public transport’ – NDC’s Doherty",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/debate-lagos-public-transport-system-held-back-by-agbero-interests-ndcs-doherty/",
+      "published_date": "2026-11-08T19:26:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Customs processes 99,839 cargo declarations in two months",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/customs-processes-99839-cargo-declarations-in-two-months/",
+      "published_date": "2026-11-08T19:22:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nwankwo, Bright win 100m gold for Nigeria at Youth Olympics",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/sports/nigeria-sports-news/923752-nwankwo-bright-win-100m-gold-for-nigeria-at-youth-olympics.html",
+      "published_date": "2026-11-08T19:20:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Uba Sani donates vehicles to JNI, CAN, religious sects",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/923750-uba-sani-donates-vehicles-to-jni-can-religious-sects.html",
+      "published_date": "2026-11-08T19:10:31+00:00",
       "category": "Local Events"
     }
   ]
