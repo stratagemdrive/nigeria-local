@@ -87,6 +87,13 @@
   ],
   "Military": [
     {
+      "title": "Navy rescues Bayelsa commissioner, NSCDC official, 5 others from drowning",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/924019-navy-rescues-bayelsa-commissioner-nscdc-official-5-others-from-drowning.html",
+      "published_date": "2026-11-09T22:24:13+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Major shakeup in Nigerian Air Force, 67 senior officers redeployed",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/news/headlines/923771-major-shakeup-in-nigerian-air-force-67-senior-officers-redeployed.html",
@@ -204,16 +211,16 @@
       "url": "https://www.vanguardngr.com/2026/11/igbo-youth-rebuff-of-nigerian-army-iii-by-ochereome-nnanna/",
       "published_date": "2026-11-03T23:57:26+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Customs appoints Mamman Ali acting Adamawa/Taraba Comptroller",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/customs-appoints-mamman-ali-acting-adamawa-taraba-comptroller/",
-      "published_date": "2026-11-03T00:49:00+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Power outages remain despite rise in generation, ministerial promise",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/power-outages-remain-despite-rise-in-generation-ministerial-promise/",
+      "published_date": "2026-11-10T04:23:25+00:00",
+      "category": "Energy"
+    },
     {
       "title": "UCH installs new power substation amid recurring electricity crisis",
       "source": "Premium Times",
@@ -346,16 +353,23 @@
       "url": "https://www.vanguardngr.com/2026/11/ramping-up-solar-option-to-close-energy-gap/",
       "published_date": "2026-11-03T23:50:47+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "EFCC uncovers Chinese-operated illegal oil refinery in Ogun",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/922428-efcc-uncovers-chinese-operated-illegal-oil-refinery-in-ogun.html",
-      "published_date": "2026-11-03T17:01:04+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "2027: Tinubu’s projects’ll transform South-East economy – Shettima",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2027-tinubus-projectsll-transform-south-east-economy-shettima/",
+      "published_date": "2026-11-10T04:15:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tinubu driving economic, security transformation in South-east – Shettima",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/924016-tinubu-driving-economic-security-transformation-in-south-east-shettima.html",
+      "published_date": "2026-11-09T22:07:14+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Stallion Group partners with Access Bank",
       "source": "Premium Times",
@@ -481,23 +495,51 @@
       "url": "https://www.vanguardngr.com/2026/11/makinde-tinubus-poor-planning-plunged-millions-of-nigerians-into-hardship/",
       "published_date": "2026-11-07T13:13:04+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "TenTrade offers partners up to $10 per lot in referral rebates",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/923462-tentrade-offers-partners-up-to-10-per-lot-in-referral-rebates.html",
-      "published_date": "2026-11-07T12:21:02+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Nigeria ranks second globally in children’s climate risk – Report",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nigeria-ranks-second-globally-in-childrens-climate-risk-report/",
-      "published_date": "2026-11-07T12:10:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Flamingos: Presidency, Obi bicker over access to players at Abuja airport",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/flamingos-presidency-obi-bicker-over-access-to-players-at-abuja-airport/",
+      "published_date": "2026-11-10T04:08:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I’m a godfather, but I don’t impose appointments on governors — Osoba",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/im-a-godfather-but-i-dont-impose-appointments-on-governors-osoba/",
+      "published_date": "2026-11-09T22:21:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu acknowledges challenges facing Nigerian youths, promises more opportunities",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/924028-tinubu-acknowledges-challenges-facing-nigerian-youths-promises-more-opportunities.html",
+      "published_date": "2026-11-09T22:15:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "INEC yet to receive court order on ADC, Tinubu, says Amupitan",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/924026-inec-yet-to-receive-court-order-on-adc-tinubu-says-amupitan.html",
+      "published_date": "2026-11-09T22:14:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "INEC removes 1.6 million names from voters’ register, fingers 54 officials",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/924021-inec-removes-1-6-million-names-from-voters-register-fingers-54-officials.html",
+      "published_date": "2026-11-09T21:59:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Enugu governor appoints another Nollywood star as aide",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/924017-enugu-governor-appoints-another-nollywood-star-as-aide.html",
+      "published_date": "2026-11-09T21:16:17+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Gombe: PDP ex-chairman, ex-SSG, others join APC",
       "source": "Premium Times",
@@ -594,48 +636,6 @@
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/opinion/923803-the-atiku-factor-by-wole-olaoye.html",
       "published_date": "2026-11-09T01:41:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Atiku, Tinubu, Justice Lifu and death of “Àà tií gbó̩?”, By Festus Adedayo",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/923801-atiku-tinubu-justice-lifu-and-death-of-aa-tii-gbo%cc%a9-by-festus-adedayo.html",
-      "published_date": "2026-11-09T01:22:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: APC chieftain laments 73% voter apathy in Aramoko",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-apc-chieftain-laments-73-voter-apathy-in-aramoko/",
-      "published_date": "2026-11-09T00:59:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Decoupling Sovereignty Index (6): Recovery sequencing and the logic of sovereign re-coupling, By Max Amuchie",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/opinion/923768-decoupling-sovereignty-index-6-recovery-sequencing-and-the-logic-of-sovereign-re-coupling-by-max-amuchie.html",
-      "published_date": "2026-11-09T00:39:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos police ask political parties to notify command ahead of 2027 rallies",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/923794-lagos-police-ask-political-parties-to-notify-command-ahead-of-2027-rallies.html",
-      "published_date": "2026-11-08T22:47:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abiodun commends DSS, Police for rescuing kidnap victims, vows Ogun won’t be criminals’ safe haven",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/promoted/923792-abiodun-commends-dss-police-for-rescuing-kidnap-victims-vows-ogun-wont-be-criminals-safe-haven.html",
-      "published_date": "2026-11-08T22:39:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sultan directs Muslims to sight Jumada Assaniya moon Monday",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/sultan-directs-muslims-to-sight-jumada-assaniya-moon-monday/",
-      "published_date": "2026-11-08T22:19:09+00:00",
       "category": "Local Events"
     }
   ]
