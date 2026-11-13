@@ -97,16 +97,23 @@
       "url": "https://www.premiumtimesng.com/news/more-news/923178-nigeria-to-host-african-global-fashion-games-in-2028.html",
       "published_date": "2026-11-06T14:17:27+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "UN, EU, Germany woo investors to Borno",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/un-eu-germany-woo-investors-to-borno/",
-      "published_date": "2026-11-06T00:49:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Lagos taskforce raids Cele, Itire, Ilasamaja, arrests 3 suspected drug peddlers",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/lagos-taskforce-raids-cele-itire-ilasamaja-arrests-3-suspected-drug-peddlers/",
+      "published_date": "2026-11-12T23:48:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tinubu’s economic reforms key to sustainable security, says Dare",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/tinubus-economic-reforms-key-to-sustainable-security-says-dare/",
+      "published_date": "2026-11-12T18:41:22+00:00",
+      "category": "Military"
+    },
     {
       "title": "Customs intercepts 15,375 litres of petrol in Kwara, warns smugglers",
       "source": "Vanguard",
@@ -183,30 +190,23 @@
       "url": "https://www.premiumtimesng.com/news/top-news/923186-naf-recovers-cockpit-voice-recorder-of-crashed-military-aircraft-in-ondo.html",
       "published_date": "2026-11-06T14:31:17+00:00",
       "category": "Military"
-    },
-    {
-      "title": "2027: Tinubu, T. Y. Danjuma, Northeast, North-Central leaders meet in Aso Villa",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-tinubu-t-y-danjuma-northeast-north-central-leaders-meet-in-aso-villa/",
-      "published_date": "2026-11-05T22:55:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nigeria must deploy tollgates, technology to improve highway security – Musa",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nigeria-must-deploy-tollgates-technology-to-improve-highway-security-musa/",
-      "published_date": "2026-11-05T21:19:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ex-Air Force spokesperson identifies ‘flaw’ affecting Nigeria’s multi-trillion naira defence budget",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/923053-ex-air-force-spokesperson-identifies-flaw-affecting-nigerias-multi-trillion-naira-defence-budget.html",
-      "published_date": "2026-11-05T21:13:52+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Makinde’s campaign group demands probe of Tinubu’s N11.2trn crude oil-backed loans",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/924782-makindes-campaign-group-demands-probe-of-tinubus-n11-2trn-crude-oil-backed-loans.html",
+      "published_date": "2026-11-12T20:44:09+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "‎Nigeria has left ’emergency ward,’ targets $1trn economy by 2030 – Tinubu",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/nigeria-has-left-emergency-ward-targets-1trn-economy-by-2030-tinubu/",
+      "published_date": "2026-11-12T19:16:15+00:00",
+      "category": "Energy"
+    },
     {
       "title": "COP31: Nigeria pitches $2.2 billion flare gas plan to investors as flaring persists",
       "source": "Premium Times",
@@ -332,16 +332,37 @@
       "url": "https://www.vanguardngr.com/2026/11/fg-targets-2000-new-cng-facilities-nationwide/",
       "published_date": "2026-11-06T16:06:07+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "Governor orders probe of violence at APC presidential rally",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/north-central/923031-governor-orders-probe-of-violence-at-apc-presidential-rally.html",
-      "published_date": "2026-11-05T19:00:05+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "EFCC arraigns businessman over alleged £122,000 investment fraud",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/924749-efcc-arraigns-businessman-over-alleged-122000-investment-fraud.html",
+      "published_date": "2026-11-12T19:35:11+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Zamfara governor mourns Commerce Commissioner, Tasiu Shinkafi",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/924742-zamfara-governor-mourns-commerce-commissioner-tasiu-shinkafi.html",
+      "published_date": "2026-11-12T19:32:33+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "How Emefiele allegedly acquired multi-billion-naira properties through proxies – Witness",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/924738-how-emefiele-allegedly-acquired-multi-billion-naira-properties-through-proxies-witness.html",
+      "published_date": "2026-11-12T18:54:57+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Gombe PDP kicks off 2027 campaign; Pantami vows to fight poverty",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/nnorth-east/924731-gombe-pdp-kicks-off-2027-campaign-pantami-vows-to-fight-poverty.html",
+      "published_date": "2026-11-12T18:39:19+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Benue approves N5.2bn for NG-CARES, salary arrears",
       "source": "Vanguard",
@@ -453,37 +474,114 @@
       "url": "https://www.vanguardngr.com/2026/11/laswa-interferry-complete-ferry-safety-inspection-training/",
       "published_date": "2026-11-10T23:37:00+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Lagos urges residents to embrace routine HIV testing",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/lagos-urges-residents-to-embrace-routine-hiv-testing/",
-      "published_date": "2026-11-10T23:33:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Bagudu: With Tinubu’s reforms, prosperity is guaranteed",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/bagudu-with-tinubus-reforms-prosperity-is-guaranteed/",
-      "published_date": "2026-11-10T18:06:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Dangote Cement suspends proposed London listing",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/924204-dangote-cement-suspends-proposed-london-listing.html",
-      "published_date": "2026-11-10T17:50:11+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "2027: APM candidate urges Lagosians to reject APC",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-apm-candidate-urges-lagosians-to-reject-apc/",
-      "published_date": "2026-11-10T17:48:47+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "UNN Deaths: Gov Mbah mourns, orders investigation",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/unn-deaths-gov-mbah-mourns-orders-investigation/",
+      "published_date": "2026-11-12T21:33:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "COP31: African youths map water challenges in 51 countries, seek greater role in policy decisions",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/924778-cop31-african-youths-map-water-challenges-in-51-countries-seek-greater-role-in-policy-decisions.html",
+      "published_date": "2026-11-12T20:42:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "NSIB: Aircraft door that fell off Abuja-Lagos flight had all locks open",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/nsib-releases-report-on-mid-air-detachment-of-abuja-lagos-aircraft-door/",
+      "published_date": "2026-11-12T20:30:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Tompolo leads grassroots mobilisation for Tinubu in Jigawa, Zamfara, unveils 56 vehicles",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/924776-2027-tompolo-leads-grassroots-mobilisation-for-tinubu-in-jigawa-zamfara-unveils-56-vehicles.html",
+      "published_date": "2026-11-12T20:30:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AFCONQ: Why I didn’t invite Maduka Okoye – Chelle",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/afconq-why-i-didnt-invite-maduka-okoye-chelle/",
+      "published_date": "2026-11-12T20:24:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICRC seeks stronger partnership with PREMIUM TIMES on humanitarian reporting",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/924769-icrc-seeks-stronger-partnership-with-premium-times-on-humanitarian-reporting.html",
+      "published_date": "2026-11-12T20:23:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lee Group’s $1.8b industrial park to create 15,000 jobs, boost Ogun’s manufacturing base — Abiodun",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/924770-lee-groups-1-8b-industrial-park-to-create-15000-jobs-boost-oguns-manufacturing-base-abiodun.html",
+      "published_date": "2026-11-12T20:15:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AFCON 2027Q: Guinea-Bissau drop points, hand Super Eagles chance to close gap",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/afcon-2027q-guinea-bissau-drop-points-hand-super-eagles-chance-to-close-gap/",
+      "published_date": "2026-11-12T20:09:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PREMIUM TIMES journalist, others shine at Global AMR Awards",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/924761-premium-times-journalist-others-shine-at-global-amr-awards.html",
+      "published_date": "2026-11-12T20:09:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AHF launches comic book to tackle menstrual stigma among Nigerian girls",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/health/health-news/924755-ahf-launches-comic-book-to-tackle-menstrual-stigma-among-nigerian-girls.html",
+      "published_date": "2026-11-12T20:05:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amaechi’s campaign worse than diarrhoea, By Azu Ishiekwene",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/opinion/924740-amaechis-campaign-worse-than-diarrhoea-by-azu-ishiekwene.html",
+      "published_date": "2026-11-12T19:29:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Tinubu will lose if he contests against anybody picked on street — Dalung",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2027-tinubu-will-lose-if-he-contests-against-anybody-picked-on-street-dalung/",
+      "published_date": "2026-11-12T19:11:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reps condemn political violence as thugs attack NDC supporters in Lagos; NDC, APC-PCC fault attack",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/reps-condemn-political-violence-as-thugs-attack-ndc-supporters-in-lagos-ndc-apc-pcc-fault-attack/",
+      "published_date": "2026-11-12T19:10:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNILORIN students protest as court bars contractor from disputed land",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/regional/north-central/924737-unilorin-students-protest-as-court-bars-contractor-from-disputed-land.html",
+      "published_date": "2026-11-12T18:49:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KASU-ASUU assures students of uninterrupted academic activities amid non-teaching staff strike",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/924732-kasu-asuu-assures-students-of-uninterrupted-academic-activities-amid-non-teaching-staff-strike.html",
+      "published_date": "2026-11-12T18:41:31+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "2027: Opposition parties lack experience to govern Nigeria, says Ambode",
       "source": "Vanguard",
@@ -517,111 +615,6 @@
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/11/tinubu-building-political-power-not-national-unity-makinde/",
       "published_date": "2026-11-12T17:31:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zoning: Atiku violating North-South arrangement he agreed to, says SGF",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/zoning-atiku-violating-north-south-arrangement-he-agreed-to-says-sgf/",
-      "published_date": "2026-11-12T17:25:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alleged Defamation: FIJ founder Soyombo visits detained colleague, says he’s ready to appear in court",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/924716-alleged-defamation-fij-founder-soyombo-visits-detained-colleague-says-hes-ready-to-appear-in-court.html",
-      "published_date": "2026-11-12T17:19:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Makinde gives reasons for challenging Tinubu in 2027",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/924711-makinde-gives-reasons-for-challenging-tinubu-in-2027.html",
-      "published_date": "2026-11-12T17:03:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judge Tinubu, Chinda by records, not promises — Dike",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/judge-tinubu-chinda-by-records-not-promises-dike/",
-      "published_date": "2026-11-12T17:02:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AFCON Qualifier: We are focused on beating Tanzania, says Chelle",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/football/924708-afcon-qualifier-we-are-focused-on-beating-tanzania-says-chelle.html",
-      "published_date": "2026-11-12T16:57:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: INEC begins deploying non-sensitive materials",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-inec-begins-deploying-non-sensitive-materials/",
-      "published_date": "2026-11-12T16:56:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "APC-PCC condemns attack on NDC Lagos town hall, demands swift arrests",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/apc-pcc-condemns-attack-on-ndc-lagos-town-hall-demands-swift-arrests/",
-      "published_date": "2026-11-12T16:53:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We’ll beat DR Congo all-round’ – Olympic Eagles stars promise ahead of LA 2028 Qualifier",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/sports/football/924704-well-beat-dr-congo-all-round-olympic-eagles-stars-promise-ahead-of-la-2028-qualifier.html",
-      "published_date": "2026-11-12T16:50:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lagos APC condemns attack on NDC members, denies involvement",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/lagos-apc-condemns-attack-on-ndc-members-denies-involvement/",
-      "published_date": "2026-11-12T16:50:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Obi pledges ₦15 million for Yelewata massacre survivors, nursing college",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/north-central/924697-obi-pledges-%e2%82%a615-million-for-yelewata-massacre-survivors-nursing-college.html",
-      "published_date": "2026-11-12T16:33:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Businessman’s Death: Chris Okafor’s lawyer threatens action over reports of cleric’s arrest",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/924683-businessmans-death-chris-okafors-lawyer-threatens-action-over-reports-of-clerics-arrest.html",
-      "published_date": "2026-11-12T15:53:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Reps to probe attacks on political rallies, supporters",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/924680-2027-reps-to-probe-attacks-on-political-rallies-supporters.html",
-      "published_date": "2026-11-12T15:38:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gowon’s memoirs: Nigeria owes Awolowo an eternal debt, by Olu Fasan",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/gowons-memoirs-nigeria-owes-awolowo-an-eternal-debt-by-olu-fasan/",
-      "published_date": "2026-11-12T00:41:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What, if the heavens fall? By Ikechukwu Amaechi",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/what-if-the-heavens-fall-by-ikechukwu-amaechi/",
-      "published_date": "2026-11-12T00:36:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tinubu recycling failed 2023 promises in 2027 manifesto, says ADC",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/tinubu-recycling-failed-2023-promises-in-2027-manifesto-says-adc-2/",
-      "published_date": "2026-11-12T00:14:00+00:00",
       "category": "Local Events"
     }
   ]
