@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "FG records 16 Nigerian deaths in Addis Ababa, warns travellers",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/fg-records-16-nigerian-deaths-in-addis-ababa-warns-travellers/",
+      "published_date": "2026-11-13T21:12:11+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Genesis Energy wins two awards at Lagos Energy Summit, reinforcing commitment to power infrastructure development",
       "source": "Premium Times",
       "url": "https://www.premiumtimesng.com/promoted/924972-genesis-energy-wins-two-awards-at-lagos-energy-summit-reinforcing-commitment-to-power-infrastructure-development.html",
@@ -97,13 +104,6 @@
       "url": "https://www.premiumtimesng.com/business/business-news/923604-cop31-what-nigeria-other-african-countries-will-push-for-at-un-climate-summit.html",
       "published_date": "2026-11-07T21:30:32+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Fani-Kayode rejects senior counsel of Nigeria title",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/923279-fani-kayode-rejects-senior-counsel-of-nigeria-title.html",
-      "published_date": "2026-11-06T19:23:51+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
@@ -193,6 +193,20 @@
     }
   ],
   "Energy": [
+    {
+      "title": "COP31: White paper urges governments to invest in water-based energy storage",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/925045-cop31-white-paper-urges-governments-to-invest-in-water-based-energy-storage.html",
+      "published_date": "2026-11-13T20:32:04+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "NUPRC flags 13 gas leaks as top-priority risks in Bille, Rivers State",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/925039-nuprc-flags-13-gas-leaks-as-top-priority-risks-in-bille-rivers-state.html",
+      "published_date": "2026-11-13T20:17:19+00:00",
+      "category": "Energy"
+    },
     {
       "title": "NMDPRA moves to curb tanker crashes, sensitises drivers",
       "source": "Premium Times",
@@ -318,16 +332,51 @@
       "url": "https://www.vanguardngr.com/2026/11/oyoll-no-longer-depend-on-oil-raw-materials-for-economic-prosperity-makinde/",
       "published_date": "2026-11-07T15:54:32+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "2027: Obi is coming to stop erosion of Nigeria’s commonwealth, NDC replies Tinubu",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-obi-is-coming-to-stop-erosion-of-nigerias-commonwealth-ndc-replies-tinubu/",
-      "published_date": "2026-11-07T15:02:48+00:00",
-      "category": "Energy"
     }
   ],
   "Economy": [
+    {
+      "title": "Emefiele: Court admits Supreme Court judgment in forfeiture case",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/emefiele-court-admits-supreme-court-judgment-in-forfeiture-case/",
+      "published_date": "2026-11-14T00:52:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Lagos APC hails 2027 take-off of proposed Epe airport",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/lagos-apc-hails-2027-take-off-of-proposed-epe-airport/",
+      "published_date": "2026-11-14T00:35:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Finance must break developing countries from ‘debt and disaster’ loop – UN climate chief",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/business/business-news/925050-finance-must-break-developing-countries-from-debt-and-disaster-loop-un-climate-chief.html",
+      "published_date": "2026-11-13T21:16:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "COVID-19 loans must be repaid, NIRSAL MFB insists",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/covid-19-loans-must-be-repaid-nirsal-mfb-insists/",
+      "published_date": "2026-11-13T20:54:54+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Tuggar calls for renewed pan-African solidarity, condemns ‘Afrophobia’ in South Africa",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/925021-tuggar-calls-for-renewed-pan-african-solidarity-condemns-afrophobia-in-south-africa.html",
+      "published_date": "2026-11-13T19:10:40+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Emefiele: Court admits Supreme Court judgment on forfeiture of $2m, properties",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/925001-emefiele-court-admits-supreme-court-judgment-on-forfeiture-of-2m-properties.html",
+      "published_date": "2026-11-13T18:43:05+00:00",
+      "category": "Economy"
+    },
     {
       "title": "EFCC arraigns businessman over alleged £122,000 investment fraud",
       "source": "Premium Times",
@@ -425,51 +474,114 @@
       "url": "https://www.premiumtimesng.com/business/business-news/924563-fg-funds-federal-workers-accrued-pension-rights-through-2029-official.html",
       "published_date": "2026-11-11T22:18:41+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "COP31: HOMEF demands clarity over fossil fuel language in ongoing climate talks in Turkey",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/924556-cop31-homef-demands-clarity-over-fossil-fuel-language-in-ongoing-climate-talks-in-turkey.html",
-      "published_date": "2026-11-11T21:58:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "COP31: Guterres faults fossil fuel lobby, demands $1.3tn for developing countries",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/924543-cop31-guterres-faults-fossil-fuel-lobby-demands-1-3tn-for-developing-countries.html",
-      "published_date": "2026-11-11T19:37:46+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Afreximbank, DBN partner on $75 million finance facility for SMEs, creative sector",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/business/business-news/924502-afreximbank-dbn-partner-on-75-million-finance-facility-for-smes-creative-sector.html",
-      "published_date": "2026-11-11T17:36:33+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Stop celebrating corrupt leaders, Aworinde tells Nigerians",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/stop-celebrating-corrupt-leaders-aworinde-tells-nigerians/",
-      "published_date": "2026-11-11T17:27:12+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "2027: Lagos traders pray for Tinubu, Hamzat’s victory",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-lagos-traders-pray-for-tinubu-hamzats-victory/",
-      "published_date": "2026-11-11T00:37:00+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "LASWA, Interferry complete ferry safety inspection training",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/laswa-interferry-complete-ferry-safety-inspection-training/",
-      "published_date": "2026-11-10T23:37:00+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Zamfara stands still as Gov Lawal hosts First Lady, Remi Tinubu for mega rally",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/promoted/925054-zamfara-stands-still-as-gov-lawal-hosts-first-lady-remi-tinubu-for-mega-rally.html",
+      "published_date": "2026-11-13T22:47:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "North accounts for most of Nigeria’s recorded maternal deaths – Report",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/925047-north-accounts-for-most-of-nigerias-recorded-maternal-deaths-report.html",
+      "published_date": "2026-11-13T21:08:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Kidnappers kill Kaduna farmer after collecting N56m ransom",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/kidnappers-kill-kaduna-farmer-after-collecting-n56m-ransom/",
+      "published_date": "2026-11-13T21:08:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lagos NDC meeting attack threatens democracy — APM candidate",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/lagos-ndc-meeting-attack-threatens-democracy-apm-candidate/",
+      "published_date": "2026-11-13T20:59:13+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Customs intercepts live sea turtle at Nigeria-Benin border",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/customs-intercepts-live-sea-turtle-at-nigeria-benin-border/",
+      "published_date": "2026-11-13T20:52:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ebola: All 62 contacts test negative after monitoring – NCDC",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/ebola-all-62-contacts-test-negative-after-monitoring-ncdc/",
+      "published_date": "2026-11-13T20:51:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Tinubu, Atiku, Obi not there for Nigeria — Sule Lamido",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/2027-tinubu-atiku-obi-not-there-for-nigeria-sule-lamido/",
+      "published_date": "2026-11-13T20:51:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Awka Anglican Crisis: Ibezim withdraws suit against Primate",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/11/awka-anglican-crisis-ibezim-withdraws-suit-against-primate/",
+      "published_date": "2026-11-13T20:39:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prophet who claimed he could resurrect Toluwanisings remanded",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/925041-prophet-who-claimed-he-could-resurrect-toluwanisings-remanded.html",
+      "published_date": "2026-11-13T20:25:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: Tinubu orders security agencies to crack down on political thuggery",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/925036-2027-tinubu-orders-security-agencies-to-crack-down-on-political-thuggery.html",
+      "published_date": "2026-11-13T20:01:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tinubu booed at Abuja mosque after Friday prayers",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/925029-tinubu-booed-at-abuja-mosque-after-friday-prayers.html",
+      "published_date": "2026-11-13T19:51:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ogun presents staff of office to new Olu of Ifo",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/more-news/925026-ogun-presents-staff-of-office-to-new-olu-of-ifo.html",
+      "published_date": "2026-11-13T19:40:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "2027: PDP reacts to court ruling reinstating Adebutu as Ogun gov candidate, urges INEC to comply",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/925024-2027-pdp-reacts-to-court-ruling-reinstating-adebutu-as-ogun-gov-candidate-urges-inec-to-comply.html",
+      "published_date": "2026-11-13T19:32:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arokodare scores twice as Super Eagles bounce back with 3-1 victory over Tanzania",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/news/top-news/925017-arokodare-scores-twice-as-super-eagles-bounce-back-with-3-1-victory-over-tanzania.html",
+      "published_date": "2026-11-13T19:10:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Afreximbank acquires stake in D’banj’s CREAM platform",
+      "source": "Premium Times",
+      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/924992-afreximbank-acquires-stake-in-dbanjs-cream-platform.html",
+      "published_date": "2026-11-13T18:46:43+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "AFCONQ: Arokodare scores brace as Super Eagles defeat Tanzania 3-1",
       "source": "Vanguard",
@@ -503,111 +615,6 @@
       "source": "Vanguard",
       "url": "https://www.vanguardngr.com/2026/11/u-23-afconq-nigeria-suffer-2-0-defeat-to-dr-congo-in-first-leg/",
       "published_date": "2026-11-13T17:13:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US revokes over 6,000 visas in its birth tourism crackdown",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/924951-us-revokes-over-6000-visas-in-its-birth-tourism-crackdown.html",
-      "published_date": "2026-11-13T17:13:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why I lied about having cancer – Blessing CEO",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/why-i-lied-about-having-cancer-blessing-ceo/",
-      "published_date": "2026-11-13T15:53:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027 polls: Youth candidacy drops to 20% as Yiaga Africa kicks off bootcamp for young aspirants",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/2027-polls-youth-candidacy-drops-to-20-as-yiaga-africa-kicks-off-bootcamp-for-young-aspirants/",
-      "published_date": "2026-11-13T15:42:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria XI vs Tanzania: Lookman, Akor lead Super Eagles attack",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nigeria-xi-vs-tanzania-lookman-akor-lead-super-eagles-attack/",
-      "published_date": "2026-11-13T15:29:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I faked breast cancer to raise N13m – Blessing CEO admits",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/naija-fashion/924942-i-faked-breast-cancer-to-raise-n13m-blessing-ceo-admits.html",
-      "published_date": "2026-11-13T15:29:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fela’s ‘Gentleman’ soundtracks ‘The Thomas Crown Affair’ trailer",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/entertainment/movies/924943-felas-gentleman-soundtracks-the-thomas-crown-affair-trailer.html",
-      "published_date": "2026-11-13T15:27:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria vs Tanzania (LIVE UPDATES): Super Eagles seek crucial victory in Uyo",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/headlines/924944-nigeria-vs-tanzania-live-updates-super-eagles-seek-crucial-victory-in-uyo.html",
-      "published_date": "2026-11-13T15:17:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Meningitis: Anambra, Ebonyi, Enugu intensify vaccination, urge residents to stay hydrated",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/more-news/924937-meningitis-anambra-ebonyi-enugu-intensify-vaccination-urge-residents-to-stay-hydrated.html",
-      "published_date": "2026-11-13T13:45:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Enugu govt speaks on alleged blocking of Peter Obi, NDC from using campaign venue",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/924935-enugu-govt-speaks-on-alleged-blocking-of-peter-obi-ndc-from-using-campaign-venue.html",
-      "published_date": "2026-11-13T13:38:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nigeria vs Tanzania: Five Players who could decide Super Eagles’ crucial 2027 AFCON Qualifier",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/924931-nigeria-vs-tanzania-five-players-who-could-decide-super-eagles-crucial-2027-afcon-qualifier.html",
-      "published_date": "2026-11-13T13:29:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Go your way’, Fubara tells supporters unwilling to join Wike’s Rainbow Coalition",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/regional/south-south-regional/924921-go-your-way-fubara-tells-supporters-unwilling-to-join-wikes-rainbow-coalition.html",
-      "published_date": "2026-11-13T12:20:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UNN Deaths: Gov Mbah mourns, orders investigation",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/unn-deaths-gov-mbah-mourns-orders-investigation/",
-      "published_date": "2026-11-12T21:33:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "COP31: African youths map water challenges in 51 countries, seek greater role in policy decisions",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/924778-cop31-african-youths-map-water-challenges-in-51-countries-seek-greater-role-in-policy-decisions.html",
-      "published_date": "2026-11-12T20:42:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "NSIB: Aircraft door that fell off Abuja-Lagos flight had all locks open",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/11/nsib-releases-report-on-mid-air-detachment-of-abuja-lagos-aircraft-door/",
-      "published_date": "2026-11-12T20:30:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "2027: Tompolo leads grassroots mobilisation for Tinubu in Jigawa, Zamfara, unveils 56 vehicles",
-      "source": "Premium Times",
-      "url": "https://www.premiumtimesng.com/news/top-news/924776-2027-tompolo-leads-grassroots-mobilisation-for-tinubu-in-jigawa-zamfara-unveils-56-vehicles.html",
-      "published_date": "2026-11-12T20:30:19+00:00",
       "category": "Local Events"
     }
   ]
